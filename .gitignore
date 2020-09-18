@@ -1,0 +1,4 @@
+*.pdf
+/sources
+/pdf
+.DS_Store
