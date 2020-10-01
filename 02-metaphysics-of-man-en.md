@@ -46,4 +46,38 @@ In sum: all created realities (which includes everything with which we have habi
 
 For the moment, that is enough of an introduction to intrinsic metaphysical principles to begin to apply them to our subject of interest, which is man—who is the only creature that makes use of logic: the sub-human creatures are incapable of it, and angels do not need it. A human being is, like our oak tree, evidently something that *subsists*: a substance. And therefore, like any substance, he is composed of an *essence* (an ontological principle that makes him who he is) and various *accidents*, which are his perfections. His essence is itself composed of ontological principles that Aristotle calls *prime matter* and *substantial form*—in man, we know these as the *body* and the *soul*—a topic that you will study at length in cosmology (the philosophy of nature) and metaphysics.
 
-For the purposes of our discussion about logic, it is sufficient to examine certain types of perfections: faculties, *habitus*, and operations.
+For the purposes of our discussion about logic, it is sufficient to examine certain types of perfections: faculties, *habitus*, and operations. 
+
+### Faculties
+
+It should be obvious from experience that the substances we encounter do not merely “be”; they also “do”—that is, they perform a whole series of actions (which we will learn to call *operations*). Even inanimate objects at least exert forces (for instance, the force that a rock exerts when I stub my toe against it), emit or reflect radiation (which is how we can see things), and can be made to interact with other substances (for instance, think of all the chemical reactions that occur constantly). Evidently, as we go up the scale to nobler creatures, such as plants, animals, and humans, the number and perfection of the operations performed increases. For example, consider those substances that enjoy vegetative life:[^plants] they have available to them a whole series of operations that are unknown to inanimate objects, such as growth, nutrition, and reproduction. Animals go a step further: they display sensitive knowledge and appetite, and most animals can move from place to place on their own power. Finally, humans, aptly called *rational animals*, can do everything that plants and animals can do, but in addition, we are able to know things in themselves, and to love them for their own sake.
+
+[^plants]: In philosophy, we commonly refer to such substances as *plants*, but I would like to emphasize that in this context we understand the term in a philosophical, not a biological, sense; that is, corporeal substances that are capable of growth, nutrition, and reproduction, but do not enjoy sensitive or rational operations. Thus, these substances include many that are not in the plant kingdom as biology defines it, such as bacteria, archaea, fungi, and protists.
+
+It may be less obvious at first glance, but, save in the case of God[^essenceofGod], the raw essence[^rawessence] of a substance is incapable of acting or doing anything on its own. In order for the substance to act in any way, it first needs a *capacity to act* in that way, and that capacity is itself an accident or perfection of the substance. For example, in order for an animal to move from place to place, it must first have a capacity for locomotion (which in higher animals entails a muscular system and a system of motor nerves). Similarly, our capacity to know things in themselves, which, as we saw, is called the *intellect*, is absolutely necessary in order for us to make acts of knowledge. In fact, all of our operations have their root in some intrinsic capacity: our physical movement, our senses, our memory, our imagination, our emotions, our intellectual knowledge, and our acts of love. In general, any capacity that produces an operation can be called an *active potency* or *active power*. If the active potency produces an operation that only an animal (rational or irrational) can do, we call it a *faculty*.
+
+[^essenceofGod]: In Thomistic and Aristotelian philosophy, God is perfectly identical with both His essence and His operations. God has no accidents, or more precisely, every perfection that for a creature would be an accident, in God, is His very Essence. 
+
+[^rawessence]: Remember, when we distinguish the *essence* from the *substance* in metaphysics, by “essence” we mean that ontological principle that serves as the subject or substrate of the accidents. (Although we have not yet discussed it here, is also the potential principle that receives the act of being. You will learn more about that in your course on metaphysics.)
+
+\begin{table}[ht]
+\begin{center}
+\caption{Some operations and their corresponding faculties.}
+\label{tab:table2}
+\begin{tabular}{l|l}
+\toprule
+Operation & Faculty \\
+\midrule
+Sensation of material entities as regards color & Sight \\
+Sensation of material entities as regards sound & Hearing \\
+Recollection of past benefits and dangers & Sensitive memory \\
+Composing coherent spatial representations & Common sense \\
+Perceiving spatial relations, continuity, and benefit or harm & \emph{Vis cogitativa} \\
+Desiring the easy and pleasurable good & Concupiscible appetite \\
+Desiring the difficult and arduous good & Irascible appetite \\
+Knowing things as they are & Intellect \\
+Loving things for their own sake & Will \\
+\bottomrule
+\end{tabular}
+\end{center}
+\end{table}

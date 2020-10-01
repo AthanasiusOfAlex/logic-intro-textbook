@@ -11,6 +11,7 @@ func getCommandPath(forCommand command: String) -> URL? {
     
     do {
         try task.run()
+        task.waitUntilExit()
     } catch {
         return nil
     }
@@ -63,7 +64,7 @@ do {
         let outputArgument = outputFileURL.deletingPathExtension().path
         
         // md2pdf name.md -o pdfPath/name.pdf
-        task.arguments = [inputArgument, "-o", outputArgument]
+        task.arguments = [inputArgument, "-o", outputArgument, "-t", "/Users/louismelahn/templates/logic-textbook.latex"]
         do {
             try task.run()
             task.waitUntilExit()
