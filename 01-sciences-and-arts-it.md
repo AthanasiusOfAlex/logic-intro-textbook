@@ -158,4 +158,4 @@ Con logica, però, usiamo il nostro intelletto per studiare le opere prodotte da
 [^docens]: Dal latino *doceo*, «insegnare».
 [^utens]: Dal latino *utor*, «usare o impiegare».
 
-In sintesi: dalla discussione precedente si conclude che la logica è allo stesso tempo una scienza strumentalmente speculativa, una scienza modalmente pratica, e un'arte, il cui oggetto sono le opere della nostra ragione. Quello che rimane da discutere più in dettaglio, quindi, è l' *oggetto* della logica, che faremo dopo una breve discussione su alcuni concetti chiave dell'antropologia filosofica che sono utili per comprendere ciò che abbiamo appena passato.
+In sintesi: dalla discussione precedente si conclude che la logica è allo stesso tempo una scienza strumentalmente speculativa, una scienza modalmente pratica, e un'arte, il cui oggetto sono le opere della nostra ragione. Quello che rimane da discutere più in dettaglio, quindi, è l'*oggetto* della logica, che faremo dopo una breve discussione su alcuni concetti chiave dell'antropologia filosofica che sono utili per comprendere ciò che abbiamo appena passato.
