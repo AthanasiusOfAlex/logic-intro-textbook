@@ -1,4 +1,4 @@
-# Logic as a Science and and Art
+# Logic as a Science and an Art
 
 ## Sciences vs. Disciplines
 

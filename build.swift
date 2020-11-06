@@ -63,8 +63,11 @@ do {
         let outputFileURL = outputDirectoryURL.appendingPathComponent(file)
         let outputArgument = outputFileURL.deletingPathExtension().path
         
+        let templateURL = currentWorkingURL.appendingPathComponent("logic-textbook.latex")
+        let templateArgument = templateURL.path
+        
         // md2pdf name.md -o pdfPath/name.pdf
-        task.arguments = [inputArgument, "-o", outputArgument, "-t", "/Users/louismelahn/templates/logic-textbook.latex"]
+        task.arguments = [inputArgument, "-o", outputArgument, "-t", templateArgument]
         do {
             try task.run()
             task.waitUntilExit()
