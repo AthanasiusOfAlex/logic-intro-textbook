@@ -64,6 +64,8 @@ It may be less obvious at first glance, but, save in the case of God[^essenceofG
 \begin{center}
 \caption{Some operations and their corresponding faculties.}
 \label{tab:table2}
+{
+\footnotesize
 \begin{tabular}{l|l}
 \toprule
 Operation & Faculty \\
@@ -80,6 +82,7 @@ Knowing things as they are & Intellect \\
 Loving things for their own sake & Will \\
 \bottomrule
 \end{tabular}
+}
 \end{center}
 \end{table}
 
@@ -149,8 +152,8 @@ Similarly, if we look at an art—say, carpentry—the *subject* is, of course, 
 \label{tab:subject-operation-object}
 {
 \disablehyphenation
-\small
-\begin{tabular}{l|l|>{\raggedright}p{0.26\linewidth}|p{0.26\linewidth}}
+\footnotesize
+\begin{tabular}{l|l|>{\raggedright}p{0.25\linewidth}|p{0.25\linewidth}}
 \toprule
  & Subject & Operation & Object \\
 \midrule

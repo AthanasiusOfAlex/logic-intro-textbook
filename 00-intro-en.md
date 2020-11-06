@@ -1,4 +1,7 @@
-# Analytic Introduction to Logic {-}
+\frontmatter
+
+\title{Analytic Introduction to Logic}
+\maketitle
 
 If you are reading this text, it is because you are taking a course on
 *logic*. Most of us understand intuitively that logic has something to
@@ -18,3 +21,10 @@ all: namely, to lay the groundwork for the study of metaphysics.
 
 \[Make summary of outline here\]
 
+\mainmatter
+
+\counterwithin{figure}{chapter}
+\counterwithin{table}{chapter}
+
+\renewcommand\thetable{\thechapter.\arabic{table}}
+\renewcommand\thefigure{\thechapter.\arabic{figure}}  

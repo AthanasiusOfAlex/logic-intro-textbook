@@ -63,7 +63,7 @@ do {
         let outputFileURL = outputDirectoryURL.appendingPathComponent(file)
         let outputArgument = outputFileURL.deletingPathExtension().path
         
-        let templateURL = currentWorkingURL.appendingPathComponent("logic-textbook.latex")
+        let templateURL = currentWorkingURL.appendingPathComponent("templates").appendingPathComponent("logic-textbook.latex")
         let templateArgument = templateURL.path
         
         // md2pdf name.md -o pdfPath/name.pdf

@@ -1,0 +1,39 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+
+$if(fontsize)$
+\documentclass[book,$fontsize$,a4paper,oneside]{memoir}
+$else$
+\documentclass[book,12pt,a4paper,oneside]{memoir}
+$endif$
+
+\usepackage{xparse}
+\usepackage{etoolbox}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{lmelahnDefaultFonts}
+\usepackage{longtable,booktabs}
+\usepackage{multicol}
+\usepackage[xetex]{xcolor}
+\usepackage[xetex]{graphicx}
+\usepackage{polyglossia}
+
+
+$if(mathfont)$
+\setmathfont{$mathfont$}
+$endif$
+
+%% Uncomment the following code if you want table and figure
+%% numbers to follow the chapters in the “article” version of
+%% Memoir.
+%% E.g., the second table in chapter three will be Table 3.2
+\addtodef{\mainmatter}{
+  \counterwithin{figure}{chapter}
+  \counterwithin{table}{chapter}
+  \renewcommand\thetable{\thechapter.\arabic{table}}
+  \renewcommand\thefigure{\thechapter.\arabic{figure}}
+}
+
+\begin{document}
+    $body$
+\end{document}
