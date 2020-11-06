@@ -42,8 +42,9 @@ Indipendentemente da come usiamo il termine *sostanza* — sia come supposito ch
 
 Insomma: tutte le realtà create (che comprendono tutto ciò con cui abbiamo un contatto abituale) sono giustamente chiamate *entia* o enti, perché *sono*. Le sostanze sono gli unici enti a *sussistere*, o ad essere *da soli*, e quindi sono gli enti per eccellenza. Le sostanze sono costituite da un principio intrinseco, detto *essenza*, che dà ad ogni sostanza la sua definizione (cioè l'essenza fa di quella sostanza ciò che è), e l'essenza è composta con varie perfezioni o attributi detti *accidenti*. Gli enti sono sempre reali; tutto ciò che manca di essere interamente *non* è propriamente detto ente. (Questa idea diventerà importante qui di seguito, quando parleremo di *entia rationis*).
 
-# La composizione intrinseca dell'uomo: le facoltà, gli *habitus*, e le operazioni
+## La composizione intrinseca dell'uomo: le facoltà, gli *habitus*, e le operazioni
 
 Per il momento, è sufficiente questa introduzione ai principi metafisici intrinseci per cominciare ad applicarli al nostro soggetto di interesse, che è l'uomo — che è l'unica creatura che fa uso della logica: le creature subumane ne sono incapaci, e gli angeli non ne hanno bisogno. L'essere umano è, come la nostra quercia, evidentemente qualcosa che *sussiste*: una sostanza. E quindi, come ogni sostanza, è composto da una *essenza* (un principio ontologico che lo rende ciò che è) e da vari *accidenti*, che sono le sue perfezioni. La sua stessa essenza è composta da principi ontologici che Aristotele chiama *materia prima* e *forma sostanziale* — nell'uomo, li conosciamo come il *corpo* e *l'anima*, un argomento che studierete a lungo nella cosmologia (la filosofia della natura) e nella metafisica.
 
 Ai fini della nostra discussione sulla logica, è sufficiente esaminare alcuni tipi di perfezionamenti: le facoltà, gli *habitus* e le operazioni.
+

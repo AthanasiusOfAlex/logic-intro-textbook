@@ -1,5 +1,4 @@
-Analytic Introduction to Logic
-==============================
+# Analytic Introduction to Logic {-}
 
 If you are reading this text, it is because you are taking a course on
 *logic*. Most of us understand intuitively that logic has something to
@@ -18,3 +17,4 @@ reasons why logic is taught at the beginning of philosophical studies at
 all: namely, to lay the groundwork for the study of metaphysics.
 
 \[Make summary of outline here\]
+

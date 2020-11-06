@@ -159,3 +159,4 @@ With logic, however, we use our intellect to study works produced by that same i
 [^utens]: From the Latin *utor*, “to use or employ.”
 
 In sum: we conclude from the foregoing discussion that logic is simultaneously an instrumentally speculative science, a modally practical science, and an art, whose object is the works of our reason. What remains to discuss in greater detail, therefore, is the *object* of logic, which we will do after a brief discussion of some key concepts in philosophical anthropology that are helpful for understanding what we have just gone over.
+
