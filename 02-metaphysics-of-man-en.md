@@ -180,10 +180,55 @@ Figure \ref{fig:substance-operation} illustrates the hierarchical relationship a
 
 Putting all this together, all operations emanate from the substance’s *actus essendi*. Those operations that are entirely intrinsic trace all of their actuality to this act of being; others require the assistance of an outside power. Regardless, operations are produced by the mediation of substance’s active powers. In sentient and rational beings, some of these powers—called *faculties*—are capable of a further perfection that we call operative *habitus*. Thus, a substance’s operations pass through, as it were, two and possibly three filters: the essence itself (which already sets certain limits to what kinds of operations are possible), the faculties that produce the operations, and, where this is possible, the *habitus* that perfect the faculties.
 
-
 ![An illustration how a substance produces operations. \label{fig:substance-operation}](images/substance-operation-graphic.pdf)
 
-## The Operations of the Intellect
+As a final note, every operation, evidently, produces an effect, which we call its *work* (*operatum*) or *product*. This work can be extrinsic to the substance that has produced it—for instance, the chairs and tables produced by the efforts of a carpenter—or else it can be immanent—such as the internal effects of the actions of our intellect and will. It is important to note (and I will reiterate this point later on) that *the works or products of an operation are distinct from the operation itself*. When it comes to logic, we will see that logic studies the *works* of the intellect, not the *operations* of the intellect, which would pertain to philosophical anthropology
 
-The object of this short primer on the metaphysics of man is, of course, to understand the three operations that most closely respect logic, that is, the operations of the intellect. 
+## The Operations and Works of the Intellect
 
+Even though the object of logic is the *works* of reason, it is still good for us to have an overview of what the intellect does. Fundamentally, the intellect (more specifically, what Aquinas calls the “possible intellect”) is capable of accomplishing two kinds of operation: it can discover *what* something is, and it can discern *whether* something is the case. We say in more precise philosophical terms, that the intellect can discover a thing’s *quiddity* (from the Latin *quid est*, “What is it?”), and it can make a judgment regarding that quiddity’s *being*—that is, whether, in fact, that quiddity *is* or *is not*.
+
+### Simple Apprehension 
+
+The species of intellectual operation that discerns *what* something is, we term the *simple apprehension*. To illustrate how this operation works, we can do a simple exercise. Suppose I attempt to make the following statement:
+
+> Ice cream.
+
+\noindent This “statement” surely conveys some information to the reader; “ice cream” is a idea that we all understand. However, these words, by themselves, are insufficient to make an assessment regarding an actual state of affairs. You have no idea whether I am saying that I enjoy ice cream, or that chocolate ice cream is my favorite flavor, or that the ice cream that I have served you is melting. With the words “ice cream,” I convey merely a *notion*, an answer to the question “What is it?” 
+
+In our discussion above, we have already seen something that answers the question “What is it?”: namely, the substance, or more precisely, the *essence*—the ontological principle in a substance that gives it its definition. Through a process that you will see in your other courses, a faculty that Aquinas calls the active intellect is able to *abstract* whatever is intelligible from the material entities that we encounter. This intelligible notion or definition (Latin: *ratio*) is what actually answers the question “What is it?” in our intellect, and thus we give it the technical name *quiddity* (Latin: *quidditas*). It should be noted that the quiddity is not a distinct “thing”: it is not distinct from the object that is know. Rather, it is is merely that object *inasmuch as it is intelligible* to us.
+
+Ontologically speaking, only the substance can strictly be an “essence”; that is, only a subsistent entity can answer the question “What is it?” and indeed, material substances are the objects that our intellects most readily apprehend. However, we are *also* able to understand other entities, such as the accidents of substances, and (through the use of negative judgments and analogy) even of entities that transcend the material world, or that can only be understood by analogy. As a consequence, in *logic* (but not in metaphysics), it is necessary to expand our idea of “quiddity” to include notions that are not substances, and even some notions that are not completely unified—notions that are *analogical* rather than *univocal*, as we will see in class.
+
+Thus, the simple apprehension is what enables us to understand *quiddities*, and the product or work of that operation we call the *concept*[^conceptus]. As we will see in class, the concept can also be called the *universal* (technically, the *universale in praedicando*), because a single concept allows us to know the quiddity of multiple individual things; and it can be called an *intention*[^intentio], because it leads us toward the thing that is known. Ontologically, a concept is a “passion of the soul” (Latin: *passio animae*)—that is, the immanent effect on the soul of the act of apprehending. Since the concept is one of the objects of our study, we will study it in much greater detail in class.
+
+[^conceptus]: From the Latin *conceptus*, that which has been conceived.
+[^intentio]: From the Latin roots *in* (towards) and *tendo* (to stretch out, to proceed, to strive).
+
+### Judgement
+
+Clearly, the simple apprehension by itself leaves us with very incomplete knowledge: although it answers the question *what*, but itself, the apprehension tells us nothing about the actual state of affairs. Going back to our example, I can use the concept “ice cream” to make a series of propositions like the following:
+
+* This (what I have in my hand) is ice cream.
+* The ice cream is melting.
+* The ice cream has a chocolate flavor.
+* I ate ice cream yesterday.
+
+\noindent Notice that in each statement, I am uniting two distinct concepts[^compound-vs-simple]—or as Aristotle would say, I am *composing* them. That is, I affirming that the concept on the right-hand side (which we call the *predicate*) truly *is* a reality that pertains to the concept on the left-hand side (which we call the *subject*). Subject and predicate, in this case, are united, either explicitly (as in the first two statements) or implicitly (in the last two) by the verb *to be*, which we call the *copula*. By composing subject and predicate in this way, I am affirming the *being* of the predicate in the subject.
+
+[^compound-vs-simple]: Observant readers will note that although each proposition has a single subject and a single predicate, some of the predicates are, in fact, *compound*—that is, they unite two concepts into one. For example, if I were to draw out the last proposition into its elementary enunciations, they would be something like: “I ate; the eating took place yesterday; ice cream was eaten.” Our language makes shortcuts that greatly simplify the expression of our judgments.
+
+However, suppose that instead, I make the following statements:
+
+* This (what I have in my hand) is not ice cream.
+* The ice cream is not melting.
+* The ice cream does not has a chocolate flavor.
+* I did not eat ice cream yesterday.
+
+As before, I have taken two concepts, which can be termed *subject* and *predicate*; however, this time, I have *denied* the being of the predicate. Logically speaking, instead of composing subject and predicate, I have *divided* or *separated* them.
+
+From the discussion above, I think it is clear why Aristotle and Aquinas call this operation *compositition and division*, because it always takes two concepts—a subject and a predicate—and either unites or separates them. It can also be termed the “judgment” (and this was the terminology preferred in the Modern period). Like the simple apprehension, the judgment produces a work that is immanent to the soul, which we call an *enunciation*. Just as concepts are represented by terms, enunciations are represented verbally as *propositions*, like the statements I made above. It should be clear that it is only after making a judgment and producing an enunciation that it makes sense to talk about truth and falsehood. Those enunciations are true that correspond to reality, and likewise, those that are in disagreement with reality are false. That is, if I affirm something that actually exists, then my affirmation is true; similarly, an enunciation denying something that does not exist is also true. However, if I affirm something nonexistent, or deny something that does exist, my enunciation is false. Once again, it is the *product* or *work*, immanent in the soul, that is the object of study of logic.
+
+### Reasoning
+
+(Note how there isn’t a third operation—just an immediate and an mediate way to exercise the second. They are not “really distinct” from one another.)
