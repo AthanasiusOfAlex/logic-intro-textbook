@@ -1,6 +1,6 @@
 # A Primer on the Metaphysics of Man
 
-In this chapter, we will explore some of the essentials of philosophical anthropology: the philosophical, or metaphysical, study of mankind.[^anthropology] We will do this for two reasons. First of all, although this course is designed primarily to study logic, it is also intended to be the reader’s first exposure to some of the terminology and ideas that will form the basis of their philosophical inquiry: for example, *ens*, *substance*, *accident*, *faculty*, *habitus*, and *operation*. Second, by laying the philosophical bases, it will be much easier to understand the next chapter, in which we discuss what the *object* of a faculty or *habitus* is in general, and explain in detail the object of logic in particular.
+In this chapter, we will explore some of the essentials of philosophical anthropology: the philosophical, or metaphysical, study of mankind.[^anthropology] We will do this for two reasons. First of all, although this course is designed primarily to study logic, it is also intended to be the reader’s first exposure to some of the terminology and ideas that will form the basis of their philosophical inquiry: for example, *ens*, *substance*, *accident*, *faculty*, *habitus*, and *operation*. Second, by laying the philosophical bases, it will be much easier to understand the definition of logic—which depends on  chapter, in  we discuss the definition of logic— the *object* of a faculty or *habitus* is in general, and explain in detail the object of logic in particular.
 
 [^anthropology]: We call it *philosophical* anthropology to distinguish it from *cultural* anthropology, which is empirical, rather than philosophical, in nature.
 
@@ -63,9 +63,8 @@ It may be less obvious at first glance, but, save in the case of God[^essenceofG
 \begin{table}[ht]
 \begin{center}
 \caption{Some operations and their corresponding faculties.}
-\label{tab:table2}
-{
-\footnotesize
+\label{tab:operations-and-faculties}
+\begin{adjustbox}{max width=\textwidth}
 \begin{tabular}{l|l}
 \toprule
 Operation & Faculty \\
@@ -82,7 +81,7 @@ Knowing things as they are & Intellect \\
 Loving things for their own sake & Will \\
 \bottomrule
 \end{tabular}
-}
+\end{adjustbox}
 \end{center}
 \end{table}
 
@@ -152,7 +151,7 @@ Similarly, if we look at an art—say, carpentry—the *subject* is, of course, 
 \label{tab:subject-operation-object}
 {
 \disablehyphenation
-\footnotesize
+\begin{adjustbox}{max width=\textwidth}
 \begin{tabular}{l|l|>{\raggedright}p{0.25\linewidth}|p{0.25\linewidth}}
 \toprule
  & Subject & Operation & Object \\
@@ -168,6 +167,7 @@ Carpentry & Intellect & Actions to shape wood & Wood to be shaped \\
 Logic & Intellect & Apprehension, judgment, reasoning & Works of reason \\
 \bottomrule
 \end{tabular}
+\end{adjustbox}
 }
 \end{center}
 \end{table}
@@ -227,8 +227,41 @@ However, suppose that instead, I make the following statements:
 
 As before, I have taken two concepts, which can be termed *subject* and *predicate*; however, this time, I have *denied* the being of the predicate. Logically speaking, instead of composing subject and predicate, I have *divided* or *separated* them.
 
-From the discussion above, I think it is clear why Aristotle and Aquinas call this operation *compositition and division*, because it always takes two concepts—a subject and a predicate—and either unites or separates them. It can also be termed the “judgment” (and this was the terminology preferred in the Modern period). Like the simple apprehension, the judgment produces a work that is immanent to the soul, which we call an *enunciation*. Just as concepts are represented by terms, enunciations are represented verbally as *propositions*, like the statements I made above. It should be clear that it is only after making a judgment and producing an enunciation that it makes sense to talk about truth and falsehood. Those enunciations are true that correspond to reality, and likewise, those that are in disagreement with reality are false. That is, if I affirm something that actually exists, then my affirmation is true; similarly, an enunciation denying something that does not exist is also true. However, if I affirm something nonexistent, or deny something that does exist, my enunciation is false. Once again, it is the *product* or *work*, immanent in the soul, that is the object of study of logic.
+From the discussion above, I think it is clear why Aristotle and Aquinas call this operation *composition and division*, because it always takes two concepts—a subject and a predicate—and either unites or separates them. It can also be termed the “judgment” (and this was the terminology preferred in the Modern period). Like the simple apprehension, the judgment produces a work that is immanent to the soul, which we call an *enunciation*. Just as concepts are represented by terms, enunciations are represented verbally as *propositions*, like the statements I made above. It should be clear that it is only after making a judgment and producing an enunciation that it makes sense to talk about truth and falsehood. Those enunciations are true that correspond to reality, and likewise, those that are in disagreement with reality are false. That is, if I affirm something that actually exists, then my affirmation is true; similarly, an enunciation denying something that does not exist is also true. However, if I affirm something nonexistent, or deny something that does exist, my enunciation is false. Once again, it is the *product* or *work*, immanent in the soul, that is the object of study of logic.
 
 ### Reasoning
 
-(Note how there isn’t a third operation—just an immediate and an mediate way to exercise the second. They are not “really distinct” from one another.)
+When we make a judgment regarding being, we can arrive at it in two ways: either immediately, simply by seeing it, or by the mediation of judgments that we have previously made. For example, any judgment that I make regarding things that I can verify directly with my senses—say, the fact that the pine tree outside my window is green—is immediate. The intellect, by acts of apprehension, generates the concepts “pine tree” and “green,” and by means of a judgment constructs a relation of attribution between them, thus producing an enunciation: “The pine tree is green.” In other words, producing that enunciation does not require anything except the apprehension of those concepts and verifying that they do, in fact, exist in reality. Suppose, however, that having learned about the biology of pine trees, I make the following enunciation: “Pine trees are green because the chloroplasts in the pine needles predominantly absorb all of the wavelengths found in visible light *except* green.”[^composed-enunciation] There is no direct way to verify the existence of chloroplasts, still less the fact that they tend to absorb red and blue light more than green light. Reaching this conclusion requires highly specialized instruments and a solid foundation in cell biology. In short, it is impossible to make a judgment regarding the being of the chloroplasts without extensive use of *previously established enunciations.*
+
+[^composed-enunciation]: Attentive readers will note that this enunciation, unlike the first one, is actually a *compound* enunciation that includes a number of simpler ones joined together.
+
+The discursive process that we use to make judgments that rely on previously obtained knowledge is called *reasoning* or *argumentation* (Latin: *ratiocinium*). As we will see in the course, argumentation entails constructing a series of *arguments*, which consist of two previously known enunciations called *premises* that are linked by a concept in common called the *middle term*. By linking the two enunciations and dropping the middle term, we produce a third enunciation called the *conclusion*. As with concepts and enunciations, arguments are internal, intelligible passions of the soul that are distinct from their external, verbal expressions, which we call *syllogisms*. For example,
+
+> All *men* are mortal.  
+> John is a *man*.  
+> Therefore, John is mortal.
+
+\noindent Of course reasoning made in real life will involve a great many arguments, but every reasoning can be broken down to simple arguments like this one, which, in its verbal expression, is called a *categorical syllogism*. Note that the intellect is not employing a third operation, exactly; it is still using the second operation, the judgment. What changes is merely the means that it uses to arrive at its judgment on being: that is, previous knowledge, as opposed to direct evidence.
+
+\begin{table}[ht]
+\begin{center}
+\caption{A summary of the operations of the intellect, their work, and what they enable us to understand.}
+\label{tab:operations-and-works-of-reason}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{l@{\hskip -50pt}l@{\hskip 3pt}ll@{\hskip 3pt}l@{\hskip 3pt}l}
+\toprule
+Operation & & & Work & & What It Understands \\
+\midrule
+Simple apprehension & & & Concept & & \emph{What} something is (quiddity) \\
+\multirow{2}{*}{Judgment} & \ldelim\{{2}{3mm} & immediate & Enunciation & \ldelim\}{2}{3mm} & \multirow{2}{*}{\emph{Whether} something is (being)} \\
+ & & mediate & Argument & & \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{center}
+\end{table}
+
+Table \ref{tab:operations-and-works-of-reason} summarizes the role of the two operations of the intellect and the three works they produce.[^three-operations] These works—concepts, enunciations, and arguments—form the basis of the three branches of logic: logic of the concept, logic of the enunciation, and logic of the argument (or syllogism). At this point, it bears reiterating: *logic studies the works of reason, not its operations*. What we will be discussing together are concepts, enunciations, and arguments; it is not our task, in this course, to consider apprehension and judgment, except insofar as these are the *cause* of the works. In fact, these works form the *object*—or, as we will learn to call it, the *material object* of logic. We will discuss the object of logic in detail in the next chapter.
+
+[^three-operations]: According to some logic textbooks, there are *three* operations of the intellect: apprehension, judgment, and reasoning. In my opinion, this is not entirely correct. It is better to say that there are two operations apprehension and judgment. However, in order to arrive at some judgments, arguments must be employed.
+

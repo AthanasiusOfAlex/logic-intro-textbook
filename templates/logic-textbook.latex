@@ -17,7 +17,9 @@ $endif$
 \usepackage[xetex]{xcolor}
 \usepackage[xetex]{graphicx}
 \usepackage{polyglossia}
-
+\usepackage{multirow}
+\usepackage{bigdelim}
+\usepackage{adjustbox}
 
 $if(mathfont)$
 \setmathfont{$mathfont$}
