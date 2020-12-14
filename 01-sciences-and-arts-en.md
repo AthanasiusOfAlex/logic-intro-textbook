@@ -20,7 +20,7 @@ As you can probably tell from the foregoing discussion, logic is also a science,
 
 [^plural]: The plural of the Latin word *habitus* is also *habitus*.
 
-### The Essential Characteristics of any Science
+## The Essential Characteristics of any Science
 
 Taking its cue from Aristotle’s seminal work on epistemology, the *Posterior Analytics*, Medieval thinkers have generally described science (ἐπιστήμη) as *cognitio certa per causas*:[^posterior-analytics] in other words, what distinguishes a science from mere opinion (Greek: δόξα, *dóxa*) is that one is able to link the individual facts known to their causes.
 
@@ -56,7 +56,7 @@ In summary: a science or ἐπιστήμη is an intellectual *habitus* that hel
 
 A couple of things follow from this. First of all, in order to determine whether a given intellectual *habitus* is a science, it is sufficient to show that it has these four characteristics. We will revisit this topic below. Second, it is not possible for science or ἐπιστήμη, in the strict sense of the term, to be false; that is, false information is the result, not of science, but of erroneous opinion (δόξα).
 
-### Speculative vs. Practical Sciences
+## Speculative vs. Practical Sciences
 
 We are not, however quite through with our examination of science: as it turns out, sciences come in different kinds, depending on their object of study and method. By now, you may have intuited that by defining science as the ancient and Medieval philosophers did—as *scientia* or ἐπιστήμη, that is, as an intellectual *habitus* whose purpose is to know the properties of a given object of study according to its causes—we are including under the banner “science” many more fields than are customarily placed there. By this definition, “science” is not limited to empirical fields such as biology, chemistry, or physics, but rather includes areas of study as diverse as mathematics, metaphysics, theology, and ethics. It is sufficient that each field have a specific and unique object of study (the *genus subiectum*) and appropriate methods for it.
 
@@ -87,7 +87,7 @@ Mathematics & — \\
 
 On the other hand, the practical sciences listed in the right-hand column all have a specific kind of operation (that is, a kind of action), in mind. What they produce is still a kind of *knowledge*, but in contrast to speculative sciences, for practical sciences, knowledge is not an end in itself—it is a means to action. For example, studying physics by itself will not be enough to tell you how to build a bridge; for that, you would need to study mechanical engineering. You need to learn how to apply the general principles discovered in physics to the more concrete problem of how to build structures. Similarly, studying biology—even the human biology—by itself is insufficient to discover how to cure disease; that is the task of medical science. As you can probably tell from these examples, many practical sciences can be pared with a speculative science from which they are derived. In a similar vein—although it may not be obvious at first—ethics, the study of human actions (actions that involve the free choices made by the will) in order to discern whether they are right or wrong—is also in the column of practical sciences. This is so, because the entire purpose of ethics is to direct our actions: we wish to discover which behaviors are compatible with human happiness, and which ones are not—in other words, the knowledge obtained through ethics is a means to the end of behaving well.
 
-### Is Logic a Science?
+## Is Logic a Science?
 
 It is now time to turn our attention once more to our topic—logic—and to apply the principles we have been discussing. As we saw above, logic is clearly an academic discipline and field of study (at least when taken in the abstract), but the question now arises: is logic a *science* like biology, chemistry, and mathematics? In order to answer this question, we will need to apply our definition: a science is a *cognitio certa per causas*.
 
@@ -103,7 +103,7 @@ In fact, we should carefully define our terms, here, because there are two disti
 
 We must, therefore, conclude that logic is indeed a science.
 
-### *Logica utens* vs. *logica docens*
+## *Logica utens* vs. *logica docens*
 
 Based on our previous discussion, the another question arises: is logic a *speculative* science or a *practical* science? A we saw, the purpose of a speculative science is knowledge for its own sake. Logic certainly seems to fit the bill. St. Thomas Aquinas in his *Summa theologiae* describes the purpose of logic in this way:
 
@@ -123,7 +123,7 @@ With logic, however, the situation is a bit different. Since logic studies the v
 
 In any case, it is clear that, in addition to being a speculative science, logic is also a practical science: although logic is speculative insofar as its end goal is knowledge, its manner (or *mode*) of achieving that goal is practical: said in other terms, logic teaches us *how to know*. For this reason, logic is said to be a *modally practical* science.
 
-### Is Logic Also an Art (τέχνη)?
+## Is Logic Also an Art (τέχνη)?
 
 Attentive readers will note that Aquinas, when describing the goals of logic, does a curious thing: he calls it an *art* (*ars*; in Greek: τέχνη or *téchne*). That is surprising, because we have just spent the last few pages demonstrating that logic is a *science*. It may also surprise readers that Aquinas calls it an “art” along with painting, music, sculpture, and theater. In order to understand this, it is best to take a moment to understand what Aristotle and Aquinas meant by *art* or τέχνη.[^techne]
 
@@ -149,14 +149,39 @@ So, what about logic? Could logic be classified as one of the arts? To summarize
   
 \noindent Does logic qualify? (1) Regarding the first condition, as we shall see, the task of logic is to take the works of our reason (concepts, enunciations, and arguments) and to construct relations between them according to very strict and determined rules. Even though our reason is ordered to the truth, there is nothing preventing us from getting the relations between them incorrect: that is, we can fall into error and falsehood. Therefore, these works of reason constitute the *indeterminate matter* of logic. (2) Regarding the second condition, among all of the possible relations among the works of our reason, logic constructs—using *universal and determined rules*—the *correct* relations, the ones that will produce *true* knowledge. It follows that logic is indeed an art: a liberal art, evidently, as it does not produce a external product.
 
-### How Logic Manages to Be All Three at Once
+## How Logic Manages to Be All Three at Once
 
-I just want to finish this section with a few more observations about the different *habitus* that we have been discussing. Ordinarily, speculative sciences, practical sciences, and arts can be clearly distinguished from one another, even when their subject matter is closely related. Continuing the example I mentioned above, human biology is the speculative science at the root of all medical matters; medical science is the practical science that applies the knowledge of human biology to the treatment of disease; and medicine is the art that applies medical science to concrete acts of treatment. Three distinct *habitus* are at play here, because neither of the two applications is trivial. A surgeon, for example, can hardly expect to be sufficiently trained simply by acquiring the speculative science of human biology. In fact, not even detailed knowledge of medical science is enough: he can spend years learning *how* surgeries are done, and yet be completely unprepared for performing an actual surgery. In short, he does not become a surgeon without first acquiring the art of surgery—which in this case implies not only speculative and practical knowledge, but also a training in the coordination of the hands. In other words, what renders the three *habitus* distinct from one another is that there is, if you will, a considerable gap to close between the speculative science and the practical science, and between the practical science and the art. 
+Ordinarily, speculative sciences, practical sciences, and arts can be clearly distinguished from one another, even when their subject matter is closely related. Continuing the example I mentioned above, human biology is the speculative science at the root of all medical matters; medical science is the practical science that applies the knowledge of human biology to the treatment of disease; and medicine is the art that applies medical science to concrete acts of treatment. Three distinct *habitus* are at play here, because neither of the two applications is trivial. A surgeon, for example, can hardly expect to be sufficiently trained simply by acquiring the speculative science of human biology. In fact, not even detailed knowledge of medical science is enough: he can spend years learning *how* surgeries are done, and yet be completely unprepared for performing an actual surgery. In short, he does not become a surgeon without first acquiring the art of surgery—which in this case implies not only speculative and practical knowledge, but also a training in the coordination of the hands. In other words, what renders the three *habitus* distinct from one another is that there is, if you will, a considerable gap to close between the speculative science and the practical science, and between the practical science and the art. 
 
 With logic, however, we use our intellect to study works produced by that same intellect. Therefore, the distance that is present in other fields is absent in logic. We have already noted above that the speculative aspect of logic, as a science, cannot be really distinguished from its practical aspect. It is also clear from our discussion of arts that the *art* of logic cannot be really distinguished from the *science* of logic. In other words, formal, scientific instruction in logic—what is traditionally called *logica docens*[^docens]—being the study of an object that is intrinsic to the very intellect that studies it, results immediately in an improvement in the exercise of logic—what is traditionally called *logica utens*[^utens]. Later on in the course, you will learn to distinguish and relate different kinds of concepts, how to relate enunciations to one another, and how to form and analyze syllogisms. You will be able to use those skills immediately; there is no need for an *additional* science, nor for a distinct *art*, in order to apply them.
 
 [^docens]: From the Latin *doceo*, “to teach.”
 [^utens]: From the Latin *utor*, “to use or employ.”
 
-In sum: we conclude from the foregoing discussion that logic is simultaneously an instrumentally speculative science, a modally practical science, and an art, whose object is the works of our reason. What remains to discuss in greater detail, therefore, is the *object* of logic, which we will do after a brief discussion of some key concepts in philosophical anthropology that are helpful for understanding what we have just gone over.
+## How Logic is Necessary
 
+Before closing this chapter, I would like to say a word about the manner in which logic is a necessity. As Aquinas says, “the necessary is what which cannot not be.”[^defitition-of-necessity] In what way can logic be said to be necessary? Let us take a moment to unpack this idea further.
+
+Aquinas argues that there are fundamentally four kinds of necessity:[^four-species-of-causes]
+
+> In fact, one way that [being necessary] pertains to something is by an intrinsic principle, which can be either material, such as when we say that it is necessary for everything composed from contraries to be corrupted, or formal, such as when we say that it is necessary for the three angles of a triangle to be equal to two right angles. This is natural or absolute necessity.
+>
+> Another way that something is unable not to be is by an extrinsic principle, either an end or an agent. For instance, and end is necessary when something cannot be obtained without it, or else cannot be obtained well without it, as food is necessary to life and a horse for a journey. This is called the necessity of end, which is also sometimes called utility. There is necessity regarding agents when someone is forced by an agent, so that he is unable to do the contrary. This is the necessity of coercion.[^defitition-of-necessity]
+
+[^four-species-of-causes]: Attentive readers familiar with Aristotle will observe that each kind of necessity is closely tied to a corresponding species of *cause*: agent, formal, material, and final.
+
+[^defitition-of-necessity]: [Thomas Aquinas]{.smallcaps}, *Summa Theologiae*, Leon.\ vols. 4–12, Typographia Polyglotta S.C. de Propaganda Fide, Rome 1888–1906 (henceforth cited as *S.Th.*), I q.\ 82, a.\ 1, *responsum* (my translation).
+
+Let us look at each of these in turn:
+
+ * A *material* necessity has to do with the limitations that matter places on material beings: for example, fact that they take up space, must exist in a single location, and are corruptible.
+ * A *formal* necessity (also known as a *natural* or *absolute* necessity) stems from the substantial or accidental forms of an entity. As you will learn in the course, this kind of necessity can be of two kinds: it can stem directly from the entity’s essence, and thus be part of it’s very definition, as when we say that it is necessary for man to be rational; or else it can be a property that stems from that essence, as when we say that man is capable of laughing.
+ * A *final* necessity—which is probably the kind of necessity you are most familiar with—refers to the means required in order to obtain an end. It is what we generally refer to when we say that we “need” something. Aquinas observes that this kind of need can be *strict* or *moral*.[^moral-necessity] Food is an *strict* necessity for life. Taking a car to go somewhere 10 miles away is not a strict necessity, but unless you really enjoy walking, taking a car is much better. Thus it is a *moral* necessity.
+
+[^moral-necessity]: Don’t be confused by the term “moral”: it is taken in an etymological sense from the Latin term for custom (Latin: *mos*, *moris*). The idea is, people are accustomed to using suitable means that are not *strictly* necessary.
+    
+    As regards ethical norms, they are in fact necessities of end, because following them is a necessary condition for happiness. Nevertheless, not all of them are *strict* necessities. following the basic rules of human decency, such as obeying the Ten Commandments, is indeed a *strict* necessity for obtaining happiness (that is, *not* following them is incompatible with happiness); however, some actions—such as entering religious life for those who are called to it—are only necessary for *greater* happiness. The latter are “moral” necessities in the sense we are taking the term.
+
+What are we to say about the necessity of logic? First of all, as we saw, logic is essential for obtaining knowledge. *Natural logic*, which is another name for reason itself, is, according to our analysis, a *strict* necessity for knowing anything, as should be evident. As for obtaining systematic, scientific knowledge, it should be noted that such knowledge can be obtained in an imperfect way (in which we understand only the easiest conclusions of the science and our dominance of the material is fuzzy) or in a “perfect” way (in which all of the conditions of possessing a science are satisfied, with the necessary rigor). In order to get an imperfect grasp of a science, natural logic is sufficient—although a having logic-as-science is much better. In a word, logic-as-science is a *moral* necessity of end for this kind of knowledge. However, logic-as-science is a *strict* necessity of end for “perfect” scientific knowledge.
+
+In sum: we conclude from the foregoing discussion that logic is simultaneously an instrumentally speculative science, a modally practical science, and an art, whose object is the works of our reason. Natural logic is a strict necessity for all knowledge whatsoever. Logic studied scientifically is a great help for obtaining scientific knowledge, and absolutely essential for “perfect” scientific knowledge. What remains to discuss in greater detail, therefore, is the *object* of logic, which we will do after a brief discussion of some key concepts in philosophical anthropology that are helpful for understanding what we have just gone over.

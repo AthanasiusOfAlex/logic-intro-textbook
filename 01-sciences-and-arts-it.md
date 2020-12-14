@@ -20,7 +20,7 @@ Come si può probabilmente capire dalla discussione precedente, la logica è anc
 
 [^plural]: Il plurale della parola latina *habitus* è anche *habitus*.
 
-### Le caratteristiche essenziali di ogni scienza
+## Le caratteristiche essenziali di ogni scienza
 
 Prendendo spunto dal fondamentale lavoro di Aristotele sull'epistemologia, i pensatori medievali hanno generalmente descritto la scienza (ἐπιστήμη) come *cognitio certa per causas*[^posterior-analytics]: in altre parole, ciò che distingue una scienza dalla mera opinione (in greco: δόξα, *dóxa*) è che si è in grado di collegare i singoli fatti noti alle loro cause.
 
@@ -56,7 +56,7 @@ In sintesi: una scienza o ἐπιστήμη è un *habitus* intellettivo che aiu
 
 Due cose derivano da questo. Innanzitutto, per determinare se un dato *habitus* intellettivo è una scienza, è sufficiente dimostrare che ha queste quattro caratteristiche. Ripercorreremo questo argomento qui di seguito. In secondo luogo, non è possibile che la scienza o ἐπιστήμη, nel senso stretto del termine, sia falsa; cioè, la falsa informazione è il risultato, non della scienza, ma dell'opinione errata (δόξα).
 
-### Le scienze speculative e le scienze pratiche
+## Le scienze speculative e le scienze pratiche
 
 Non siamo, tuttavia, del tutto finiti con il nostro esame della scienza: come si è scoperto, le scienze sono di diversi tipi, a seconda del loro oggetto di studio e metodo. Ormai, si può aver intuito che definendo la scienza come facevano i filosofi antichi e medievali — come *scientia* o ἐπιστήμη, cioè come il *habitus* intellettivo, il cui scopo è conoscere le proprietà di un dato oggetto di studio secondo le sue cause — noi includiamo sotto la bandiera «scienza» molti più campi di quelli che vi sono abitualmente collocati. Per questa definizione, la «scienza» non si limita a campi empirici come la biologia, la chimica o la fisica, ma include aree di studio così diverse come la matematica, la metafisica, la teologia e l'etica. È sufficiente che ogni campo abbia uno specifico e unico oggetto di studio (il *genus subiectum*) e metodi appropriati.
 
@@ -87,7 +87,7 @@ Matematica  & — \\
 
 D'altra parte, le scienze pratiche elencate nella colonna di destra hanno tutte in mente un tipo specifico di operazione (cioè un tipo di azione). Quello che producono è ancora una specie di *conoscenza*, ma a differenza delle scienze speculative, per le scienze pratiche, la conoscenza non è un fine in sé — è un mezzo per agire. Per esempio, studiare la fisica da sola non sarà sufficiente per sapere costruire un ponte; per questo è necessario studiare ingegneria meccanica. È necessario imparare ad applicare i principi generali scoperti in fisica al problema più concreto della costruzione delle strutture. Allo stesso modo, studiare la biologia — anche la biologia umana — da sola non è sufficiente per scoprire come curare le malattie; questo è il compito della scienza medica. Come probabilmente si può dire da questi esempi, molte scienze pratiche possono essere ricondotte ad una scienza speculativa da cui derivano. In un'ottica simile — anche se non è ovvio a prima vista — l'etica, lo studio delle azioni umane (azioni che coinvolgono le libere scelte fatte dalla volontà) per discernere se sono giuste o sbagliate — è anche nella colonna delle scienze pratiche. Questo perché il solo scopo dell'etica è quello di orientare le nostre azioni: vogliamo scoprire quali comportamenti sono compatibili con la felicità umana e quali non lo sono. In altre parole, la conoscenza ottenuta attraverso l'etica è un mezzo per arrivare al fine di comportarsi bene.
 
-### La logica è una scienza?
+## La logica è una scienza?
 
 È giunto il momento di rivolgere ancora una volta la nostra attenzione al nostro argomento (la logica) e di applicare i principi di cui abbiamo discusso. Come abbiamo visto sopra, la logica è chiaramente una disciplina accademica e un campo di studio (almeno quando viene presa in astratto), ma ora sorge la domanda: la logica è una *scienza* come la biologia, la chimica e la matematica? Per rispondere a questa domanda, dovremo applicare la nostra definizione: una scienza è una *cognitio certa per causas*.
 
@@ -103,7 +103,7 @@ Infatti, dovremmo definire attentamente i nostri termini, qui, perché ci sono d
 
 Dobbiamo quindi concludere che la logica è davvero una scienza.
 
-### *Logica utens* e *logica docens*
+## *Logica utens* e *logica docens*
 
 Sulla base della nostra precedente discussione, sorge un'altra domanda: la logica è una scienza *speculativa* o una scienza *pratica*? Come abbiamo visto, lo scopo di una scienza speculativa è la conoscenza in quanto tale. La logica sembra certamente andare bene per il conto. San Tommaso d'Aquino nella sua *Summa theologiae* descrive lo scopo della logica in questo modo:
 
@@ -123,7 +123,7 @@ Con la logica, tuttavia, la situazione è un pò diversa. Poiché la logica stud
 
 In ogni caso, è chiaro che, oltre ad essere una scienza speculativa, la logica è anche una scienza pratica: anche se la logica è speculativa nella misura in cui il suo scopo finale è la conoscenza, il suo *modo* di raggiungere tale obiettivo è pratico: detto in altri termini, la logica ci insegna *come sapere*. Per questo motivo, la logica si dice che è una scienza *modalmente pratica*.
 
-### Is Logic Also an Art (τέχνη)?
+## Is Logic Also an Art (τέχνη)?
 
 Il lettore attento noterà che l'Aquinate, nel descrivere le finalità della logica, fa una cosa curiosa: la chiama *arte* (*ars*; in greco: τέχνη o *téchne*). Questo è sorprendente, perché abbiamo appena trascorso le ultime pagine a dimostrare che la logica è una *scienza*. Può anche sorprendere i lettori che l'Aquinate la chiama «arte» insieme alla pittura, alla musica, alla scultura e al teatro. Per capire questo, è meglio prendersi un momento per capire cosa Aristotele e Tommaso intendevano per *arte* o τέχνη.[^techne]
 
@@ -149,14 +149,40 @@ Allora, che mi dici della logica? La logica potrebbe essere classificata come un
   
 \noindent La logica ha i requisiti? (1) Per quanto riguarda la prima condizione, come vedremo, il compito della logica è prendere le opere della nostra ragione (concetti, enunciazioni e argomenti) e costruire relazioni tra loro secondo regole molto precise e determinate. Anche se la nostra ragione è ordinata alla verità, nulla ci impedisce di rendere errati i rapporti tra loro: possiamo cioè cadere nell'errore e nella falsità. Quindi, queste opere di ragione costituiscono la *materia indeterminata* della logica. (2) Per quanto riguarda la seconda condizione, tra tutte le possibili relazioni tra le opere della nostra ragione, la logica costruisce — utilizzando *regole universali e determinate* — le relazioni *corrette*, quelle che produrranno *conoscenze vere*. Ne consegue che la logica è davvero un'arte: un'arte liberale, evidentemente, in quanto non produce un prodotto esterno.
 
-### Come la logica riesce ad essere tutte e tre contemporaneamente
+## Come la logica riesce ad essere tutte e tre
 
-Voglio solo concludere questa sezione con qualche altra osservazione sui diversi *habitus* in discussione. Normalmente, le scienze speculative, le scienze pratiche e le arti possono essere chiaramente distinte l'una dall'altra, anche quando la loro materia è strettamente correlata. Continuando l'esempio che ho citato sopra, la biologia umana è la scienza speculativa alla radice di tutte le questioni mediche; la scienza medica è la scienza pratica che applica la conoscenza della biologia umana al trattamento delle malattie; e la medicina è l'arte che applica la scienza medica ad atti concreti di trattamento. Qui sono in gioco tre distinti *habitus*, perché nessuna delle due applicazioni è insignificante. Un chirurgo, ad esempio, non può aspettarsi di essere addestrato a sufficienza semplicemente acquisendo la scienza speculativa della biologia umana. Infatti, nemmeno una conoscenza dettagliata della scienza medica è sufficiente: può passare anni ad imparare *come* si eseguono gli interventi chirurgici, eppure essere completamente impreparato ad effettuare un vero e proprio intervento chirurgico. Insomma, non diventa chirurgo senza aver prima acquisito l'arte del chirurgo, che in questo caso implica non solo conoscenze speculative e pratiche, ma anche una formazione nel coordinamento delle mani. In altre parole, ciò che rende i tre *habitus* distinti l'uno dall'altro è che c'è, se si vuole, un notevole divario da colmare tra la scienza speculativa e la scienza pratica, e tra la scienza pratica e l'arte.
+Normalmente, le scienze speculative, le scienze pratiche e le arti possono essere chiaramente distinte l'una dall'altra, anche quando la loro materia è strettamente correlata. Continuando l'esempio che ho citato sopra, la biologia umana è la scienza speculativa alla radice di tutte le questioni mediche; la scienza medica è la scienza pratica che applica la conoscenza della biologia umana al trattamento delle malattie; e la medicina è l'arte che applica la scienza medica ad atti concreti di trattamento. Qui sono in gioco tre distinti *habitus*, perché nessuna delle due applicazioni è insignificante. Un chirurgo, ad esempio, non può aspettarsi di essere addestrato a sufficienza semplicemente acquisendo la scienza speculativa della biologia umana. Infatti, nemmeno una conoscenza dettagliata della scienza medica è sufficiente: può passare anni ad imparare *come* si eseguono gli interventi chirurgici, eppure essere completamente impreparato ad effettuare un vero e proprio intervento chirurgico. Insomma, non diventa chirurgo senza aver prima acquisito l'arte del chirurgo, che in questo caso implica non solo conoscenze speculative e pratiche, ma anche una formazione nel coordinamento delle mani. In altre parole, ciò che rende i tre *habitus* distinti l'uno dall'altro è che c'è, se si vuole, un notevole divario da colmare tra la scienza speculativa e la scienza pratica, e tra la scienza pratica e l'arte.
 
 Con logica, però, usiamo il nostro intelletto per studiare le opere prodotte da quello stesso intelletto. Pertanto, la distanza che si ritrova in altri campi è assente nella logica. Abbiamo già notato sopra che l'aspetto speculativo della logica, come scienza, non può essere realmente distinto dal suo aspetto pratico. È anche chiaro dalla nostra discussione sulle arti che la *arte* della logica non può essere realmente distinta dalla *scienza* della logica. In altre parole, l'istruzione formale e scientifica in logica — che tradizionalmente si chiama *logica docens*[^docens] — essendo lo studio di un oggetto intrinseco all'intelletto stesso che lo studia, si traduce immediatamente in un miglioramento nell'esercizio della logica — quello che tradizionalmente si chiama *logica utens*[^utens]. Più avanti nel corso, imparerai a distinguere e mettere in relazione diversi tipi di concetti, come mettere in relazione le enunciazioni tra loro, e come formare e analizzare i sillogismi. Sarete in grado di utilizzare queste abilità immediatamente; non c'è bisogno di una scienza *aggiuntiva*, né di una *arte* distinta, per applicarle.
 
 [^docens]: Dal latino *doceo*, «insegnare».
 [^utens]: Dal latino *utor*, «usare o impiegare».
 
-In sintesi: dalla discussione precedente si conclude che la logica è allo stesso tempo una scienza strumentalmente speculativa, una scienza modalmente pratica, e un'arte, il cui oggetto sono le opere della nostra ragione. Quello che rimane da discutere più in dettaglio, quindi, è l'*oggetto* della logica, che faremo dopo una breve discussione su alcuni concetti chiave dell'antropologia filosofica che sono utili per comprendere ciò che abbiamo appena passato.
+## In che modo la logica è necessaria
+
+Prima di chiudere questo capitolo, vorrei dire una parola sul modo in cui la logica è una necessità. Come dice l'Aquinate, «il necessario è ciò che non può non essere».[^defitition-of-necessity] In che modo si può dire che la logica sia necessaria? Prendiamoci un attimo di tempo per disimballare ulteriormente questa idea.
+
+L'Aquinate sostiene che ci sono fondamentalmente quattro tipi di necessità:[^four-species-of-causes]
+
+> Infatti, un modo in cui [l'essere necessario] riguarda qualcosa è per un principio intrinseco, che può essere sia materiale, come quando diciamo che è necessario che tutto ciò che è composto da contrari sia corrotto, sia formale, come quando diciamo che è necessario che i tre angoli di un triangolo siano uguali a due angoli retti. Questa è una necessità naturale o assoluta.
+>
+> Un altro modo in cui qualcosa non può non essere è per un principio estrinseco, o un fine o un agente. Per esempio, un fine è necessario quando qualcosa non può essere ottenuto senza di esso, oppure non può essere ottenuto bene senza di esso, come il cibo è necessario alla vita e un cavallo per un viaggio. Questo è chiamato la necessità di fine, che a volte è anche chiamata utilità. C'è una necessità riguardo agli agenti quando qualcuno è costretto da un agente, in modo che non sia in grado di fare il contrario. Questa è la necessità della coercizione[^defitition-of-necessity].
+
+[^four-species-of-causes]: I lettori attenti che hanno familiarità con Aristotele osserveranno che ogni tipo di necessità è strettamente legata ad una specie di *causa* corrispondente: agente, formale, materiale e finale.
+
+[^defitition-of-necessity]: [Tommaso d’Aquino]{.smallcaps}, *Summa theologiae*, Leon.\ vols. 4–12, Typographia Polyglotta S.C. de Propaganda Fide, Rome 1888–1906 (d’ora in poi citato come *S.Th.*), I q.\ 2, a.\ 1, *responsum* (la traduzione è mia).
+
+Guardiamo ognuno di questi a turno:
+
+ * Una necessità *materiale* ha a che fare con le limitazioni che la materia pone agli enti materiali: per esempio, il fatto che essi occupano spazio, devono esistere in un unico luogo, e sono corruttibili.
+ * Una necessità *formale* (nota anche come necessità *naturale* o *assoluta*) deriva dalle forme sostanziali o accidentali di un ente. Come imparerete nel corso, questo tipo di necessità può essere di due tipi: può derivare direttamente dall'essenza del ente, e quindi far parte della sua stessa definizione, come quando diciamo che è necessario che l'uomo sia razionale; oppure può essere una proprietà che deriva da quell'essenza, come quando diciamo che l'uomo è capace di ridere.
+ * Una necessità finale — che è probabilmente il tipo di necessità con cui si ha più familiarità — si riferisce ai mezzi necessari per ottenere un fine. È ciò a cui ci riferiamo generalmente quando diciamo che abbiamo «bisogno» di qualcosa. L'Aquinate osserva che questo tipo di necessità può essere *stretta* o *morale*[^moral necessity]. Il cibo è una necessità *stretta* per la vita. Prendere una macchina per andare da qualche parte a 15 chilometri di distanza non è una stretta necessità, ma a meno che non piaccia davvero camminare, prendere una macchina è molto meglio. Quindi è una necessità *morale*.
+ 
+[^moral necessity]: Non fatevi confondere dal termine «morale»: è preso in senso etimologico dal termine latino per consuetudine (latino: *mos*, *moris*). L'idea è che le persone sono abituate a usare mezzi adeguati che non sono *strittivamente* necessari.
+
+    Per quanto riguarda le norme etiche, esse sono infatti necessità di fine, perché seguirle è una condizione necessaria per la felicità. Tuttavia, non tutte sono *strette* necessità. seguire le regole fondamentali della decenza umana, come l'obbedienza ai Dieci Comandamenti, è infatti una *stretta* necessità per ottenere la felicità (cioè *non* seguirle è incompatibile con la felicità); tuttavia, alcune azioni – come entrare nella vita religiosa per coloro che vi sono chiamati – sono necessarie solo per *maggiore* felicità. Queste ultime sono necessità «morali» nel senso che prendiamo il termine.
+ 
+Cosa dobbiamo dire della necessità della logica? Prima di tutto, come abbiamo visto, la logica è essenziale per ottenere la conoscenza. La *logica naturale*, che è un altro nome per la ragione stessa, è, secondo la nostra analisi, una necessità *stretta* per sapere qualcosa, come dovrebbe essere evidente. Per quanto riguarda l'ottenimento di una conoscenza sistematica e scientifica, va notato che tale conoscenza può essere ottenuta in modo imperfetto (in cui comprendiamo solo le conclusioni più semplici della scienza e il nostro dominio della materia è confuso) o in modo «perfetto» (in cui tutte le condizioni del possesso di una scienza sono soddisfatte, con il necessario rigore). Per ottenere una comprensione imperfetta di una scienza, la logica naturale è sufficiente – anche se avere la logica scientifica è molto meglio. In una parola, la logica scientifica è una necessità *morale* di fine per questo tipo di conoscenza. Tuttavia, la logica scientifica è una necessità di fine *stretta* per una conoscenza scientifica «perfetta».
+
+In sintesi: dalla discussione precedente si conclude che la logica è allo stesso tempo una scienza strumentalmente speculativa, una scienza modalmente pratica, e un'arte, il cui oggetto sono le opere della nostra ragione. La logica naturale è una stretta necessità per ogni tipo di conoscenza. La logica studiata scientificamente è un grande aiuto per ottenere conoscenze scientifiche, e assolutamente indispensabile per una conoscenza scientifica «perfetta». Quello che rimane da discutere più in dettaglio, quindi, è l'*oggetto* della logica, che faremo dopo una breve discussione su alcuni concetti chiave dell'antropologia filosofica che sono utili per comprendere ciò che abbiamo appena passato.
 

@@ -10,9 +10,9 @@ We have already laid the necessary groundwork. In fact, you should already be ab
 
 As we saw above, all faculties and operative *habitus* have an *object*; that is, the entities that are referred to that faculty or *habitus*’ operation. We gave a number of examples above, but we need to look at the notion of object a bit more carefully. Let us take, for example, the faculty of vision, which we said has as its object colored bodies inasmuch as they are colored, or as Aquinas puts it,
 
- > Now, properly speaking, we call something the *object* of a faculty or *habitus*, when all things are referred to that faculty or *habitus* by reason of that thing. For instance, *man* and *stone* refer to sight insofar as they are *colored*. Therefore, *colored things* are the proper object of sight.[^aquinas-on-object]
+> Now, properly speaking, we call something the *object* of a faculty or *habitus*, when all things are referred to that faculty or *habitus* by reason of that thing. For instance, *man* and *stone* refer to sight insofar as they are *colored*. Therefore, *colored things* are the proper object of sight.[^aquinas-on-object]
  
-[^aquinas-on-object]: \textsc{Thomas Aquinas}, *Summa Theologiae*, Leon. vols. 4–12, Typographia Polyglotta S.C. de Propaganda Fide, Rome 1888–1906 (henceforth cited as *S.Th.*), I q.1 a.7, *responsum* (my translation).
+[^aquinas-on-object]: *S.Th.*, I q.\ 1, a.\ 7, *responsum* (my translation).
 
 \noindent Notice how the object practically defines the faculty: vision is the sense that allows us to see colored things. Let us unpack this a little, because it will help us to understand how to describe the object of an art or science like logic.
 
@@ -89,7 +89,7 @@ In short a πρός τι, or, as we have come to know it through Medieval Latin,
 
 \begin{table}[ht]
 \begin{center}
-\caption{Some examples of real relations. Note that relations are always conceived *bilaterally*: that is, the relation from the subject to the object will normally be coupled to a relation from the object to the subject. However, in some cases, the reciprocal relation is not a real one. The relation “having known” is real; the reciprocal relation, “being known,” is not. }
+\caption{Some examples of real relations. Note that relations are always conceived \emph{bilaterally}: that is, the relation from the subject to the object will normally be coupled to a relation from the object to the subject. However, in some cases, the reciprocal relation is not a real one. The relation “having known” is real; the reciprocal relation, “being known,” is not. }
 \label{tab:examples-of-real-relations}
 {
 \disablehyphenation
@@ -138,4 +138,125 @@ A common thread among all the *entia rationis* in this second group is that alth
 
 Let us unpack this idea. When I use *hobbit* as a predicate—as in the proposition “Frodo Baggins is a hobbit,” the subject to which I am attributing the concept *hobbit* is completely nonexistent. There is, and never was, a hobbit named Frodo Baggins. On the other hand, when I say, “The room is dark,” the subject, *room* is quite real—even though the attribute, as such, is not. We can thus divide *entia rationis* into those that are attributed to completely nonexistent subjects, and those whose subjects are real. We call former class *ens rationis sine fundamento in re* (the entity of reason without any foundation in reality), and the latter *ens rationis cum fundamento in re* (the entity of reason having some foundation in reality).
 
-If we look only at *entia rationis cum fundamento in re*, our examples suggest that there are two ways to form them: either positively (that is, as a kind of affirmation), or negatively. 
+If we look only at *entia rationis cum fundamento in re*, our examples suggest that there are two ways to form them: either positively (that is, based on an affirmation), or negatively (based on a negation). It is so not hard to see, based on the examples I mentioned, that the negation of some real perfection, as such, is not truly a “something,” but rather the *lack* of something. As regards those *entia rationis* formed by an affirmation, Aquinas argues that when we affirm something in an absolute sense, that affirmation must refer to something in reality: as when we say, “The sky is blue,” or “Gold has a density of 19.3 g/cm\textsuperscript{3}.”[^cum-fundamento-in-re] The only way to obtain an *ens rationis* through positive affirmation is to affirm it *relatively*—that is, as a relation of reason, as in the example of the relations of *identity* and *having been read* that I mentioned above. Table \ref{tab:ens-rationis} summarizes the divisions of *ens rationis*.
+
+[^cum-fundamento-in-re]: There is a difficulty in interpreting the passage that talks about this distinction, which is in *Quaestiones Disputatae
+de Veritate*: “Now, what exists in reason alone [*id quod est rationis tantum*, that is, *ens rationis*] can only be of two kinds: that is, either a negation or a kind of relation. For every absolute affirmation signifies something found in the nature of things [i.e., reality]. Thus to *ens*, “oneness” adds something that is in reason alone, that is, a negation: an *ens* is said to be “one” insofar as it is undivided. However “truth” and “goodness” are attributed positively; therefore, they cannot add anything but a relation that is in reason alone” ([Thomas Aquinas]{.smallcaps}, *Quaestiones disputate de Veritate*, Leon. vol. 22, Sanctae Sabinae, Rome 1975–1970–1972–1973–1976 [henceforth citied as *QdV*] 21, 1, *corpus*, my translation).
+
+    In this passage, Aquinas is talking about the *trascendentia* or the “properties” of *ens*, which later philosophers call the *transcendentals*. We will study these in the logic of the concept, but the relevant connection to *ens rationis* is that the notions conceptually distinguishing, say, oneness, truth, and goodness from *ens* are *entia rationis*—that is, they are not real things *in rerum natura* (as Aquinas would say). However, those distinguishing notions do have a real foundation: they are attributed to real things, namely, all *entia*. Aquinas’ argument poses a difficulty: does he intend divide all *entia rationis* without exception into negations and relations? If so, what are we to do with *entia rationis sine fundamento in re*—those *entia rationis* with no foundation in reality, such as hobbits and Greek deities?
+
+    There are fundamentally two possible solutions: either *entia rationis sine fundamento in re* can in some way conceived as a relation of reason, or else he is not considering them in this division. I tend to favor the latter interpretation: in short, I think that our reason treats *entia rationis sine fundamento in re* in a hypothetical way, *as if* they were posited absolutely—and then, with the judgment, denies that they actually exist. A reader of *The Hobbit* asks himself, “What would Middle Earth have been like *if* it existed and a hobbit named Bilbo Baggins lived there?” Thus, I think such complete figments are excluded from the division that Aquinas is considering here.
+
+
+\begin{table}[ht]
+\begin{center}
+\caption{A summary of the divisions of \emph{ens rationis}.}
+\label{tab:ens-rationis}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{llll}
+\toprule
+& Division by attribution & Division by object & Example \\
+\midrule
+\ldelim\{{3}{*}[Ens rationis\hspace{12pt}] & sine fundamento in re & & hobbits \\
+ & \ldelim\{{2}{*}[cum fundamento in re\hspace{12pt}] & negation & blindness \\
+ &  & relation & having been read \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{center}
+\end{table}
+
+Before moving on, I will make one final note about the term *ens rationis*. I focused on the meaning used most often in philosophy—that is, a nonexistent construct that our reason treats *as if* it were a thing in reality—however the term itself is ambiguous. The term “entity of reason,” according to its verbal construction, simply means an entity that depends on reason in some way. Thus, in theory, it could have three possible meanings:
+
+ 1. It could refer to the *real* entities that have have reason as their *efficient cause*: that is, it could be a synonym for the works of reason, namely, concepts, enunciations, and arguments. In that case, we say that their dependence on reason is *effective*.
+ 
+ 1. It could refer to the *real* entities that have reason as their subject or substrate: that is, all of the intellectual *habitus*, such as sciences, arts, prudence, and the theological virtue of faith. In that case, we say that their dependence on reason is *subjective*.
+ 
+ 1. It could refer to the *nonexistent* entities—in reality, pure objects or constructs—that our reason apprehends *as if* they were entities. In this case we say that their dependence on reason is *objective*.
+ 
+\noindent It goes without saying that all of the *entia rationis* that we have talked about in this section are of the third kind, those that depend on reason *objectively*—that is as pure objects or constructs with no ontological consistency whatsoever.
+ 
+With all of this background out of the way, the question remains: what are the relations of reason that interest us in logic? In essence, they are the relations that our reason constructs from one work of reason to another: from a concept to a concept, and from an enunciation to an enunciation. Here are a few examples that you will study during the course:
+ 
+ * Attribution or predication: the relation by which we affirm (or deny) the being of the predicate in the subject of an enunciation.
+ * Being the subject to which a predicate is attributed.
+ * Predicability: the five ways in which a predicate can be attributed to a subject.
+ * The relation of a species to the genus that contains it, and vice versa.
+ * The relations of the major and minor premise to the conclusion, and vice versa, which constitute the logical nexus.
+ 
+\noindent Since all of these relations have a works of reason (which are accidents, *passiones animae*) their subject and object, they are clearly not *real* relations, but relations of reason. These relations will be the focus of our study throughout the course, and identifying or constructing them *correctly* will be our goal.
+
+### Intentions
+
+When you hear the word *intention*, you are probably used to the most common modern usage of the term, which references the movement of the will: one *intends* to go shopping if one has *plans* to go to the store later on, we apologize for hurting someone *unintentionally* (i.e., without willing it), we make prayer *intentions* (i.e., express our intent to pray for someone), and so on. As I mentioned, in all of these cases there is a movement of the will toward some object. *Intention*, as you can probably tell, comes from the verb *intendō*, from the roots *in* (in this case meaning, “toward”) and *tendō*, meaning “to stretch, proceed, or strive for.” Among several meanings, *intendō* refers to a movement toward something: to turn one’s attention to something, or (as in modern language) to plan to do something.
+
+In Aquinas, *intendō*, and the related term *intentio*, can refer to movements of the will, but it can *also* refer to the operations of the intellect. In particular, it can refer to the *concept* insofar as it is directed to an *object*. For example, the concept “man” represents all human beings, and in that sense is directed toward (*intendit*) them.[^intention-relation-of-reason] For this reason, Aquinas uses the term *intentio* sometimes as a synonym for the concept, not just as referring to the movement of the will.[^intention-as-direction]
+
+[^intention-relation-of-reason]: Attentive readers might realize that there is, in fact, a *relation of reason* that refers the concept to its object. We call it “intentional similarity.” The *real* relation inherent in the person who knows something through this concept we call *intentionality*.
+
+[^intention-as-direction]: In fact, *intentio* in Aquinas can refer to the direction of anything toward its end: it is, in this sense, the “intention” (in modern language, “tendency”) of the well aimed arrow to reach its target. See, for instance I-II q. 12, a. 2, resp.: “intentio, sicut ipsum nomen sonat, significat in aliquid tendere.”
+
+Now, it is possible to form a concept (that is, an intention) of *real entities* (which is what we normally do), but it is also possible to form a concept of *the works of our reason*. For example, when I make the statement, “All human beings are mortal,” the term *human being* there is referring to real flesh-and-blood human beings. On the other hand, I can also look reflexively on the works of reason that permitted me to make the statement: in this case, the concepts *human being* and *mortal*, and the enunciation that composed the two concepts together.
+
+We call concepts that refer *immediately* to entities *first intentions*. On the other hand, concepts that refer to some work of our reason, we call *second intentions*. Note that even second intentions refer to reality in a *mediate* or indirect way: for instance, when I take the term “human being” to mean the *concept* formed in my reason, that concept refers in the first place to the *concept*—but of course that concept, in turn, refers to real human beings. I will let Thomas speak here:
+
+> Something in reality can correspond to a concept in two ways. In the first way, it does so immediately, for instance when the intellect conceives the form of some thing that is found outside the soul, such as a man or a stone. In the other way, it does so mediately, for instance when something follows the action of the intellect, and the intellect reflecting upon itself considers it. In that case, the reality corresponds to that consideration of the intellect in a mediate way, that is, by means of the understanding of reality. For example, the intellect understands the nature of animals in a man, in a horse, and in many other species. From this, it follows that the intellect understands that nature as a genus. However, nothing in external reality immediately corresponds to the concept by which the intellect understands the genus. However, some reality does correspond to the understanding from which this intention flows.[^de-potentia-intention]
+
+[^de-potentia-intention]: [Thomas Aquinas]{.smallcaps}, *Quaestiones disputate de potentia*, in: *Quaestiones disputatae*, vol. 2, Marietti, Turin 1965 [henceforth citied as *QdP*] q. 1, a. 1 ad 10, my translation.
+
+Perhaps an analogy that can help is to compare the intellect with an instrument like a telescope. Just as the telescope is the instrument by which we are able to see faraway objects like stars, the intellect is the instrument by which we are able to know things. In order for us to see the stars, the telescope must focus the light using lenses and similar equipment. In a way, our concepts play a role analogous to that of the lenses: they are, if you will, the “window” through which we see the realities that our outside our soul. So long as the lens is focusing light coming from *stars*, it is similar to a *first intention*: that is, it is helping us to see, in an immediate way, the *stars*—an external reality. At this point, we will need to bend the analogy a little. Suppose that we could set up the telescope in such a way that we could mount a lens capable of focusing on *another lens*—perhaps in order to observe the first lens in action. That is how a second intention works: it reflexively looks back on the intellect, and points to *another work of reason* rather than an reality outside the soul.
+
+As usual, the distinction between first and second intention will be much easier to understand with examples. Consider the following two propositions:
+
+ * All men are mortal
+ * “Man” is a species of the genus “animal.”
+ 
+\indent In the first proposition, the concept *man* is a first intention, because it refers to flesh-and-blood men. In the second proposition, *man* is a second intention, because it signifies, not flesh-and-blood men, but the *concept itself*.
+
+### Second-Intention Relations of Reason
+
+We are finally in a position to understand the formal object *quod* of logic:
+
+> the second-intention relations of reason constructed between the works of reason
+
+\noindent In short, *logic in itself does not study realities that are outside the soul*. Instead, it *studies the works of reason as such*, and as a consequence, we will be employing second intentions. Logic does not concern itself with the density of gold—that is for chemistry. However, it does concern itself with the fact that in the proposition, “Gold has a density of 19.3 g/cm\textsuperscript{3},” the concept *gold* is a species, it functions as the subject of the enunciation, and a predicate (density of a certain magnitude) is attributed to it as a property. As the example demonstrates, logic deals specifically with the relations of reason that the intellect constructs from one second intention to another (e.g., the relation of reason that makes *gold* the subject with respect to *density of 19.3 g/cm\textsuperscript{3}*, and the reciprocal relation that makes *density of 19.3 g/cm\textsuperscript{3}* the predicate of *gold*).
+
+## The Formal Object *Quo* of Logic
+
+We have discussed the material object and formal object *quod* of logic: that is, *what* logic studies—namely, the works of reason—and *what specific aspect* of the material object it is concerned with—namely, the second-intention relations of reason that allow us to know the truth with certainty. We must now discuss *how* logic is able give us the ability to construct these relations correctly and thus bring us unfailingly to the truth.
+
+As you will learn in your epistemology class, the first concept that the intellect makes is that of *ens*: that is as soon as the intellect is active, it realizes that there is *something* outside itself, and that this something *is*. We do not start out understanding *ens* in a formal or explicit sense: systematic study of metaphysics is required for that.[^ens-in-children] Instead, this knowledge is implicit, acquired by the very fact that our intellect is working: *actu exercito* (through the act that is exercised), as Medieval philosophers would put it.[^actu-signato]
+
+[^ens-in-children]: If our intellection began with explicit and formal knowledge of *ens*, we would expect children just learning to speak to turn to their mothers and say “Entity!” instead of “Mommy!” Since that is obviously not the case, we know that our first knowledge of *ens* is implicit.
+
+[^actu-signato]: We say that knowledge gained formally and explicitly is obtained *actu signato*, through an act (of apprehension or judgment) that is explicitly designated for this purpose.
+
+As soon as we acquire our first concept, *ens*, our agent intellect causes us to form our first enunciation at the very same moment: namely that *ens* is not *non-ens*, in other words, whatever it is that is presenting itself the intellect must, on some level, *be*, and cannot possibly *not be*, since it is presenting itself right now. If, for example, I were to get up in the middle of the night and stub my toe on some hard object, the first thing I would know is that my toe has struck *something*, some entity, even if I do not immediately know what it is. It is also clearly not *nothing*: that object, which is presenting itself painfully to me is clearly something that *is*, and it cannot possibly *not* be. This judgment that we make, also *actu exercito*, whenever we are presented with an entity is called the *principle of non-contradiction*, the very first principle of reason.
+
+As it turns out, the very exercise of our intellect reveals a whole store of first principles: the principle of causality (namely, that every entity presenting itself to us is on some level an effect that must have a cause), the principle that the whole is greater than the part, the principle of identity (that an entity is itself, and not some other entity), and so on. Aquinas argues that this set of principles that our reason, even before our formal study of logic, infallibly sets forth constitutes an *habitus* that he calls the *habitus primorum principiorum.*[^habitus-primorum-principiorum] Since this *habitus* derives its efficacy from the very exercise of our reason, it is present in all human beings, infallibly, and without exception.
+
+[^habitus-primorum-principiorum]: Rather confusingly, Aquinas also gives this *habitus* the name of *intellectus*. Thus, it whenever the term *intellectus* appears in his works, it is very important to understand which meaning he is giving the term at a given moment.
+
+It is these principles that make logic possible. In fact, if you recall, I said that it was defensible to call reason itself a kind of “natural logic.” This is true because of the first principles of reason.
+
+## Putting All the Pieces Together
+
+Therefore, to summarize what we have learned so far: 
+
+ * Logic is an instrumentally speculative and modally practical science. We saw in the first chapter how logic fulfills the characteristics of both a *science* and *art*, and, indeed can be characterized as both a speculative and a practical science. It can be all three at once because, unique among all intellectual *habitus*, its very object of study, the works of reason, is also what it produces, and it is also the means by which it reaches the truth. Because logic is the means par excellence by which all other sciences attain true knowledge of the world outside the soul, but does not seek that kind of knowledge in itself we say that it is *instrumentally speculative*. Because logic helps other sciences obtain that knowledge by the correct construction of relations between the works of reason, we say that logic is *modally practical*.
+
+ * The material object of logic is the works of reason. Logic concerns itself as such with concepts, enunciations, and arguments: the fruit of the operations of our intellect. It bears reiterating: *logic studies the *works* of reason, not the operations of reason*.
+ 
+ * The formal object *quod* of logic—that specific aspect of the material object that logic is concerned with—is the relations of reason that can be constructed between second intentions. Logic looks reflexively on the works of reason, and tells us how they are to be ordered if we are to acquire true and certain knowledge. It is all the other sciences—metaphysics, mathematics, physics, chemistry, biology, economics, astronomy, and so on—that deal with *first* intentions.
+
+ * Finally, what permits us to use our reason in a logical fashion (what we called natural logic), and then to study the works of reason (what we called scientific logic), is the first principles of natural reason. Thus, we say that the formal object *quo* of logic is the light of the first principles.
+ 
+ In short,
+ 
+ > Logic is the instrumentally speculative and modally practical science whose material object is the works of reason, whose formal object *quod* is the second-intention relations of reason constructed between those works, and whose formal object *quo* is the light of the first principles of reason.
+
+## Why Logic is Necessary
+
+
+
+## The divisions of logic, major vs. minor logic.
