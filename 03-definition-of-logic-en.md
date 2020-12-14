@@ -255,8 +255,4 @@ Therefore, to summarize what we have learned so far:
  
  > Logic is the instrumentally speculative and modally practical science whose material object is the works of reason, whose formal object *quod* is the second-intention relations of reason constructed between those works, and whose formal object *quo* is the light of the first principles of reason.
 
-## Why Logic is Necessary
-
-
-
 ## The divisions of logic, major vs. minor logic.
