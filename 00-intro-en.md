@@ -19,12 +19,8 @@ actually *is*. Introducing these topics will also help serve one of the
 reasons why logic is taught at the beginning of philosophical studies at
 all: namely, to lay the groundwork for the study of metaphysics.
 
-\[Make summary of outline here\]
+
+We will divide this introduction into three chapters: first, an introduction to the theory behind sciences and arts so as to show that logic can be classified as both; second an introduction to some basic concepts of philosophical anthropology, so that can better understand what an *habitus* (such as a science like logic) is; and finally a detailed look into the precise definition of logic.
 
 \mainmatter
 
-\counterwithin{figure}{chapter}
-\counterwithin{table}{chapter}
-
-\renewcommand\thetable{\thechapter.\arabic{table}}
-\renewcommand\thefigure{\thechapter.\arabic{figure}}  
