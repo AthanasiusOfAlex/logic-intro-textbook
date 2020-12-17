@@ -20,6 +20,7 @@ $endif$
 \usepackage{multirow}
 \usepackage{bigdelim}
 \usepackage{adjustbox}
+\usepackage[stable]{footmisc}
 
 $if(mathfont)$
 \setmathfont{$mathfont$}
