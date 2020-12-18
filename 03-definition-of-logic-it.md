@@ -166,15 +166,15 @@ de Veritate*: “Now, what exists in reason alone [*id quod est rationis tantum*
 \end{center}
 \end{table}
 
-Before moving on, I will make one final note about the term *ens rationis*. I focused on the meaning used most often in philosophy—that is, a nonexistent construct that our reason treats *as if* it were a thing in reality—however the term itself is ambiguous. The term “entity of reason,” according to its verbal construction, simply means an entity that depends on reason in some way. Thus, in theory, it could have three possible meanings:
+Prima di andare avanti, prendo un'ultima nota sul termine *ens rationis*. Mi sono concentrato sul significato usato più spesso in filosofia - cioè su un costrutto inesistente che la nostra ragione tratta come se fosse una cosa reale - sebbene il termine stesso sia ambiguo. Il termine " ente della ragione", secondo la sua costruzione verbale, significa semplicemente un ente che dipende in qualche modo dalla ragione. Quindi, in teoria, potrebbe avere tre possibili significati:
 
- 1. It could refer to the *real* entities that have have reason as their *efficient cause*: that is, it could be a synonym for the works of reason, namely, concepts, enunciations, and arguments. In that case, we say that their dependence on reason is *effective*.
+ 1. Potrebbe riferirsi agli enti *reali* che hanno la ragione come *causa efficiente*: potrebbe cioè essere un sinonimo per le opere della ragione, ovvero concetti, enunciazioni e argomenti. In tal caso, diciamo che la loro dipendenza dalla ragione è *efficace*.
  
- 1. It could refer to the *real* entities that have reason as their subject or substrate: that is, all of the intellectual *habitus*, such as sciences, arts, prudence, and the theological virtue of faith. In that case, we say that their dependence on reason is *subjective*.
+ 1. Potrebbe riferirsi agli enti *reali* che hanno come soggetto o substrato la ragione: cioè a tutti gli *habitus* intellettuali, come le scienze, le arti, la prudenza e la virtù teologica della fede. In questo caso, diciamo che la loro dipendenza dalla ragione è *soggettiva*.
  
- 1. It could refer to the *nonexistent* entities—in reality, pure objects or constructs—that our reason apprehends *as if* they were entities. In this case we say that their dependence on reason is *objective*.
+ 1. Potrebbe riferirsi agli enti *inesistenti* - in realtà, oggetti puri o costrutti - che la nostra ragione apprende *come se* si trattasse di enti. In questo caso diciamo che la loro dipendenza dalla ragione è *oggettivo*.
  
-\noindent It goes without saying that all of the *entia rationis* that we have talked about in this section are of the third kind, those that depend on reason *objectively*—that is as pure objects or constructs with no ontological consistency whatsoever.
+\noindent Va da sé che tutte gli *entia rationis* di cui abbiamo parlato in questa sezione sono del terzo tipo, quelle che dipendono dalla ragione *oggettivamente*, cioè come oggetti puri o costrutti senza alcuna consistenza ontologica.
  
 With all of this background out of the way, the question remains: what are the relations of reason that interest us in logic? In essence, they are the relations that our reason constructs from one work of reason to another: from a concept to a concept, and from an enunciation to an enunciation. Here are a few examples that you will study during the course:
  
