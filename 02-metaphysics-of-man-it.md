@@ -214,54 +214,54 @@ Chiaramente, la semplice apprensione da sola ci lascia con una conoscenza molto 
 * Il gelato ha un sapore di cioccolato.
 * Ieri ho mangiato il gelato.
 
-Notate che in ogni affermazione, sto unendo due concetti distinti[^compound-vs-simple]-o come direbbe Aristotele, li *compongo*. That is, I am affirming that the concept on the right-hand side (which we call the *predicate*) truly *is* a reality that pertains to the concept on the left-hand side (which we call the *subject*). Subject and predicate, in this case, are united, either explicitly (as in the first two statements) or implicitly (in the last two) by the verb *to be*, which we call the *copula*. By composing subject and predicate in this way, I am affirming the *being* of the predicate in the subject.
+Notate che in ogni affermazione, sto unendo due concetti distinti[^compound-vs-simple]-o come direbbe Aristotele, li *compongo*. Affermo cioè che il concetto di destra (che chiamiamo *predicato*) *è* veramente una realtà che riguarda il concetto di sinistra (che chiamiamo *soggetto*). Soggetto e predicato, in questo caso, sono uniti, o esplicitamente (come nelle prime due affermazioni) o implicitamente (nelle ultime due) dal verbo *essere*, che chiamiamo la *copula*. Componendo soggetto e predicato in questo modo, affermo l'*essere* del predicato nel soggetto.
 
-[^compound-vs-simple]: Observant readers will note that although each proposition has a single subject and a single predicate, some of the predicates are, in fact, *compound*—that is, they unite two concepts into one. For example, if I were to draw out the last proposition into its elementary enunciations, they would be something like: “I ate; the eating took place yesterday; ice cream was eaten.” Our language makes shortcuts that greatly simplify the expression of our judgments.
+[^compound-vs-simple]: Il lettore attento noterà che, sebbene ogni proposizione abbia un unico soggetto e un unico predicato, alcuni dei predicati sono, di fatto, *composti*, cioè uniscono due concetti in uno solo. Per esempio, se dovessi tirare fuori l'ultima proposizione nelle sue enunciazioni elementari, sarebbe qualcosa di simile: "Ho mangiato; la cena è stata fatta ieri; il gelato è stato mangiato". Il nostro linguaggio fa delle scorciatoie che semplificano enormemente l'espressione dei nostri giudizi.
 
-However, suppose that instead, I make the following statements:
+Tuttavia, supponiamo che invece io faccia le seguenti affermazioni:
 
-* This (what I have in my hand) is not ice cream.
-* The ice cream is not melting.
-* The ice cream does not has a chocolate flavor.
-* I did not eat ice cream yesterday.
+* Questo (quello che ho in mano) non è un gelato.
+* Il gelato non si sta sciogliendo.
+* Il gelato non ha un sapore di cioccolato.
+* Non ho mangiato il gelato ieri.
 
-As before, I have taken two concepts, which can be termed *subject* and *predicate*; however, this time, I have *denied* the being of the predicate. Logically speaking, instead of composing subject and predicate, I have *divided* or *separated* them.
+Come prima, ho preso due concetti, che possono essere definiti *soggetto* e *predicato*; tuttavia, questa volta, ho *negato* l'essere del predicato. Logicamente parlando, invece di comporre soggetto e predicato, li ho *divisi* o *separati*.
 
-From the discussion above, I think it is clear why Aristotle and Aquinas call this operation *composition and division*, because it always takes two concepts—a subject and a predicate—and either unites or separates them. It can also be termed the “judgment” (and this was the terminology preferred in the Modern period). Like the simple apprehension, the judgment produces a work that is immanent to the soul, which we call an *enunciation*. Just as concepts are represented by terms, enunciations are represented verbally as *propositions*, like the statements I made above. It should be clear that it is only after making a judgment and producing an enunciation that it makes sense to talk about truth and falsehood. Those enunciations are true that correspond to reality, and likewise, those that are in disagreement with reality are false. That is, if I affirm something that actually exists, then my affirmation is true; similarly, an enunciation denying something that does not exist is also true. However, if I affirm something nonexistent, or deny something that does exist, my enunciation is false. Once again, it is the *product* or *work*, immanent in the soul, that is the object of study of logic.
+Dalla discussione di cui sopra, penso che sia chiaro il motivo per cui Aristotele e Tommaso d'Aquino chiamano questa operazione *composizione e divisione*, perché prende sempre due concetti - un soggetto e un predicato - e li unisce o li separa. Si può anche chiamare "giudizio" (e questa era la terminologia preferita in epoca moderna). Come la semplice apprensione, il giudizio produce un'opera immanente all'anima, che chiamiamo *enunciazione*. Così come i concetti sono rappresentati da termini, le enunciazioni sono rappresentate verbalmente come *proposizioni*, come le dichiarazioni che ho fatto sopra. Dovrebbe essere chiaro che è solo dopo aver espresso un giudizio e aver prodotto un'enunciazione che ha senso parlare di verità e falsità. Quelle enunciazioni sono vere che corrispondono alla realtà, e allo stesso modo, quelle che sono in disaccordo con la realtà sono false. Cioè, se io affermo qualcosa che esiste veramente, allora la mia affermazione è vera; allo stesso modo, è vera anche un'enunciazione che nega qualcosa che non esiste. Tuttavia, se affermo qualcosa di inesistente, o nego qualcosa che esiste, la mia affermazione è falsa. Ancora una volta, è il *prodotto* ovvero l’*opera*, immanente nell'anima, che è oggetto di studio della logica.
 
-### Reasoning
+### Il ragionamento
 
-When we make a judgment regarding being, we can arrive at it in two ways: either immediately, simply by seeing it, or by the mediation of judgments that we have previously made. For example, any judgment that I make regarding things that I can verify directly with my senses—say, the fact that the pine tree outside my window is green—is immediate. The intellect, by acts of apprehension, generates the concepts “pine tree” and “green,” and by means of a judgment constructs a relation of attribution between them, thus producing an enunciation: “The pine tree is green.” In other words, producing that enunciation does not require anything except the apprehension of those concepts and verifying that they do, in fact, exist in reality. Suppose, however, that having learned about the biology of pine trees, I make the following enunciation: “Pine trees are green because the chloroplasts in the pine needles predominantly absorb all of the wavelengths found in visible light *except* green.”[^composed-enunciation] There is no direct way to verify the existence of chloroplasts, still less the fact that they tend to absorb red and blue light more than green light. Reaching this conclusion requires highly specialized instruments and a solid foundation in cell biology. In short, it is impossible to make a judgment regarding the being of the chloroplasts without extensive use of *previously established enunciations.*
+Quando esprimiamo un giudizio sull'essere, possiamo arrivarci in due modi: o immediatamente, semplicemente vedendolo, o con la mediazione di giudizi che abbiamo già espresso in precedenza. Per esempio, qualsiasi giudizio che esprimo su cose che posso verificare direttamente con i miei sensi - per esempio, il fatto che il pino fuori dalla mia finestra sia verde - è immediato. L'intelletto, con atti di apprensione, genera i concetti di "pino" e "verde", e attraverso un giudizio costruisce un rapporto di attribuzione tra di essi, producendo così un'enunciazione: "Il pino è verde". In altre parole, produrre quell'enunciazione non richiede nulla se non l'apprensione di quei concetti e verificare che essi esistano effettivamente nella realtà. Supponiamo, però, che avendo appreso la biologia del pino, io faccia la seguente enunciazione: "I pini sono verdi perché i cloroplasti degli aghi di pino assorbono prevalentemente tutte le lunghezze d'onda che si trovano nella luce visibile, tranne il verde".[^composed-enunciation] Non esiste un modo diretto per verificare l'esistenza dei cloroplasti, tanto meno il fatto che essi tendono ad assorbire la luce rossa e blu più della luce verde. Per raggiungere questa conclusione sono necessari strumenti altamente specializzati e una solida base nella biologia cellulare. In breve, è impossibile formulare un giudizio sull'esistenza dei cloroplasti senza un ampio uso di *enunciazioni precedentemente stabilite*.
 
-[^composed-enunciation]: Attentive readers will note that this enunciation, unlike the first one, is actually a *compound* enunciation that includes a number of simpler ones joined together.
+[^composed-enunciation]: I lettori attenti noteranno che questa enunciazione, a differenza della prima, è in realtà un'enunciazione *composta* che comprende una serie di enunciazioni più semplici unite tra loro.
 
-The discursive process that we use to make judgments that rely on previously obtained knowledge is called *reasoning* or *argumentation* (Latin: *ratiocinium*). As we will see in the course, argumentation entails constructing a series of *arguments*, which consist of two previously known enunciations called *premises* that are linked by a concept in common called the *middle term*. By linking the two enunciations and dropping the middle term, we produce a third enunciation called the *conclusion*. As with concepts and enunciations, arguments are internal, intelligible passions of the soul that are distinct from their external, verbal expressions, which we call *syllogisms*. For example,
+Il processo discorsivo che utilizziamo per formulare giudizi che si basano su conoscenze acquisite in precedenza si chiama *ragionamento* o *argomentazione* (latino: *ratiocinium*). Come vedremo durante il corso, l'argomentazione implica la costruzione di una serie di *argomenti*, che consistono in due enunciazioni precedentemente conosciute chiamate *premesse* legate da un concetto in comune chiamato il *termine medio*. Collegando le due enunciazioni e abbandonando il termine medio, si produce una terza enunciazione chiamata la *conclusione*. Come per i concetti e le enunciazioni, gli argomenti sono passioni interne, intelligibili dell'anima, distinte dalle loro espressioni verbali esterne, che chiamiamo *sillogismi*. Per esempio,
 
-> All *men* are mortal.  
-> John is a *man*.  
-> Therefore, John is mortal.
+> Tutti gli *uomini* sono mortali.  
+> Giovanni è un *uomo*.  
+> Pertanto, Giovanni è mortale.
 
-\noindent Of course reasoning made in real life will involve a great many arguments, but every reasoning can be broken down to simple arguments like this one, which, in its verbal expression, is called a *categorical syllogism*. Note that the intellect is not employing a third operation, exactly; it is still using the second operation, the judgment. What changes is merely the means that it uses to arrive at its judgment on being: that is, previous knowledge, as opposed to direct evidence.
+\noindent Naturalmente ogni ragionamento fatto nella vita reale comporterà moltissimi argomenti, ma qualsiasi ragionamento può essere scomposto in argomenti semplici come questo, che, nella sua espressione verbale, si chiama *sillogismo categorico*. Si noti che l'intelletto non sta usando esattamente una terza operazione, ma sta ancora usando la seconda operazione, il giudizio. Ciò che cambia è semplicemente il mezzo che utilizza per arrivare al suo giudizio sull'essere: cioè la conoscenza precedente, in contrapposizione all'evidenza diretta.
 
 \begin{table}[ht]
 \begin{center}
-\caption{A summary of the operations of the intellect, their work, and what they enable us to understand.}
+\caption{Una sintesi delle operazioni dell'intelletto, del loro lavoro e di ciò che ci permettono di capire.}
 \label{tab:operations-and-works-of-reason}
 \begin{adjustbox}{max width=\textwidth}
 \begin{tabular}{l@{\hskip -50pt}l@{\hskip 3pt}ll@{\hskip 3pt}l@{\hskip 3pt}l}
 \toprule
-Operation & & & Work & & What It Understands \\
+Operazione & & & Opera & & Cosa capisce \\
 \midrule
-Simple apprehension & & & Concept & & \emph{What} something is (quiddity) \\
-\multirow{2}{*}{Judgment} & \ldelim\{{2}{3mm} & immediate & Enunciation & \ldelim\}{2}{3mm} & \multirow{2}{*}{\emph{Whether} something is (being)} \\
- & & mediate & Argument & & \\
+Semplice apprensione & & & Concetto & & \emph{Che} che cos'è (quiddità) \\
+\multirow{2}{*}{Giudizio} & \ldelim\{{2}{3mm} & immediato & Enunciazione & \ldelim\}{2}{3mm} & \multirow{2}{*}{\emph{Se} qualcosa è (essere)} \\
+ & & mediato & Argomento & & \\
 \bottomrule
 \end{tabular}
 \end{adjustbox}
 \end{center}
 \end{table}
 
-Table \ref{tab:operations-and-works-of-reason} summarizes the role of the two operations of the intellect and the three works they produce.[^three-operations] These works—concepts, enunciations, and arguments—form the basis of the three branches of logic: logic of the concept, logic of the enunciation, and logic of the argument (or syllogism). At this point, it bears reiterating: *logic studies the works of reason, not its operations*. What we will be discussing together are concepts, enunciations, and arguments; it is not our task, in this course, to consider apprehension and judgment, except insofar as these are the *cause* of the works. In fact, these works form the *object*—or, as we will learn to call it, the *material object* of logic. We will discuss the object of logic in detail in the next chapter.
+La tabella \ref{tab:operations-and-works-of-reason} riassume il ruolo delle due operazioni dell'intelletto e delle tre opere che producono.[^three-operations] Queste opere - concetti, enunciazioni e argomenti - costituiscono la base dei tre rami della logica: la logica del concetto, la logica dell'enunciazione e la logica dell'argomento (o sillogismo). A questo punto, è opportuno ribadirlo: *la logica studia le opere della ragione, non le sue operazioni*. Ciò di cui discuteremo insieme sono i concetti, le enunciazioni e gli argomenti; non è nostro compito, in questo corso, considerare l'apprensione e il giudizio, se non nella misura in cui questi sono la *causa* delle opere. Infatti, queste opere formano l’*oggetto* o, come impareremo a chiamarlo, l’*oggetto materiale* della logica. Discuteremo in dettaglio l'oggetto della logica nel prossimo capitolo.
 
-[^three-operations]: According to some logic textbooks, there are *three* operations of the intellect: apprehension, judgment, and reasoning. In my opinion, this is not entirely correct. It is better to say that there are two operations apprehension and judgment. However, in order to arrive at some judgments, arguments must be employed.
+[^three-operations]: Secondo alcuni libri di logica, ci sono *tre* operazioni dell'intelletto: l'apprensione, il giudizio e il ragionamento. A mio parere, questo non è del tutto corretto. È meglio dire che ci sono due operazioni: l'apprensione e il giudizio. Tuttavia, per arrivare ad alcuni giudizi, è necessario ricorrere ad argomentazioni.
 
