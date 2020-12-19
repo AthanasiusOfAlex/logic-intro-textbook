@@ -1,12 +1,12 @@
-# The Definition of Logic
+# La definizione di logica
 
-In this chapter, we will come to a detailed understanding of the definition of logic, and thus we will finally be in a position to answer the question *What is logic?* definitively. I will go ahead and state the definition here, but, of course, we will explain each part of it in detail:
+In questo capitolo arriveremo a una comprensione dettagliata della definizione di logica, e quindi saremo finalmente in grado di rispondere definitivamente alla domanda *Cos'è la logica?*. Andrò avanti e ne esporrò la definizione in questa sede, ma, naturalmente, ne spiegheremo ogni parte in modo dettagliato:
 
-> Logic is the instrumentally speculative and modally practical science whose material object is the works of reason, whose formal object *quod* is the second-intention relations of reason constructed between those works, and whose formal object *quo* is the light of the first principles of reason.
+> La logica è la scienza strumentalmente speculativa e modalmente pratica che ha per oggetto materiale le opere della ragione, per oggetto formale quod le relazioni di ragione di seconda intenzione costruite tra queste opere, e per oggetto formale quo la luce dei primi principi della ragione.
 
-We have already laid the necessary groundwork. In fact, you should already be able to explain what it means for logic to be an *instrumentally speculative and modally practical* By the end of this chapter, you should have a good understanding of what logic actually is.
+Abbiamo già preparato il terreno necessario. Infatti, dovreste già essere in grado di spiegare cosa significa per la logica essere una scienza *strumentalmente speculativa e modalmente pratica*. Alla fine di questo capitolo, dovreste avere una buona comprensione di cosa sia effettivamente la logica.
 
-## The Object
+## L'oggetto
 
 As we saw above, all faculties and operative *habitus* have an *object*; that is, the entities that are referred to that faculty or *habitus*’ operation. We gave a number of examples above, but we need to look at the notion of object a bit more carefully. Let us take, for example, the faculty of vision, which we said has as its object colored bodies inasmuch as they are colored, or as Aquinas puts it,
 
