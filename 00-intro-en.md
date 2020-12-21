@@ -1,3 +1,7 @@
+---
+language: english
+---
+
 \frontmatter
 
 \title{Analytic Introduction to Logic}

@@ -37,25 +37,25 @@ Quando l'*habitus* in questione è una scienza, l'oggetto materiale sarà quello
 
 \begin{table}[ht]
 \begin{center}
-\caption{Examples of the objects of various faculties and \emph{habitus}. Note that I have listed some faculties first, followed by arts, and finally some sciences.}
+\caption{Esempi di oggetti di varie facoltà e \emph{habitus}. Si noti che ho elencato prima alcune facoltà, poi le arti e infine alcune scienze.}
 \label{tab:examples-of-objects}
 {
 \disablehyphenation
 \begin{adjustbox}{max width=\textwidth}
 \begin{tabular}{l|l|l|l}
 \toprule
- & Material Object & Formal Object Quod & Formal Object Quo \\
+ & Oggetto materiale & Oggetto formale \emph{quod} & Oggetto formale \emph{quo} \\
 \midrule
-Sight & Colored \emph{Ens} & Color & Light \\
-Intellect & \emph{Ens} & Intelligibility & The first principles of reason \\
-Will & \emph{Ens} & Desirability & The first principles of morality \\
+Vista & \emph{Ens} colorato & Colore & Luce \\
+Intelletto & \emph{Ens} & Intelligibilità & I primi principi della ragione \\
+Volontà & \emph{Ens} & Desiderabilità & I primi principi della morale \\
 \midrule
-Carpentry & Workable wood & Suitability for being shaped & Woodworking techniques \\
-Painting & Things that can be depicted & Ability to be depicted & Painting techniques \\
+Carpenteria & Legno lavorabile & Idoneità per essere modellato & Tecniche di lavorazione del legno \\
+Pittura & Cose rappresentabili & Rappresentabilità & Tecniche di pittura \\
 \midrule
-Biology & Living things & Material life & Scientific method \\
-Quantum physics & Material \emph{ens} & Subatomic scale & Scientific method \\
-Metaphysics & \emph{Ens} & Being & Resolutive reasoning \\
+Biologia & Viventi & Vita materiale & Metodo scientifico \\
+Fisica quantistica & \emph{Ens} materiale & Scala subatomica & Metodo scientifico \\
+Metafisica & \emph{Ens} & \emph{Ens} & Ragionamento risolutivo \\
 \bottomrule
 \end{tabular}
 \end{adjustbox}
@@ -63,47 +63,48 @@ Metaphysics & \emph{Ens} & Being & Resolutive reasoning \\
 \end{center}
 \end{table}
 
-You will often see a science described using a formula such as the following: “Science *S* studies entity *E* inasmuch as it has property *X*.” For example, “Metaphysics is the study of entities (*ens*) inasmuch as they *are* (*qua ens*),” or, “Biology is the study of living things inasmuch as they have bodily life.” This is simply a short way to define a science in terms of its material object (entity *E*) and formal object *quod* (“inasmuch as it has property *X*”).
+Spesso si vede una scienza descritta con una formula come la seguente: "La scienza *S* studia ente *E* in quanto ha la proprietà *X*". Per esempio, "La metafisica è lo studio dell'ente (*ens*) in quanto *sono* (*qua ens*)," oppure, "La biologia è lo studio del vivente in quanto ha la vita corporea". Questo è semplicemente un modo breve per definire una scienza in termini di oggetto materiale (ente *E*) e di oggetto formale *quod* ("in quanto ha la proprietà *X*").
 
-One final observation: there is *one* object of a given faculty or *habitus*. The language that we have used here might give the impression that there are three objects, but in reality these are three *aspects* of a single object: the things that we have identified as referred to the faculty. Thus, to reiterate, these things are *materially speaking* some sort of entity (real or in our reason alone, as we will see) and we call them the *material object*. Formally speaking there is some specific *aspect* that refers these entities to the faculty or *habitus*, which we call the *formal object quod*. Finally, there is a means that permits the referral to take place, which we call the *formal object quo*.
+Un'ultima osservazione: c'è *un* oggetto di una data facoltà o *habitus*. Il linguaggio che abbiamo usato qui potrebbe dare l'impressione che ci siano tre oggetti, ma in realtà si tratta di tre *aspetti* di un singolo oggetto: le cose che abbiamo identificato come riferite alla facoltà o *habitus*. Quindi, per ribadire, queste cose sono *materialmente parlando* una sorta di ente (reale o solo nella nostra ragione, come vedremo) e le chiamiamo *oggetto materiale*. Formalmente parlando c'è un *aspetto* specifico che rimanda queste entità alla facoltà o *habitus*, che chiamiamo *oggetto formale quod*. Infine, c'è un mezzo che permette il rinvio, che chiamiamo *oggetto formale quo*.
 
-## The Material Object of Logic
+## L'Oggetto materiale della logica
 
-We must now, of course, turn our attention to logic itself. What is the material object of logic? The answer, fortunately is relatively straightforward. Logic studies the *works of reason*, which I have outlined in the previous chapter: concepts, enunciations, and arguments. These, as we saw, are *passiones animae*, that is, qualities of the soul that remain immanent there, due to the operations of the intellect (which, as we saw are the *apprehension* and the *judgment*, the latter operating either immediately or mediately).
+Ora, naturalmente, dobbiamo rivolgere la nostra attenzione alla logica stessa. Qual è l'oggetto materiale della logica? La risposta, per fortuna, è relativamente semplice. La logica studia le *opere della ragione*, che ho descritto nel capitolo precedente: concetti, enunciazioni e argomenti. Questi, come abbiamo visto, sono *passiones animae*, cioè qualità dell'anima che vi rimangono immanenti, a causa delle operazioni dell'intelletto (che, come abbiamo visto, sono la *apprensione* e il *giudizio*, quest'ultimo operante in modo immediato o mediato).
 
-I will take a moment to emphasize once again: *logic studies the works of reason, not the operations of reason*. We are interested in forming precise and well defined *concepts*, *enunciations* that are properly formed and expressed, and *arguments* that are both correctly constructed and true in their conclusions. In logic, the manner in which the intellect functions does not enter the object as such: we are only interested in the intellect’s operations as the *causes* of that object.
+Mi prendo un momento per sottolineare ancora una volta: *la logica studia le opere della ragione, non le operazioni della ragione*. Ci interessa formare *concetti* precisi e ben definiti, *enunciazioni* correttamente formate ed espresse, e *argomenti* correttamente costruiti e veritieri nelle loro conclusioni. Nella logica, il modo in cui l'intelletto funziona non entra nell'oggetto in quanto tale: ci interessano solo le operazioni dell'intelletto in quanto *cause* di quell’oggetto.
 
-We must, however, now tackle the much more difficult issue of the *formal object quod* of logic: what is it about the works of reason that logic concerns itself with? What *aspect* of these works does it focus on?
+Dobbiamo però affrontare ora la questione molto più difficile dell'oggetto formale quod della logica: di cosa si occupa la logica delle opere della ragione? Su quale *aspetto* di queste opere si concentra?
 
-## The Formal Object *Quod* of Logic
+## L'oggetto formale *quod* della logica
 
-As the definition I gave above states, the formal object *quod* of logic regards *second-intention relations of reason* that we construct between the works of reason. Before we get any further, we will need to discuss *relations*, *relations of reason*, and *intentions*.
+Come afferma la definizione che ho dato sopra, l'oggetto formale *quod* della logica riguarda *le relazioni di seconda intenzione della ragione* che costruiamo tra le opere della ragione. Prima di andare oltre, dovremo discutere delle *relazioni*, delle *relazioni della ragione* e delle *intenzioni*.
 
-### Relations
+### Le relazioni
 
-Consider for a moment a father and a son. Metaphysically speaking, both are, of course, substances. However, once the father has begotten a son, he acquires a new perfection that he did not have before: *fatherhood*. Likewise, the son simultaneously receives a perfect upon his conception called *filiation* or *sonship*. Those perfections are not, themselves, substances, but they are real attributes; hence, they must be what we have learned to call *accidents* in the last chapter. In fact, Aristotle considers perfections such as these to be their own category, or supreme genus, of accident that he calls the πρός τι or “toward which.”
+Consideriamo per un momento un padre e un figlio. Metafisicamente parlando, entrambi sono, naturalmente, sostanze. Tuttavia, una volta che il padre ha generato un figlio, acquista una nuova perfezione che prima non aveva: la *paternità*. Allo stesso modo, il figlio riceve contemporaneamente una perfezione al momento del concepimento chiamata *filiazione* o *figliolanza*. Queste perfezioni non sono, di per sé, sostanze, ma sono veri e propri attributi; quindi, devono essere ciò che abbiamo imparato a chiamare *accidenti* nell'ultimo capitolo. Infatti, Aristotele considera le perfezioni come queste come la propria categoria, o genere supremo, di accidenti che chiama il πρός τι o "verso il quale".
 
-In short a πρός τι, or, as we have come to know it through Medieval Latin, a *relation* is, in the first instance, a reference that one substance has to another.[^reference-relation] You will learn more about relations in your logic course, since they constitute one of the categories that we will study in detail. As we are about to find out the concept of *relation* is extended beyond that of the real perfection that is inherent in a substance. We sometimes call this kind of relation a *real relation* so as to distinguish it from others that we are about to look at. Table \ref{tab:examples-of-real-relations} gives some examples of real relations.
 
-[^reference-relation]: For anyone who has studied Latin, it can be helpful to recall that the word *relation* comes from the verb *re-ferro*, which takes the past participle *re-latum*.
+In breve, un πρός τι, o, come l'abbiamo conosciuto attraverso il latino medievale, una *relazione* è, in primo luogo, una referenza che una sostanza ha rispetto ad un'altra. [^reference-relation] Imparerete di più sulle relazioni nel vostro corso di logica, poiché esse costituiscono una delle categorie che studieremo in dettaglio. Come stiamo per scoprire, il concetto di *relazione* si estende al di là della vera perfezione inerente ad una sostanza. A volte chiamiamo questo tipo di relazione una *relazione reale* per distinguerla dalle altre che stiamo per esaminare. La tabella \ref{tab:examples-of-real-relations} fornisce alcuni esempi di relazioni reali.
+
+[^reference-relation]: Per chi ha studiato il latino, può essere utile ricordare che la parola *relazione* deriva dal verbo *re-ferro*, che ha il participio passato *re-latum*.
 
 
 \begin{table}[ht]
 \begin{center}
-\caption{Some examples of real relations. Note that relations are always conceived \emph{bilaterally}: that is, the relation from the subject to the object will normally be coupled to a relation from the object to the subject. However, in some cases, the reciprocal relation is not a real one. The relation “having known” is real; the reciprocal relation, “being known,” is not. }
+\caption{Alcuni esempi di relazioni reali. Si noti che le relazioni sono sempre concepite in modo \emph{bilaterale}: cioè, la relazione dal soggetto all'oggetto sarà normalmente accoppiata ad una relazione dall'oggetto al soggetto. Tuttavia, in alcuni casi, la relazione reciproca non è una relazione reale. La relazione "avendo conosciuto" è reale; la relazione reciproca, "essendo conosciuta", non lo è.}
 \label{tab:examples-of-real-relations}
 {
 \disablehyphenation
 \begin{adjustbox}{max width=\textwidth}
 \begin{tabular}{l|l|l|l}
 \toprule
-Relation & Subject & Object & Foundation \\
+Relazione & Soggetto & Oggetto & Dondamento \\
 \midrule
-Fatherhood & the father & the son & generation \\
-Sonship & the son & the father & generation \\
-Double & a two-meter-long substance & a one-meter-long substance & quantity \\
-Half & a one-meter-long substance & a two-meter-long substance & quantity \\
-Having known & the knower & the think known & intentional similarity \\
+La paternità & il padre & il figlio & la generazione \\
+Filiazione & il figlio & il padre & la generazione \\
+Doppio & una sostanza lunga due metri & una sostanza lunga un metro & quantità \\
+Metà & una sostanza lunga un metro & una sostanza lunga due metri & quantità \\
+Avere conosciuto & il conoscente & il conosciuto & la somiglianza intenzionale \\
 \bottomrule
 \end{tabular}
 \end{adjustbox}
@@ -111,23 +112,23 @@ Having known & the knower & the think known & intentional similarity \\
 \end{center}
 \end{table}
 
-As I said, we will see this in detail in the course. For now, a few observations about relations are all that we need. First, some terminology: the substance in which the relation is inherent we call the *subject* of the relation (as we would for any accident). The substance referred to we call the *object*. Moreover, the relation will always be based on some kind of foundation (quantity, action and passion, or some kind of knowledge). Second, real relations are normally *bilateral* or *reciprocal*. That is, the relation inherent in a subject will ordinarily be paired with *another* relation that is inherent in the substance that is the object of the first relation. The example we gave above of fatherhood and sonship illustrates this well: a father cannot be a father unless he has a child (in our example, a son), and that son must necessarily have a father. For this reason, relations are always *conceived* as bilateral “by default” by our intellect—even when it turns out that the reciprocal relation does not really exist. (We will see some examples below.) Finally, in modern parlance, we tend to refer to the *pair* of relations as a *relationship*. For Aristotle and Aquinas, however, what we call a *relationship* actually consists in two distinct *relations*, each one a perfection inherent in a distinct subject. Thus, for example, in modern parlance we would say that a husband and wife have an indissoluble *relationship* that we call the *marriage bond*; however, in metaphysical terms, that bond consists in *two* relations, one inherent in the husband, and the other inherent in the wife. A similar things can be said, say, of the father–son relationship and the teacher–student relationship.
+Come ho detto, lo vedremo in dettaglio nel corso. Per ora, bastano alcune osservazioni sulle relazioni. In primo luogo, un po' di terminologia: la sostanza in cui la relazione è intrinseca chiamiamo il *soggetto* della relazione (come faremmo per qualsiasi accidente). La sostanza cui si riferisce la relazione la chiamiamo *oggetto*. Inoltre, la relazione sarà sempre basata su qualche tipo di *fondamento* (quantità, azione e passione, o qualche tipo di conoscenza). In secondo luogo, le relazioni reali sono normalmente *bilaterali* o *reciproche*. Cioè, la relazione inerente ad un soggetto sarà normalmente accoppiata con un'altra relazione inerente alla sostanza che è l'oggetto della prima relazione. L'esempio che abbiamo fatto sopra di paternità e figliolanza illustra bene questo: un padre non può essere padre se non ha un figlio (nel nostro esempio, un figliuolo), e quel figlio deve necessariamente avere un padre.Per questo motivo, le relazioni sono sempre *concepite* come bilaterali "per difetto" dal nostro intelletto, anche quando si scopre che la relazione reciproca non esiste affatto. (Di seguito vedremo alcuni esempi.) Infine, nel linguaggio moderno, tendiamo a riferirci alla *coppia* di relazioni come a un *rapporto*. Per Aristotele e Tommaso d'Aquino, invece, ciò che chiamiamo *rapporto* consiste in realtà in due *relazioni* distinte, ognuna delle quali è una perfezione inerente a un soggetto distinto. Così, per esempio, nel linguaggio moderno diremmo che un marito e una moglie hanno un *rapporto* indissolubile che chiamiamo il *legame matrimoniale*; tuttavia, in termini metafisici, questo legame consiste in *due relazioni*, una inerente al marito e l'altra inerente alla moglie. Si possono dire cose simili, ad esempio, del rapporto padre-figlio e del rapporto insegnante-studente.
 
-### Relations of Reason
+### La relazioni di ragione
 
-I have brought up real relations at this point not because they are directly pertinent to our topic, but because they are necessary for understanding an essential element of the definition we are considering: *relations of reason*.
+A questo punto ho parlato di relazioni reali non perché siano direttamente pertinenti al nostro tema, ma perché sono necessarie per comprendere un elemento essenziale della definizione che stiamo considerando: le *relazioni di ragione*.
 
-A *relation of reason* (*relatio rationis*) can be though of as a construct that our reason treats *as if* it were a real relation, when in reality it is nothing at all. A few examples will illustrate the idea. Consider the following proposition:
+Una *relazione di ragione* (*relatio rationis*) può essere pensata come un costrutto che la nostra ragione tratta *come se* fosse una relazione reale, quando in realtà non è nulla. Alcuni esempi illustreranno l'idea. Consideriamo la seguente proposizione:
 
-> John is himself.
+> Giovanni è se stesso.
 
-\noindent What we have done here is subtle. The subject of the proposition is *John*, but the predicate is also *John*: the term *itself* is merely a placeholder to avoid being repetitive. Thus, *John* is, in a sense “divided” by our reason; that is, we consider two “instances” of him and attribute to each one a kind of relation. In effect we are saying that John (in the subject) is *the same* as John (in the predicate), and vice versa. However, this relation, which we can call *sameness* or *identity*[^idem], does not actually exist. John (in the subject) is not really distinct or different from John (in the predicate). The relation of *identity*, therefore, does not really exist, but rather is merely a *construct* to help us understand that substances are united and permanent—that is, a substance (or for that matter, any entity) cannot simply become something else without some kind of real transformation. *Identity*, therefore is a *relation of reason*, not a real relation.
+\noindent Ciò che abbiamo fatto qui è sottile. Il soggetto della proposta è *Giovanni*, ma il predicato è anche *Giovanni*: il termine *se stesso* è solo un segnaposto per evitare di essere ripetitivo. Quindi, *Giovanni* è, in un certo senso, "diviso" dalla nostra ragione; cioè, consideriamo due "istanze" di lui e attribuiamo a ciascuna di esse una sorta di relazione. In effetti diciamo che Giovanni (nel soggetto) è *lo stesso* di Giovanni (nel predicato), e viceversa. Tuttavia, questa relazione, che possiamo chiamare *essere lo stesso* o *identità*[^idem], in realtà non esiste. Giovanni (nel soggetto) non è realmente distinto o diverso da Giovanni (nel predicato). La relazione di *identità*, quindi, non esiste veramente, ma è solo una *costruzione* per aiutarci a capire che le sostanze sono unite e permanenti - cioè una sostanza (o, per quel che conta, qualsiasi entità) non può semplicemente diventare qualcos'altro senza un qualche tipo di trasformazione reale. *L’identità*, quindi, è una *relazione di ragione*, non una relazione reale.
 
-[^idem]: From the Latin *idem*, meaning “the same”. Readers preparing to write papers should be familiar with the Latin term *ibidem* (from *ibi*, “there”, and *idem*), which means “in the same place.”
+[^idem]: Dal latino *idem*, che significa "lo stesso". I lettori che si preparano a scrivere un articolo dovrebbero avere familiarità con il termine latino *ibidem* (da *ibi*, "là", e *idem*), che significa "nello stesso luogo".
 
-Or else, consider real relations that are based on knowledge. Suppose, for example, that you have read a book—say an introductory textbook on logic. Now that you have read it, the relation of *having read* the book is now inherent in you. However, the book, as such, is completely unchanged by you having read it. As I mentioned earlier, we are unable to conceive of a relation in any other but as bilateral or reciprocal, and so our reason cannot help but consider the relation (ostensibly inherent in the book) of *having been read* alongside the real relation. In other words, when you read a book, you acquire a new perfection, *having read* the book; the book acquires nothing at all, but we cannot help but conceive a *having been read* in tandem with *having read*. However, we use our judgment to deny that *having been read* actually exists: it is, in short, a *relation of reason*.
+Oppure, considerate le relazioni reali che si basano sulla conoscenza. Supponiamo, ad esempio, di aver letto un libro: dite un libro di testo introduttivo sulla logica. Ora che l'avete letto, la relazione di *averlo letto* il libro è ormai insita in voi. Tuttavia, il libro, in quanto tale, è completamente immutato da voi che lo avete letto. Come ho detto prima, non siamo in grado di concepire una relazione se non come bilaterale o reciproca, e quindi la nostra ragione non può fare a meno di considerare la relazione (apparentemente inerente al libro) di *essere stata letta* accanto alla relazione reale. In altre parole, quando si legge un libro, si acquisisce una nuova perfezione, *aver letto* il libro; il libro non acquisisce nulla, ma non possiamo fare a meno di concepire un *essere stato letto* insieme al *aver letto*. Tuttavia, usiamo il nostro giudizio per negare che l’*essere stato letto* esista davvero: è, in breve, una *relazione di ragione*.
 
-In order to understand these relations of reason, it helpful to mention that they belong to a broader group of pure objects, or constructs, that we call *entia rationis*, entities of reason. An *ens rationis* refers to any construct that we treat *as if* it were an entity, when in reality it is not. It is, if you will, a placeholder concept which, upon examination, does not refer to any actual *thing* (*res*) in reality.
+Per comprendere queste relazioni della ragione, è utile ricordare che esse appartengono a un gruppo più ampio di oggetti puri, o costruzioni, che chiamiamo *entia rationis*, enti di ragione. Un *ens rationis* si riferisce a qualsiasi costrutto che trattiamo *come se* fosse un ente, quando in realtà non lo è. Si tratta, se vogliamo, di un concetto di segnaposto che, all'esame, non si riferisce ad alcun *qualcosa* (*res*) reale nella realtà.
 
 As usual, it is easiest to understand the idea using examples. Consider *hobbits*. If anyone is not familiar with the idea, hobbits are a fictional people imagined by J.R.R. Tolkien in his fantasy works, *The Hobbit* and *The Lord of the Rings*. In reality there *are* no hobbits. They are not, in the strict sense *essences* or *substances*; however through our imagination, we can describe what such a people would be like if they *did* exist. In other words, hobbits are *figments*, with no actual ontological foundation. In fact, this analysis is valid for any fictional character or object: Greek gods, superheroes, Romeo and Juliet, light sabres, and so on.
 
@@ -203,7 +204,7 @@ We call concepts that refer *immediately* to entities *first intentions*. On the
 
 > Something in reality can correspond to a concept in two ways. In the first way, it does so immediately, for instance when the intellect conceives the form of some thing that is found outside the soul, such as a man or a stone. In the other way, it does so mediately, for instance when something follows the action of the intellect, and the intellect reflecting upon itself considers it. In that case, the reality corresponds to that consideration of the intellect in a mediate way, that is, by means of the understanding of reality. For example, the intellect understands the nature of animals in a man, in a horse, and in many other species. From this, it follows that the intellect understands that nature as a genus. However, nothing in external reality immediately corresponds to the concept by which the intellect understands the genus. However, some reality does correspond to the understanding from which this intention flows.[^de-potentia-intention]
 
-[^de-potentia-intention]: [Thomas Aquinas]{.smallcaps}, *Quaestiones disputate de potentia*, in: *Quaestiones disputatae*, vol.\ 2, Marietti, Turin 1965 [henceforth citied as *QdP*] q.\ 1, a.\ 1 ad 10, my translation.
+[^de-potentia-intention]: [Thomas Aquinas]{.smallcaps}, *Quaestiones disputate de potentia*, in: *Quaestiones disputatae*, vol.\ 2, Marietti, Turin 1965 [henceforth citied as *QdP*] q.\ 1, a.\ 1 ad 10 (my translation).
 
 Perhaps an analogy that can help is to compare the intellect with an instrument like a telescope. Just as the telescope is the instrument by which we are able to see faraway objects like stars, the intellect is the instrument by which we are able to know things. In order for us to see the stars, the telescope must focus the light using lenses and similar equipment. In a way, our concepts play a role analogous to that of the lenses: they are, if you will, the “window” through which we see the realities that our outside our soul. So long as the lens is focusing light coming from *stars*, it is similar to a *first intention*: that is, it is helping us to see, in an immediate way, the *stars*—an external reality. At this point, we will need to bend the analogy a little. Suppose that we could set up the telescope in such a way that we could mount a lens capable of focusing on *another lens*—perhaps in order to observe the first lens in action. That is how a second intention works: it reflexively looks back on the intellect, and points to *another work of reason* rather than an reality outside the soul.
 

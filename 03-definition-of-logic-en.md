@@ -43,7 +43,7 @@ When the *habitus* in question is a science, the material object will be what Aq
 \begin{adjustbox}{max width=\textwidth}
 \begin{tabular}{l|l|l|l}
 \toprule
- & Material Object & Formal Object Quod & Formal Object Quo \\
+ & Material Object & Formal Object \emph{Quod} & Formal Object \emph{Quo} \\
 \midrule
 Sight & Colored \emph{Ens} & Color & Light \\
 Intellect & \emph{Ens} & Intelligibility & The first principles of reason \\
@@ -54,7 +54,7 @@ Painting & Things that can be depicted & Ability to be depicted & Painting techn
 \midrule
 Biology & Living things & Material life & Scientific method \\
 Quantum physics & Material \emph{ens} & Subatomic scale & Scientific method \\
-Metaphysics & \emph{Ens} & Being & Resolutive reasoning \\
+Metaphysics & \emph{Ens} & \emph{Ens} & Resolutive reasoning \\
 \bottomrule
 \end{tabular}
 \end{adjustbox}
@@ -64,7 +64,7 @@ Metaphysics & \emph{Ens} & Being & Resolutive reasoning \\
 
 You will often see a science described using a formula such as the following: “Science *S* studies entity *E* inasmuch as it has property *X*.” For example, “Metaphysics is the study of entities (*ens*) inasmuch as they *are* (*qua ens*),” or, “Biology is the study of living things inasmuch as they have bodily life.” This is simply a short way to define a science in terms of its material object (entity *E*) and formal object *quod* (“inasmuch as it has property *X*”).
 
-One final observation: there is *one* object of a given faculty or *habitus*. The language that we have used here might give the impression that there are three objects, but in reality these are three *aspects* of a single object: the things that we have identified as referred to the faculty. Thus, to reiterate, these things are *materially speaking* some sort of entity (real or in our reason alone, as we will see) and we call them the *material object*. Formally speaking there is some specific *aspect* that refers these entities to the faculty or *habitus*, which we call the *formal object quod*. Finally, there is a means that permits the referral to take place, which we call the *formal object quo*.
+One final observation: there is *one* object of a given faculty or *habitus*. The language that we have used here might give the impression that there are three objects, but in reality these are three *aspects* of a single object: the things that we have identified as referred to the faculty or *habitus*. Thus, to reiterate, these things are *materially speaking* some sort of entity (real or in our reason alone, as we will see) and we call them the *material object*. Formally speaking there is some specific *aspect* that refers these entities to the faculty or *habitus*, which we call the *formal object quod*. Finally, there is a means that permits the referral to take place, which we call the *formal object quo*.
 
 ## The Material Object of Logic
 
@@ -82,14 +82,14 @@ As the definition I gave above states, the formal object *quod* of logic regards
 
 Consider for a moment a father and a son. Metaphysically speaking, both are, of course, substances. However, once the father has begotten a son, he acquires a new perfection that he did not have before: *fatherhood*. Likewise, the son simultaneously receives a perfect upon his conception called *filiation* or *sonship*. Those perfections are not, themselves, substances, but they are real attributes; hence, they must be what we have learned to call *accidents* in the last chapter. In fact, Aristotle considers perfections such as these to be their own category, or supreme genus, of accident that he calls the πρός τι or “toward which.”
 
-In short a πρός τι, or, as we have come to know it through Medieval Latin, a *relation* is, in the first instance, a reference that one substance has to another.[^reference-relation] You will learn more about relations in your logic course, since they constitute one of the categories that we will study in detail. As we are about to find out the concept of *relation* is extended beyond that of the real perfection that is inherent in a substance. We sometimes call this kind of relation a *real relation* so as to distinguish it from others that we are about to look at. Table \ref{tab:examples-of-real-relations} gives some examples of real relations.
+In short a πρός τι, or, as we have come to know it through Medieval Latin, a *relation* is, in the first instance, a reference that one substance has to another.[^reference-relation] You will learn more about relations in your logic course, since they constitute one of the categories that we will study in detail. As we are about to find out, the concept of *relation* is extended beyond that of the real perfection that is inherent in a substance. We sometimes call this kind of relation a *real relation* so as to distinguish it from others that we are about to look at. Table \ref{tab:examples-of-real-relations} gives some examples of real relations.
 
 [^reference-relation]: For anyone who has studied Latin, it can be helpful to recall that the word *relation* comes from the verb *re-ferro*, which takes the past participle *re-latum*.
 
 
 \begin{table}[ht]
 \begin{center}
-\caption{Some examples of real relations. Note that relations are always conceived \emph{bilaterally}: that is, the relation from the subject to the object will normally be coupled to a relation from the object to the subject. However, in some cases, the reciprocal relation is not a real one. The relation “having known” is real; the reciprocal relation, “being known,” is not. }
+\caption{Some examples of real relations. Note that relations are always conceived \emph{bilaterally}: that is, the relation from the subject to the object will normally be coupled to a relation from the object to the subject. However, in some cases, the reciprocal relation is not a real one. The relation “having known” is real; the reciprocal relation, “being known,” is not.}
 \label{tab:examples-of-real-relations}
 {
 \disablehyphenation
@@ -110,7 +110,7 @@ Having known & the knower & the think known & intentional similarity \\
 \end{center}
 \end{table}
 
-As I said, we will see this in detail in the course. For now, a few observations about relations are all that we need. First, some terminology: the substance in which the relation is inherent we call the *subject* of the relation (as we would for any accident). The substance referred to we call the *object*. Moreover, the relation will always be based on some kind of foundation (quantity, action and passion, or some kind of knowledge). Second, real relations are normally *bilateral* or *reciprocal*. That is, the relation inherent in a subject will ordinarily be paired with *another* relation that is inherent in the substance that is the object of the first relation. The example we gave above of fatherhood and sonship illustrates this well: a father cannot be a father unless he has a child (in our example, a son), and that son must necessarily have a father. For this reason, relations are always *conceived* as bilateral “by default” by our intellect—even when it turns out that the reciprocal relation does not really exist. (We will see some examples below.) Finally, in modern parlance, we tend to refer to the *pair* of relations as a *relationship*. For Aristotle and Aquinas, however, what we call a *relationship* actually consists in two distinct *relations*, each one a perfection inherent in a distinct subject. Thus, for example, in modern parlance we would say that a husband and wife have an indissoluble *relationship* that we call the *marriage bond*; however, in metaphysical terms, that bond consists in *two* relations, one inherent in the husband, and the other inherent in the wife. A similar things can be said, say, of the father–son relationship and the teacher–student relationship.
+As I said, we will see this in detail in the course. For now, a few observations about relations are all that we need. First, some terminology: the substance in which the relation is inherent we call the *subject* of the relation (as we would for any accident). The substance referred to we call the *object*. Moreover, the relation will always be based on some kind of *foundation* (quantity, action and passion, or some kind of knowledge). Second, real relations are normally *bilateral* or *reciprocal*. That is, the relation inherent in a subject will ordinarily be paired with *another* relation that is inherent in the substance that is the object of the first relation. The example we gave above of fatherhood and sonship illustrates this well: a father cannot be a father unless he has a child (in our example, a son), and that son must necessarily have a father. For this reason, relations are always *conceived* as bilateral “by default” by our intellect—even when it turns out that the reciprocal relation does not really exist. (We will see some examples below.) Finally, in modern parlance, we tend to refer to the *pair* of relations as a *relationship*. For Aristotle and Aquinas, however, what we call a *relationship* actually consists in two distinct *relations*, each one a perfection inherent in a distinct subject. Thus, for example, in modern parlance we would say that a husband and wife have an indissoluble *relationship* that we call the *marriage bond*; however, in metaphysical terms, that bond consists in *two* relations, one inherent in the husband, and the other inherent in the wife. A similar things can be said, say, of the father–son relationship and the teacher–student relationship.
 
 ### Relations of Reason
 
@@ -202,7 +202,7 @@ We call concepts that refer *immediately* to entities *first intentions*. On the
 
 > Something in reality can correspond to a concept in two ways. In the first way, it does so immediately, for instance when the intellect conceives the form of some thing that is found outside the soul, such as a man or a stone. In the other way, it does so mediately, for instance when something follows the action of the intellect, and the intellect reflecting upon itself considers it. In that case, the reality corresponds to that consideration of the intellect in a mediate way, that is, by means of the understanding of reality. For example, the intellect understands the nature of animals in a man, in a horse, and in many other species. From this, it follows that the intellect understands that nature as a genus. However, nothing in external reality immediately corresponds to the concept by which the intellect understands the genus. However, some reality does correspond to the understanding from which this intention flows.[^de-potentia-intention]
 
-[^de-potentia-intention]: [Thomas Aquinas]{.smallcaps}, *Quaestiones disputate de potentia*, in: *Quaestiones disputatae*, vol.\ 2, Marietti, Turin 1965 [henceforth citied as *QdP*] q.\ 1, a.\ 1 ad 10, my translation.
+[^de-potentia-intention]: [Thomas Aquinas]{.smallcaps}, *Quaestiones disputate de potentia*, in: *Quaestiones disputatae*, vol.\ 2, Marietti, Turin 1965 [henceforth citied as *QdP*] q.\ 1, a.\ 1 ad 10 (my translation).
 
 Perhaps an analogy that can help is to compare the intellect with an instrument like a telescope. Just as the telescope is the instrument by which we are able to see faraway objects like stars, the intellect is the instrument by which we are able to know things. In order for us to see the stars, the telescope must focus the light using lenses and similar equipment. In a way, our concepts play a role analogous to that of the lenses: they are, if you will, the “window” through which we see the realities that our outside our soul. So long as the lens is focusing light coming from *stars*, it is similar to a *first intention*: that is, it is helping us to see, in an immediate way, the *stars*—an external reality. At this point, we will need to bend the analogy a little. Suppose that we could set up the telescope in such a way that we could mount a lens capable of focusing on *another lens*—perhaps in order to observe the first lens in action. That is how a second intention works: it reflexively looks back on the intellect, and points to *another work of reason* rather than an reality outside the soul.
 

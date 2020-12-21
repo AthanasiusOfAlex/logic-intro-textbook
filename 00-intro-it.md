@@ -1,3 +1,7 @@
+---
+language: italian
+---
+
 \frontmatter
 
 \title{Introduzione analitica alla logica}
