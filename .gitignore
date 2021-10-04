@@ -1,8 +1,6 @@
-*.pdf
 *.aux
 *.log
 *.out
 *.synctex.gz
 sources/
-pdf/
 .DS_Store
