@@ -11,4 +11,9 @@ Se si sta leggendo questo testo, è perché si sta seguendo un corso su *logica*
 
 Divideremo questa introduzione in tre capitoli: in primo luogo, un'introduzione alla teoria che sta alla base delle scienze e delle arti in modo da mostrare che la logica può essere classificata come entrambe le cose; in secondo luogo, un'introduzione ad alcuni concetti fondamentali dell'antropologia filosofica, in modo da comprendere meglio cosa sia un *habitus* (quale una scienza come la logica); infine, uno sguardo dettagliato sulla definizione precisa della logica.
 
+\vfill
+
+\noindent\copyright 2021 Louis Melahn, L.C.  
+Quest'opera è distribuita con Licenza [Creative Commons Attribuzione - Non opere derivate 4.0 Internazionale](http://creativecommons.org/licenses/by-nd/4.0/).
+
 \mainmatter

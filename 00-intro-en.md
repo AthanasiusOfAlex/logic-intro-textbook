@@ -26,5 +26,10 @@ all: namely, to lay the groundwork for the study of metaphysics.
 
 We will divide this introduction into three chapters: first, an introduction to the theory behind sciences and arts so as to show that logic can be classified as both; second an introduction to some basic concepts of philosophical anthropology, so that can better understand what an *habitus* (such as a science like logic) is; and finally a detailed look into the precise definition of logic.
 
+\vfill
+
+\noindent\copyright 2021 Louis Melahn, L.C.  
+This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
+
 \mainmatter
 
