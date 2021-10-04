@@ -99,7 +99,7 @@ Finally, what about the other essential characteristics of a science? Does logic
 
 In fact, we should carefully define our terms, here, because there are two distinct entities without which knowledge is simply impossible: there is our intellect, which is the faculty that permits us to make acts of knowledge—knowledge that captures the very essence and being of things; and there is the intellectual *habitus* that we are discussing here. For this reason, intellect, which is sometime called our *reason* (in Latin: *ratio*; in Greek: λόγος or *lógos*)[^reason], can be called a kind of “natural logic.” However, logic, in the strict sense of the term, refers to an *habitus*, an acquired ability that *helps* the intellect in its operation. However, it should be noted that this logic-as-science, or scientific logic, can be acquired in an imperfect way (that is, the intuitive grasp of logic that we acquire from the mere use of our reason), or else in a “perfect” or systematic way—which is what this course is attempting to do.
 
-[^reason]: In the strict sense, our *reason* refers to our capacity for acquiring new knowledge starting from knowledge that we have already acquired: that is our ability to infer or draw conclusions, or, to use the technical term, our *ratiocinium*. However, when taken broadly, the term *reason* is synonymous with the intellect.
+[^reason]: In the strict sense, our *reason* refers to our capacity for acquiring new knowledge starting from knowledge that we have already acquired: that is, our ability to infer or draw conclusions, or, to use the technical term, our *ratiocinium*. However, when taken broadly, the term *reason* is synonymous with the intellect.
 
 We must, therefore, conclude that logic is indeed a science.
 
