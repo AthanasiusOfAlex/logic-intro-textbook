@@ -105,7 +105,7 @@ We must, therefore, conclude that logic is indeed a science.
 
 ## *Logica utens* vs. *logica docens*
 
-Based on our previous discussion, the another question arises: is logic a *speculative* science or a *practical* science? A we saw, the purpose of a speculative science is knowledge for its own sake. Logic certainly seems to fit the bill. St. Thomas Aquinas in his *Summa theologiae* describes the purpose of logic in this way:
+Based on our previous discussion, the another question arises: is logic a *speculative* science or a *practical* science? As we saw, the purpose of a speculative science is knowledge for its own sake. Logic certainly seems to fit the bill. St. Thomas Aquinas in his *Summa theologiae* describes the purpose of logic in this way:
 
 > [A] certain art is required, one that can direct the very act of reason, through which man, if you will, in that same act of reason may proceed in an orderly manner, more easily, and without error, and this art is logic, that is, the rational science.[^arsquaedam]
 
