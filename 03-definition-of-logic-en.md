@@ -4,7 +4,7 @@ In this chapter, we will come to a detailed understanding of the definition of l
 
 > Logic is the instrumentally speculative and modally practical science whose material object is the works of reason, whose formal object *quod* is the relations of reason constructed between second-order intentions, and whose formal object *quo* is the light of the first principles of reason.
 
-We have already laid the necessary groundwork. In fact, you should already be able to explain what it means for logic to be an *instrumentally speculative and modally practical* By the end of this chapter, you should have a good understanding of what logic actually is.
+We have already laid the necessary groundwork. In fact, you should already be able to explain what it means for logic to be an *instrumentally speculative and modally practical*. By the end of this chapter, you should have a good understanding of what logic actually is.
 
 ## The Object
 
