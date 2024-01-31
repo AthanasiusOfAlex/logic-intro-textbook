@@ -105,7 +105,7 @@ Dobbiamo quindi concludere che la logica è davvero una scienza.
 
 ## *Logica utens* e *logica docens*
 
-Sulla base della nostra precedente discussione, sorge un'altra domanda: la logica è una scienza *speculativa* o una scienza *pratica*? Come abbiamo visto, lo scopo di una scienza speculativa è la conoscenza in quanto tale. La logica sembra certamente andare bene per il conto. San Tommaso d'Aquino nella sua *Summa theologiae* descrive lo scopo della logica in questo modo:
+Sulla base della nostra precedente discussione, sorge un'altra domanda: la logica è una scienza *speculativa* o una scienza *pratica*? Come abbiamo visto, lo scopo di una scienza speculativa è la conoscenza in quanto tale. La logica sembra certamente andare bene per il conto. San Tommaso d'Aquino nel suo commento algli *Analitici secondi* descrive lo scopo della logica in questo modo:
 
 > [È] necessaria una certa arte, quella che può dirigere l'atto stesso della ragione, attraverso la quale l'uomo, se si vuole, in quello stesso atto della ragione può procedere in modo ordinato, più facilmente e senza errori, e quest'arte è la logica, cioè la scienza razionale.[^arsquaedam]
 
