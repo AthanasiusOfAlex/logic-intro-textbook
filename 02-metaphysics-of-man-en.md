@@ -222,7 +222,7 @@ However, suppose that instead, I make the following statements:
 
 * This (what I have in my hand) is not ice cream.
 * The ice cream is not melting.
-* The ice cream does not has a chocolate flavor.
+* The ice cream does not have a chocolate flavor.
 * I did not eat ice cream yesterday.
 
 As before, I have taken two concepts, which can be termed *subject* and *predicate*; however, this time, I have *denied* the being of the predicate. Logically speaking, instead of composing subject and predicate, I have *divided* or *separated* them.
