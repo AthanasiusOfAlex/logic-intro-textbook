@@ -227,9 +227,9 @@ What logical relations will we study? They are fundamentally of three kinds or g
 
 1. *Predicability*, which describes *concepts*, and concerns the ways in which a concept can be attributed to its subject. As we will see, concepts can be either *univocal* (with one well defined meaning) or *analogical* (having only a partial unity). Moreover, the univocal concept is predicable on one of five ways: as *species*, *genus*, *difference*, *property*, or *accident*.
 
-2. *Predication*, which concerns actual attribution of a predicate to a subject, thus constituting an *enunciation*. We will learn to divide enunciations according to their mode of attribution by quantity, quality, unity, and matter.
+2. *Predication*, which concerns actual attribution of a predicate to a subject, thus constituting an *enunciation*. We will learn to divide enunciations according to their mode of attribution by *quantity*, *quality*, *unity*, and *matter*.
 
-3. *Illation*,^[Note that "illation" comes from the Latin verb *infero* (past participle: *illatum*), from which the word *inference* is derived.] which concerns the logical consequence of a conclusion from its premises, thus constituting an *argument*.
+3. *Illation*,^[Note that "illation" comes from the Latin verb *infero* (past participle: *illatum*), from which the word *inference* is derived.] which concerns the logical consequence of a conclusion from its premises, thus constituting an *argument*. Illation can, in turn, be *deductive* (proceeding from general premises to more specific conclusions) or *inductive* (proceeding from specific premises to more general conclusions). We shall spend the majority of our study of the logic of argumentation on deductive reasoning, since this forms the backbone of all scientific argumentation.^[As we will learn, we cannot arrive at certain, universal knowledge by relying solely on singular data. Pure induction, therefore, only produces *probable* conclusions. However, contact with even one material entity gives some knowledge about that thing's *nature* or *quiddity*. That knowledge is sufficient to make universal enunciations about the genus or species to which that individual belongs. Thus, we are capable of true *scientia* even though we gather our data from individuals.]
 
 ## The Formal Object *Quo* of Logic
 
