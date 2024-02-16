@@ -223,6 +223,14 @@ We are finally in a position to understand the formal object *quod* of logic:
 
 \noindent In short, *logic in itself does not study realities that are outside the soul*. Instead, it *studies the works of reason as such*, and as a consequence, we will be employing second-order intentions. Logic does not concern itself with the density of gold—that is for chemistry. However, it does concern itself with the fact that in the proposition, “Gold has a density of 19.3 g/cm\textsuperscript{3},” the concept *gold* is a species, it functions as the subject of the enunciation, and a predicate (density of a certain magnitude) is attributed to it as a property. As the example demonstrates, logic deals specifically with the relations of reason that the intellect constructs from one second-order intention to another (e.g., the relation of reason that makes *gold* the subject with respect to *density of 19.3 g/cm\textsuperscript{3}*, and the reciprocal relation that makes *density of 19.3 g/cm\textsuperscript{3}* the predicate of *gold*).
 
+What logical relations will we study? They are fundamentally of three kinds or genera, which correspond to the three types of works of reason:
+
+1. *Predicability*, which describes *concepts*, and concerns the ways in which a concept can be attributed to its subject. As we will see, concepts can be either *univocal* (with one well defined meaning) or *analogical* (having only a partial unity). Moreover, the univocal concept is predicable on one of five ways: as *species*, *genus*, *difference*, *property*, or *accident*.
+
+2. *Predication*, which concerns actual attribution of a predicate to a subject, thus constituting an *enunciation*. We will learn to divide enunciations according to their mode of attribution by quantity, quality, unity, and matter.
+
+3. *Illation*,^[Note that "illation" comes from the Latin verb *infero* (past participle: *illatum*), from which the word *inference* is derived.] which concerns the logical consequence of a conclusion from its premises, thus constituting an *argument*.
+
 ## The Formal Object *Quo* of Logic
 
 We have discussed the material object and formal object *quod* of logic: that is, *what* logic studies—namely, the works of reason—and *what specific aspect* of the material object it is concerned with—namely, the second-intention relations of reason that allow us to know the truth with certainty. We must now discuss *how* logic is able give us the ability to construct these relations correctly and thus bring us unfailingly to the truth.

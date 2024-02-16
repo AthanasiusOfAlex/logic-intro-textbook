@@ -224,6 +224,14 @@ Siamo finalmente in grado di comprendere l'oggetto formale *quod* della logica:
 
 \noindent Insomma, *la logica in sé non studia le realtà che sono al di fuori dell'anima*. Invece, *studia le opere della ragione in quanto tale* e, di conseguenza, utilizzeremo le intenzioni seconde. La logica non si preoccupa della densità dell'oro, cioè della chimica. Tuttavia, si preoccupa del fatto che nella proposizione, «L'oro ha una densità di 19,3 g/cm\textsuperscript{3}», il concetto *oro* è una specie, funziona come oggetto dell'enunciazione, e un predicato (la densità di una certa misura) gli viene attribuito come proprietà. Come dimostra l'esempio, la logica si occupa specificamente delle relazioni di ragione che l'intelletto costruisce da una seconda intenzione ad un'altra (ad esempio, la relazione di ragione che fa dell'*oro* il soggetto rispetto alla *densità di 19,3 g/cm\textsuperscript{3}*, e la relazione reciproca che fa della *densità di 19,3 g/cm\textsuperscript{3}* il predicato di *oro*).
 
+Quali relazioni logiche studieremo? Sono fondamentalmente di tre tipi o generi, che corrispondono ai tre tipi di opere della ragione:
+
+1. La *predicibilità*, che descrive i *concetti* e riguarda i modi in cui un concetto può essere attribuito al suo soggetto. Come vedremo, i concetti possono essere *univoci* (con un significato ben definito) o *analogici* (con un'unità solo parziale). Inoltre, il concetto univoco è predicibile in uno di cinque modi: come *specie*, *genere*, *differenza*, *proprietà* o *accidente*.
+
+2. La *predicazione*, che riguarda l'attribuzione effettiva di un predicato a un soggetto, costituendo così un'*enunciazione*. Impareremo a dividere le enunciazioni in base alla loro modalità di attribuzione per quantità, qualità, unità e materia.
+
+3. *Illazione*,^[Si noti che "illazione" deriva dal verbo latino *infero* (participio passato: *illatum*), da cui deriva la parola *inferenza*.] che riguarda la conseguenza logica di una conclusione dalle sue premesse, costituendo così un *argomento*.
+
 ## L'oggetto formale *quo* della logica
 
 Abbiamo discusso l'oggetto materiale e l'oggetto formale *quod* della logica: cioè, *quello* che la logica studia - cioè le opere della ragione - e *l'aspetto specifico* dell'oggetto materiale di cui si occupa - cioè le relazioni di ragione di seconda intenzione che ci permettono di conoscere con certezza la verità. Dobbiamo ora discutere *come* la logica sia in grado di darci la capacità di costruire correttamente queste relazioni e di portarci così immancabilmente alla verità.
