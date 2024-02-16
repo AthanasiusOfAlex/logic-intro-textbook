@@ -13,7 +13,7 @@ Divideremo questa introduzione in tre capitoli: in primo luogo, un'introduzione 
 
 \vfill
 
-\noindent\copyright 2021 Louis Melahn, L.C.  
+\noindent\copyright 2024 Louis Melahn, L.C.  
 Quest'opera è distribuita con Licenza [Creative Commons Attribuzione - Non opere derivate 4.0 Internazionale](http://creativecommons.org/licenses/by-nd/4.0/).
 
 \mainmatter

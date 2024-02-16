@@ -28,7 +28,7 @@ We will divide this introduction into three chapters: first, an introduction to 
 
 \vfill
 
-\noindent\copyright 2021 Louis Melahn, L.C.  
+\noindent\copyright 2024 Louis Melahn, L.C.  
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
 
 \mainmatter
