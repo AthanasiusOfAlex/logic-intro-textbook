@@ -64,11 +64,25 @@ $endif$
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
 
+\RenewDocumentCommand{\maketitle}{}{
+  \begin{center}
+  {\HUGE\thetitle}
+  \vspace{12pt}
+
+  {\large\theauthor}
+  \vspace{12pt}
+  
+  {\normalfont\thedate}
+  \end{center}
+  \cleardoublepage
+}
+
 %==================================
 
 \begin{document}
 $if(has-frontmatter)$
 \frontmatter
+\thispagestyle{empty}
 $endif$
 $if(title)$
 \maketitle

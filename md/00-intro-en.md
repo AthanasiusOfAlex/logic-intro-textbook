@@ -1,6 +1,7 @@
 ---
 title: Analytic Introduction to Logic
 author: Louis Melahn, L.C.
+date: December 11, 2024
 documentclass: memoir
 classoption:
 - oneside

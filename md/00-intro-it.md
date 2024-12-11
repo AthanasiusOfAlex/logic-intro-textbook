@@ -1,6 +1,7 @@
 ---
 title: Introduzione analitica alla logica
 author: Louis Melahn, L.C.
+date: 11 dicembre 2024
 documentclass: memoir
 classoption:
 - oneside
@@ -19,5 +20,5 @@ Divideremo questa introduzione in tre capitoli: in primo luogo, un'introduzione 
 \vfill
 
 \noindent\copyright 2024 Louis Melahn, L.C.  
-Quest'opera è distribuita con [Licenza Creative Commons Attribuzione - Non opere derivate 4.0 Internazionale](http://creativecommons.org/licenses/by-nd/4.0/).
+Quest'opera è distribuita con [Licenza Creative Commons Attribuzione --- Non opere derivate 4.0 Internazionale](http://creativecommons.org/licenses/by-nd/4.0/).
 
