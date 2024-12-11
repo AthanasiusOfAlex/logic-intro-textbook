@@ -256,13 +256,13 @@ Quindi, per riassumere ciò che abbiamo imparato finora:
 
  * La logica è una scienza strumentalmente speculativa e modalmente pratica. Abbiamo visto nel primo capitolo come la logica soddisfi le caratteristiche sia di una *scienza* che di una *arte*, e, in effetti, può essere caratterizzata sia come scienza speculativa che pratica. Può essere tutte e tre le cose insieme, perché, unico tra tutti gli *habitus* intellettuali, il suo stesso oggetto di studio, le opere della ragione, è anche ciò che produce, ed è anche il mezzo con cui raggiunge la verità. Perché la logica è il mezzo per eccellenza con cui tutte le altre scienze raggiungono la vera conoscenza del mondo al di fuori dell'anima, ma non cerca quel tipo di conoscenza in sé, diciamo che è *strumentalmente speculativa*. Poiché la logica aiuta le altre scienze ad ottenere quella conoscenza attraverso la corretta costruzione delle relazioni tra le opere della ragione, diciamo che la logica è *modalmente pratica*.
 
- * L'oggetto materiale della logica sono le opere della ragione. La logica si occupa in quanto tale di concetti, enunciazioni e argomenti: i frutti delle operazioni del nostro intelletto. È necessario ribadirlo: *la logica studia le opere della ragione, non le operazioni della ragione*.
+ * L'oggetto materiale della logica sono le opere della ragione. La logica si occupa in quanto tale di concetti, enunciazioni e argomenti: i frutti delle operazioni del nostro intelletto. È necessario ribadirlo: *la logica studia le* opere *della ragione, non le operazioni della ragione*.
  
  * L'oggetto formale *quod* della logica - quell'aspetto specifico dell'oggetto materiale di cui si occupa la logica - sono le relazioni di ragione che si possono costruire tra le seconde intenzioni. La logica guarda con riflessività alle opere della ragione, e ci dice come devono essere ordinate se vogliamo acquisire una conoscenza vera e certa. Sono tutte le altre scienze - la metafisica, la matematica, la fisica, la chimica, la chimica, la biologia, l'economia, l'astronomia e così via - che hanno a che fare con le *prime intenzioni*.
 
  * Infine, ciò che ci permette di usare la nostra ragione in modo logico (ciò che abbiamo chiamato logica naturale), e poi di studiare le opere della ragione (ciò che abbiamo chiamato logica scientifica), sono i primi principi della ragione naturale. Diciamo quindi che l'oggetto formale *quo* della logica è la luce dei primi principi.
  
- In breve,
+In sintesi,
  
 > La logica è la scienza strumentalmente speculativa e modalmente pratica che ha per oggetto materiale le opere della ragione, per oggetto formale quod le relazioni di ragione di seconda intenzione costruite tra queste opere, e per oggetto formale quo la luce dei primi principi della ragione.
 
