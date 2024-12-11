@@ -1,26 +1,62 @@
-% !TEX TS-program = xelatex
-% !TEX encoding = UTF-8 Unicode
-
+$passoptions.latex()$
+\documentclass[
 $if(fontsize)$
-\documentclass[book,$fontsize$,a4paper,oneside]{memoir}
-$else$
-\documentclass[book,12pt,a4paper,oneside]{memoir}
+  $fontsize$,
 $endif$
+$if(papersize)$
+  $papersize$paper,
+$endif$
+$for(classoption)$
+  $classoption$$sep$,
+$endfor$
+]{$documentclass$}
+$if(beamerarticle)$
+\usepackage{beamerarticle} % needs to be loaded first
+$endif$
+\usepackage{xcolor}
+$if(geometry)$
+\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+$endif$
+\usepackage{amsmath,amssymb}
+$--
+$-- section numbering
+$--
+$if(numbersections)$
+\setcounter{secnumdepth}{$if(secnumdepth)$$secnumdepth$$else$5$endif$}
+$else$
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+$endif$
+$fonts.latex()$
+$font-settings.latex()$
+$common.latex()$
+$for(header-includes)$
+$header-includes$
+$endfor$
+$after-header-includes.latex()$
+$hypersetup.latex()$
 
-\usepackage{xparse}
+$if(title)$
+\title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
+$endif$
+$if(subtitle)$
 \usepackage{etoolbox}
-\usepackage{hyperref}
-\usepackage{amsmath}
-\usepackage{lmelahnDefaultFonts}
-\usepackage{longtable,booktabs}
-\usepackage{multicol}
-\usepackage[xetex]{xcolor}
-\usepackage[xetex]{graphicx}
-\usepackage{polyglossia}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{$subtitle$}
+$endif$
+\author{$for(author)$$author$$sep$ \and $endfor$}
+\date{$date$}
+
+%========Customizations============
 \usepackage{multirow}
 \usepackage{bigdelim}
 \usepackage{adjustbox}
-\usepackage[stable]{footmisc}
+
+% Turns off a stray command
+\providecommand{\disablehyphenation}{}
 
 % Creates custom column types for fixed-width columns.
 \usepackage{array}
@@ -28,26 +64,73 @@ $endif$
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
 
-$if(mathfont)$
-\setmathfont{$mathfont$}
-$endif$
-
-$if(language)$
-\setdefaultlanguage{$language$}
-$endif$
-
-
-%% Uncomment the following code if you want table and figure
-%% numbers to follow the chapters in the “article” version of
-%% Memoir.
-%% E.g., the second table in chapter three will be Table 3.2
-\addtodef{\mainmatter}{
-  \counterwithin{figure}{chapter}
-  \counterwithin{table}{chapter}
-  \renewcommand\thetable{\thechapter.\arabic{table}}
-  \renewcommand\thefigure{\thechapter.\arabic{figure}}
-}
+%==================================
 
 \begin{document}
-    $body$
+$if(has-frontmatter)$
+\frontmatter
+$endif$
+$if(title)$
+\maketitle
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
+$endif$
+
+$for(include-before)$
+$include-before$
+
+$endfor$
+$if(toc)$
+$if(toc-title)$
+\renewcommand*\contentsname{$toc-title$}
+$endif$
+{
+$if(colorlinks)$
+\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
+$endif$
+\setcounter{tocdepth}{$toc-depth$}
+\tableofcontents
+}
+$endif$
+$if(lof)$
+\listoffigures
+$endif$
+$if(lot)$
+\listoftables
+$endif$
+$if(linestretch)$
+\setstretch{$linestretch$}
+$endif$
+$if(has-frontmatter)$
+\mainmatter
+$endif$
+$body$
+
+$if(has-frontmatter)$
+\backmatter
+$endif$
+$if(natbib)$
+$if(bibliography)$
+$if(biblio-title)$
+$if(has-chapters)$
+\renewcommand\bibname{$biblio-title$}
+$else$
+\renewcommand\refname{$biblio-title$}
+$endif$
+$endif$
+\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
+
+$endif$
+$endif$
+$if(biblatex)$
+\printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
+
+$endif$
+$for(include-after)$
+$include-after$
+
+$endfor$
 \end{document}

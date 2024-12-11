@@ -1,12 +1,16 @@
 ---
 title: Analytic Introduction to Logic
+author: Louis Melahn, L.C.
 documentclass: memoir
-header-includes: |
-  \usepackage{adjustbox}
+classoption:
+- oneside
 fontfamily: ebgaramond
 fontsize: 12pt
+papersize: a4
 language: english
 ---
+
+# Introduction {-}
 
 If you are reading this text, it is because you are taking a course on
 *logic*. Most of us understand intuitively that logic has something to
@@ -24,13 +28,9 @@ actually *is*. Introducing these topics will also help serve one of the
 reasons why logic is taught at the beginning of philosophical studies at
 all: namely, to lay the groundwork for the study of metaphysics.
 
-
 We will divide this introduction into three chapters: first, an introduction to the theory behind sciences and arts so as to show that logic can be classified as both; second an introduction to some basic concepts of philosophical anthropology, so that can better understand what an *habitus* (such as a science like logic) is; and finally a detailed look into the precise definition of logic.
 
 \vfill
 
 \noindent\copyright 2024 Louis Melahn, L.C.  
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
-
-\mainmatter
-

@@ -12,7 +12,7 @@ epub_extension=epub
 epub_settings=""
 
 pdf_extension=pdf
-pdf_settings="--pdf-engine=lualatex --standalone --top-level-division=chapter"
+pdf_settings="--pdf-engine=lualatex --standalone --template=templates/logic-textbook.latex"
 
 for language in "${languages[@]}"; do
    cat $input_path/*-$language.$input_extension | pandoc $epub_settings -o $output_path/$base_name-$language.$output.$epub_extension
