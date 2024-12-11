@@ -1,11 +1,12 @@
 ---
+title: Analytic Introduction to Logic
+documentclass: memoir
+header-includes: |
+  \usepackage{adjustbox}
+fontfamily: ebgaramond
+fontsize: 12pt
 language: english
 ---
-
-\frontmatter
-
-\title{Analytic Introduction to Logic}
-\maketitle
 
 If you are reading this text, it is because you are taking a course on
 *logic*. Most of us understand intuitively that logic has something to

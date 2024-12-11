@@ -4,17 +4,17 @@ base_name=analytic-introduction
 languages=("en" "it")
 
 input_path=md
-output_path=pdf
+output_path=output
 
 input_extension=md
 
 epub_extension=epub
-epub_settings="-o $output_path/$base_name-$language.$output.$epub_extension"
+epub_settings=""
 
-pdf_extension=epub
-pdf_settings="-o $output_path/$base_name-$language.$output.$epub_extension --pdf-engine=xelatex --standalone --template templates/logic-textbook.latex --top-level-division=chapter"
+pdf_extension=pdf
+pdf_settings="--pdf-engine=lualatex --standalone --top-level-division=chapter"
 
 for language in "${languages[@]}"; do
-    cat $input_path/*-$language.$input_extension | pandoc $epub_settings
-    cat $input_path/*-$language.$input_extension | pandoc $pdf_settings
+   cat $input_path/*-$language.$input_extension | pandoc $epub_settings -o $output_path/$base_name-$language.$output.$epub_extension
+   cat $input_path/*-$language.$input_extension | pandoc $pdf_settings -o $output_path/$base_name-$language.$output.$pdf_extension
 done
