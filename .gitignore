@@ -4,4 +4,4 @@
 *.out
 *.synctex.gz
 sources/
-
+output/
