@@ -85,7 +85,7 @@ Consideriamo per un momento un padre e un figlio. Metafisicamente parlando, entr
 
 In breve, un πρός τι, o, come l'abbiamo conosciuto attraverso il latino medievale, una *relazione* è, in primo luogo, una referenza che una sostanza ha rispetto ad un'altra. [^reference-relation] Imparerete di più sulle relazioni nel vostro corso di logica, poiché esse costituiscono una delle categorie che studieremo in dettaglio. Come stiamo per scoprire, il concetto di *relazione* si estende al di là della vera perfezione inerente ad una sostanza. A volte chiamiamo questo tipo di relazione una *relazione reale* per distinguerla dalle altre che stiamo per esaminare. La tabella \ref{tab:examples-of-real-relations} fornisce alcuni esempi di relazioni reali.
 
-[^reference-relation]: Per chi ha studiato il latino, può essere utile ricordare che la parola *relazione* deriva dal verbo *re-ferro*, che ha il participio passato *re-latum*.
+[^reference-relation]: Per chi ha studiato il latino, può essere utile ricordare che la parola *relazione* deriva dal verbo *re-fero*, che ha il participio passato *re-latum*.
 
 
 \begin{table}[ht]
