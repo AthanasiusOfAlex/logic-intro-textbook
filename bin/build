@@ -1,7 +1,7 @@
 #!/bin/sh
 
 base_name=analytic-introduction
-languages=("en" "it")
+languages=("en" "it" "sp")
 
 input_path=md
 output_path=output
@@ -18,7 +18,7 @@ latex_extension=tex
 latex_settings="$pdf_settings --standalone"
 
 for language in "${languages[@]}"; do
-   # cat $input_path/*-$language.$input_extension | pandoc $latex_settings -o $output_path/$base_name-$language.$output.$latex_extension
-   cat $input_path/*-$language.$input_extension | pandoc $epub_settings -o $output_path/$base_name-$language.$epub_extension
-   cat $input_path/*-$language.$input_extension | pandoc $pdf_settings -o $output_path/$base_name-$language.$pdf_extension
+   # cat $input_path/$language/*.$input_extension | pandoc $latex_settings -o $output_path/$base_name-$language.$output.$latex_extension
+   cat $input_path/$language/*.$input_extension | pandoc $epub_settings -o $output_path/$base_name-$language.$epub_extension
+   cat $input_path/$language/*.$input_extension | pandoc $pdf_settings -o $output_path/$base_name-$language.$pdf_extension
 done
