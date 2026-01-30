@@ -1,0 +1,3 @@
+# Conclusion {-}
+
+The book began by asking "What precisely is logic?" with precision and rigor. Readers have explored the place of logic among other arts and sciences. The book examined how logic perfects the intellect as an intellectual habitus. Readers should now be able to explain the definition of logic. Logic studies the works of reason as regards relations constructed between second-order intentions in light of the first principles of reason. Readers are now better prepared to explore the three great divisions of this science: the logic of the concept, the logic of the enunciation, and the logic of the argument.
