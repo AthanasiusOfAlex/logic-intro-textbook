@@ -160,7 +160,7 @@ Con la lógica, sin embargo, usamos nuestro intelecto para estudiar obras produc
 
 ## Cómo la lógica es necesaria
 
-Antes de cerrar este capítulo, me gustaría decir una palabra sobre la manera en que la lógica es una necesidad. Como dice Aquino, «lo necesario es aquello que no puede no ser».[^definition-of-necessity] ¿De qué manera se puede decir que la lógica es necesaria? Tomemos un momento para desentrañar esta idea más a fondo.
+Antes de cerrar este capítulo, me gustaría decir una palabra sobre la manera en que la lógica es una necesidad. Como dice Aquino, «lo necesario es aquello que no puede no ser». ¿De qué manera se puede decir que la lógica es necesaria? Tomemos un momento para desentrañar esta idea más a fondo.
 
 Aquino argumenta que hay fundamentalmente cuatro tipos de necesidad:[^four-species-of-causes]
 

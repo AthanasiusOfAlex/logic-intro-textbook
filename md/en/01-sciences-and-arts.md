@@ -160,17 +160,17 @@ With logic, however, we use our intellect to study works produced by that same i
 
 ## How Logic is Necessary
 
-Before closing this chapter, I would like to say a word about the manner in which logic is a necessity. As Aquinas says, "the necessary is what which cannot not be."[^defitition-of-necessity] In what way can logic be said to be necessary? Let us take a moment to unpack this idea further.
+Before closing this chapter, I would like to say a word about the manner in which logic is a necessity. As Aquinas says, "the necessary is what which cannot not be." In what way can logic be said to be necessary? Let us take a moment to unpack this idea further.
 
 Aquinas argues that there are fundamentally four kinds of necessity:[^four-species-of-causes]
 
 > In fact, one way that [being necessary] pertains to something is by an intrinsic principle, which can be either material, such as when we say that it is necessary for everything composed from contraries to be corrupted, or formal, such as when we say that it is necessary for the three angles of a triangle to be equal to two right angles. This is natural or absolute necessity.
 >
-> Another way that something is unable not to be is by an extrinsic principle, either an end or an agent. For instance, and end is necessary when something cannot be obtained without it, or else cannot be obtained well without it, as food is necessary to life and a horse for a journey. This is called the necessity of end, which is also sometimes called utility. There is necessity regarding agents when someone is forced by an agent, so that he is unable to do the contrary. This is the necessity of coercion.[^defitition-of-necessity]
+> Another way that something is unable not to be is by an extrinsic principle, either an end or an agent. For instance, and end is necessary when something cannot be obtained without it, or else cannot be obtained well without it, as food is necessary to life and a horse for a journey. This is called the necessity of end, which is also sometimes called utility. There is necessity regarding agents when someone is forced by an agent, so that he is unable to do the contrary. This is the necessity of coercion.[^definition-of-necessity]
 
 [^four-species-of-causes]: Attentive readers familiar with Aristotle will observe that each kind of necessity is closely tied to a corresponding species of *cause*: agent, formal, material, and final.
 
-[^defitition-of-necessity]: [Thomas Aquinas]{.smallcaps}, *Summa Theologiae*, Leon.\ vols. 4–12, Typographia Polyglotta S.C. de Propaganda Fide, Rome 1888–1906 (henceforth cited as *S.Th.*), I q.\ 82, a.\ 1, *responsum* (my translation).
+[^definition-of-necessity]: [Thomas Aquinas]{.smallcaps}, *Summa Theologiae*, Leon.\ vols. 4–12, Typographia Polyglotta S.C. de Propaganda Fide, Rome 1888–1906 (henceforth cited as *S.Th.*), I q.\ 82, a.\ 1, *responsum* (my translation).
 
 Let us look at each of these in turn:
 
