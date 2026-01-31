@@ -233,7 +233,7 @@ Finalmente estamos en posición de entender el objeto formal *quod* de la lógic
 
 [^illation]: Nota que "ilación" viene del verbo latino *infero* (participio pasado: *illatum*), del cual se deriva la palabra *inferencia*.
 
-[^pure-induction]: Como aprenderemos, no podemos llegar a conocimiento cierto y universal confiando únicamente en datos singulares. La inducción pura, por lo tanto, sólo produce conclusiones *probables*. Sin embargo, el contacto con incluso una entidad material da algún conocimiento sobre la *naturaleza* o *quididad* de esa cosa. Ese conocimiento es suficiente para hacer enunciaciones universales sobre el género o especie a la cual ese individuo pertenece. Así, somos capaces de verdadera *scientia* aunque reunamos nuestros datos de individuos.
+[^pure-induction]: Como aprenderemos, no podemos llegar a conocimiento cierto y universal confiando únicamente en datos singulares. La inducción pura, por lo tanto, sólo produce conclusiones *probables*. Sin embargo, el contacto con incluso un ente material da algún conocimiento sobre la *naturaleza* o *quididad* de esa cosa. Ese conocimiento es suficiente para hacer enunciaciones universales sobre el género o especie a la cual ese individuo pertenece. Así, somos capaces de verdadera *scientia* aunque reunamos nuestros datos de individuos.
 
 ## El Objeto Formal *Quo* de la Lógica
 
