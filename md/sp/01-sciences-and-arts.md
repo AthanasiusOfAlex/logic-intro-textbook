@@ -50,11 +50,11 @@ En resumen: una ciencia o ἐπιστήμη es un *habitus* intelectual que ayud
 
 2. Proporciona conocimiento cierto de su objeto ---es decir, permite a quien posee la ciencia conocer sin error.
 
-3. Da cuenta de fenómenos que no pueden ser diferentes de la forma en que son, o no pueden surgir de una manera diferente. Es decir, da cuenta de fenómenos que están vinculados necesariamente (*per se*), y no meramente incidentalmente (*per accidens*), al objeto de estudio.
+3. Explica fenómenos que no pueden ser diferentes de la forma en que son, o no pueden surgir de una manera diferente. Es decir, trata fenómenos que están vinculados necesariamente (*per se*), y no meramente incidentalmente (*per accidens*), al objeto de estudio.
 
 4. Finalmente, se aplica universalmente al objeto de estudio: no hay ciencia, como tal, de singulares y particulares.
 
-Un par de cosas se siguen de esto. En primer lugar, para determinar si un *habitus* intelectual dado es una ciencia, es suficiente mostrar que tiene estas cuatro características. Volveremos a este tema más adelante. En segundo lugar, no es posible que la ciencia o ἐπιστήμη, en el sentido estricto del término, sea falsa; es decir, la información falsa es el resultado, no de la ciencia, sino de la opinión errónea (δόξα).
+Un par de cosas se siguen de esto. En primer lugar, para determinar si un determinado *habitus* intelectual es una ciencia, es suficiente mostrar que tiene estas cuatro características. Volveremos a este tema más adelante. En segundo lugar, no es posible que la ciencia o ἐπιστήμη, en el sentido estricto del término, sea falsa; es decir, la información falsa es el resultado, no de la ciencia, sino de la opinión errónea (δόξα).
 
 ## Ciencias especulativas vs. prácticas
 
