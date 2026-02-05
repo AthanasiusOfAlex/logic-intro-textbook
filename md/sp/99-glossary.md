@@ -1,6 +1,6 @@
 # Glosario {-}
 
-**lógica**. La ciencia de las obras de la razón, y el arte de razonar bien —el objeto de nuestra introducción. (Elaboraremos una definición más rigurosa al final de esta unidad).
+**lógica**. La ciencia de las obras de la razón, y el arte de razonar bien ---el objeto de nuestra introducción. (Elaboraremos una definición más rigurosa al final de esta unidad).
 
 **lógica natural**. El intelecto humano en sí mismo, en cuanto tiene la capacidad de razonar.
 
