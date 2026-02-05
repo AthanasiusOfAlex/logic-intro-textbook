@@ -1,6 +1,6 @@
 # Glossary {-}
 
-**logic**. The science of the works of reason, and the art of reasoning well---the object of our introduction. (We will elaborate a more rigorous definition at the end of this unit).
+**logic**. The science of the works of reason, and the art of reasoning well---the object of our introduction. (We will develop a more rigorous definition at the end of this unit).
 
 **natural logic**. Human intellect itself, insofar as it has the ability to reason.
 
@@ -8,7 +8,7 @@
 
 ***habitus***. A stable disposition that predisposes its subject to be or act well or badly.
 
-**science**. A good intellectual *habitus* that disposes one to certain, necessary, and universal knowledge of the properties of an object, through its causes. The classical definition is *cognitio certa per causas*: certain knowledge through causes.
+**science**. A good intellectual *habitus* that disposes one to certain, necessary, and universal knowledge of the properties of an object through its causes. The classical definition is *cognitio certa per causas*: certain knowledge through causes.
 
 **speculative science**. A science whose aim is to attain knowledge for its own sake.
 
@@ -26,4 +26,4 @@
 
 **intellect**. The capacity to know things by their essence and their being.
 
-**reason**. The discursive capacity of man, by which he passes from what is known to what is unknown. In the context of men it can also be, improperly, a synonym for human intellect.
+**reason**. The discursive capacity of mankind, by which he passes from what is known to what is unknown. In the context of humans it can also be, improperly, a synonym for human intellect.
