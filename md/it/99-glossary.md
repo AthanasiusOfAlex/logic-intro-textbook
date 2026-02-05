@@ -8,7 +8,7 @@
 
 ***habitus***. Una disposizione stabile che predispone il suo soggetto a essere o agire bene o male.
 
-**scienza**. Un buon *habitus* intellettuale che dispone alla conoscenza certa, necessaria e universale delle proprietà di un oggetto, attraverso le sue cause. La definizione classica è *cognitio certa per causas*: la conoscenza certa attraverso le cause.
+**scienza**. Un *habitus* intellettuale buono che dispone alla conoscenza certa, necessaria e universale delle proprietà di un oggetto, attraverso le sue cause. La definizione classica è *cognitio certa per causas*: la conoscenza certa attraverso le cause.
 
 **scienza speculativa**. Una scienza il cui fine è raggiungere la conoscenza per se stessa.
 
@@ -20,7 +20,7 @@
 
 **necessario**. Ciò che non può non essere.
 
-**arte**. Un buon *habitus* intellettuale che predispone il soggetto alla produzione ben realizzata di qualcosa. La definizione classica è *recta ratio factibilium*: la retta ragione applicata alle cose che si fanno.
+**arte**. Un *habitus* intellettuale buono che predispone il soggetto alla produzione ben realizzata di qualcosa. La definizione classica è *recta ratio factibilium*: la retta ragione applicata alle cose che si fanno.
 
 **oggetto**. Quello verso cui si dirige una potenza (come l'intelletto), un *habitus* o un'azione. Per le scienze, si tratta dell'oggetto di studio; per le arti è il prodotto.
 
