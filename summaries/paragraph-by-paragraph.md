@@ -22,6 +22,7 @@ This introduction is divided into three chapters. The first chapter introduces t
 
 \noindent\copyright 2024 Louis Melahn, L.C.
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
+
 # Logic as a Science and an Art
 
 ## Sciences vs. Disciplines
