@@ -74,7 +74,7 @@ Especulativa & Práctica \\
 \midrule
 Metafísica & --- \\
 ---           & Ética \\
-Biología     & Medicina \\
+Biología     & Ciencia médica \\
 Química   & Ingeniería química \\
 Física     & Ingeniería mecánica \\
 Matemáticas & --- \\
@@ -93,7 +93,7 @@ Es hora ahora de volver nuestra atención una vez más a nuestro tema ---la lóg
 
 ¿Es la lógica una *cognitio* ---es decir, un *habitus*, o disposición estable, del intelecto? En otras palabras, en ausencia de la lógica, ¿se vería impedido el intelecto de adquirir ciertos tipos de conocimiento? Veremos esto más claramente cuando demos la definición de lógica más adelante, pero incluso basándonos en nuestra comprensión intuitiva de la lógica, podemos responder con confianza «sí»: de hecho, en la completa ausencia de lógica, seríamos incapaces de adquirir conocimiento *alguno* ---y un estudio sistemático de la lógica hace nuestro pensamiento más fácil, más ordenado y menos propenso al error.
 
-¿Proporciona la lógica conocimiento seguro y cierto al vincular lo que estudia con sus causas? Como veremos, la respuesta es nuevamente «sí». La lógica busca las *causas del conocimiento*: por ejemplo, a través de la lógica, puedo estar seguro de que la conclusión $C$ se sigue de las premisas $A$ y $B$. Este tipo de causalidad es diferente de la que se busca, digamos, en las ciencias que enumeré anteriormente, todas las cuales buscan las *causas del ser*, en lugar de las causas del conocimiento. Es decir, la causalidad *lógica* propia de la lógica es distinta de la causalidad *ontológica* propia de otras ciencias ---pero sigue siendo causalidad.
+¿Proporciona la lógica conocimiento seguro y cierto al vincular lo que estudia con sus causas? Como veremos, la respuesta es nuevamente «sí». La lógica busca las *causas del conocimiento*: por ejemplo, a través de la lógica, puedo estar seguro de que la conclusión $C$ se sigue de las premisas $A$ y $B$. Este tipo de causalidad es diferente de la que se busca, digamos, en las ciencias que enumeré anteriormente, todas las cuales buscan las *causas del ser*, en lugar de las causas del conocimiento. Es decir, la causalidad *lógica* es distinta de la causalidad *ontológica* propia de otras ciencias ---pero sigue siendo causalidad.
 
 Finalmente, ¿qué hay de las otras características esenciales de una ciencia? ¿Proporciona la lógica conocimiento *cierto* ---es decir, conocimiento sin error? ¿Suministra conocimiento que se sigue necesariamente de la naturaleza de su objeto de estudio? ¿El conocimiento que proporciona se aplica universalmente a su objeto? Nuevamente, la respuesta a las tres preguntas es afirmativa. En cuanto a la certeza, el propósito mismo de la lógica es facilitar nuestra capacidad de razonamiento y hacerla menos propensa al error. En cuanto a la necesidad, nuevamente, la lógica proporciona las herramientas que necesitamos para ver que las conclusiones a las que llegamos son las correctas, y no podrían ser de otra manera. En cuanto a la universalidad, es claro que la lógica se aplica a *todas* las obras de nuestro intelecto, sin excepción.
 
