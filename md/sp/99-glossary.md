@@ -1,5 +1,7 @@
 # Glosario {-}
 
+## La lógica como ciencia y como arte
+
 **lógica**. La ciencia de las obras de la razón, y el arte de razonar bien ---el objeto de nuestra introducción. (Elaboraremos una definición más rigurosa al final de esta unidad).
 
 **lógica natural**. El intelecto humano en sí mismo, en cuanto tiene la capacidad de razonar.
@@ -27,6 +29,8 @@
 **intelecto**. La capacidad de conocer las cosas por su esencia y su ser.
 
 **razón**. La capacidad discursiva del hombre, por la cual pasa de lo conocido a lo desconocido. En el contexto de los hombres puede ser también, impropiamente, un sinónimo del intelecto humano.
+
+## Introducción a la metafísica del hombre
 
 **metafísica**. La ciencia del ente en cuanto ente.
 
