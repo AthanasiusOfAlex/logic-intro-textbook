@@ -27,3 +27,17 @@
 **intellect**. The capacity to know things by their essence and their being.
 
 **reason**. The discursive capacity of mankind, by which he passes from what is known to what is unknown. In the context of humans it can also be, improperly, a synonym for human intellect.
+
+**metaphysics**. The science of *ens qua ens*.
+
+**philosophical anthropology**. The science of man as man. It applies metaphysical principles to mankind.
+
+**entity** (**ens**). Any reality that exists, *id quod est* (that which is), *id quod habet esse* (that which has existence).
+
+**substance**. An entity that subsists, that is, possesses being in itself and of itself.
+
+**accident**. An entity that inheres in a substance, as a perfection of it.
+
+**faculty** or **power**. The capacity inherent in a substance to perform a determinate species of operation.
+
+**operation**. An action performed.

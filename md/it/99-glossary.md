@@ -27,3 +27,17 @@
 **intelletto**. La capacità di conoscere le cose per la loro essenza e il loro essere.
 
 **ragione**. La capacità discorsiva dell'uomo, per la quale passa da ciò che è noto a ciò che è ignoto. Nel contesto degli uomini può essere anche, impropriamente, un sinonimo dell'intelletto umano.
+
+**metafisica**. La scienza dell'ente in quanto ente.
+
+**antropologia filosofica**. La scienza dell'uomo in quanto è uomo. Applica i principi metafisici all'uomo.
+
+**ente**. Qualsiasi realtà che esista, *id quod est* (ciò che è), *id quod habet esse* (ciò che possiede l'essere).
+
+**sostanza**. Un ente che sussiste, cioè possiede l'essere in sé e per sé.
+
+**accidente**. Un ente che inerisce in una sostanza, come perfezione di essa.
+
+**facoltà** o **potenza**. La capacità inerente in una sostanza di realizzare una determinata specie di operazione.
+
+**operazione**. Un'azione realizzata.
