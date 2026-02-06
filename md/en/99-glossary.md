@@ -1,6 +1,6 @@
 # Glossary {-}
 
-## Logic as a Science and an Art
+## Logic as a Science and an Art {-}
 
 **logic**. The science of the works of reason, and the art of reasoning well---the object of our introduction. (We will develop a more rigorous definition at the end of this unit).
 
@@ -30,7 +30,7 @@
 
 **reason**. The discursive capacity of mankind, by which he passes from what is known to what is unknown. In the context of humans it can also be, improperly, a synonym for human intellect.
 
-## A Primer on the Metaphysics of Man
+## A Primer on the Metaphysics of Man {-}
 
 **metaphysics**. The science of *ens qua ens*.
 

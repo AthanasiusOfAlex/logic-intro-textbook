@@ -1,6 +1,6 @@
 # Glossario {-}
 
-## Logica come scienza e arte
+## Logica come scienza e arte {-}
 
 **logica**. La scienza delle opere della ragione, e l'arte di ragionare bene ---l'oggetto della nostra introduzione. (Elaboreremo una definizione più rigorosa alla fine di questa unità).
 
@@ -30,7 +30,7 @@
 
 **ragione**. La capacità discorsiva dell'uomo, per la quale passa da ciò che è noto a ciò che è ignoto. Nel contesto degli uomini può essere anche, impropriamente, un sinonimo dell'intelletto umano.
 
-## Un primo approccio alla metafisica dell'uomo
+## Un primo approccio alla metafisica dell'uomo {-}
 
 **metafisica**. La scienza dell'ente in quanto ente.
 
