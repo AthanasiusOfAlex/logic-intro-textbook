@@ -42,6 +42,8 @@
 
 **accidente**. Un ente che inerisce in una sostanza, come perfezione di essa.
 
+**supposito** (***suppositum***) Una sostanza in quanto soggetto individuale sussistente.
+
 **facoltà** o **potenza**. La capacità inerente in una sostanza di realizzare una determinata specie di operazione.
 
 **operazione**. Un'azione realizzata.

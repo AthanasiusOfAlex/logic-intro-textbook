@@ -42,6 +42,8 @@
 
 **accidente**. Un ente que inhiere en una substancia, como perfección de ella.
 
+**supuesto** (***suppositum***). Una substancia en cuanto es sujeto individual subsistente.
+
 **facultad** o **poder**. La capacidad inherente en una substancia de realizar una determinada especie de operación.
 
 **operación**. Una acción realizada.

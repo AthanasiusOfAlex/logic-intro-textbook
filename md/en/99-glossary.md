@@ -42,6 +42,8 @@
 
 **accident**. An entity that inheres in a substance, as a perfection of it.
 
+**supposit** (***suppositum***). A substance insofar as it is a subsistent individual subject.
+
 **faculty** or **power**. The capacity inherent in a substance to perform a determinate species of operation.
 
 **operation**. An action performed.
