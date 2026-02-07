@@ -6,7 +6,7 @@
 
 **lógica natural**. El intelecto humano en sí mismo, en cuanto tiene la capacidad de razonar.
 
-**lógica científica**. El *habitus* intelectual que completa su capacidad inicial de razonar.
+**lógica científica**. El *habitus* intelectual que completa la capacidad inicial de razonar.
 
 ***habitus***. Una disposición estable que predispone a su sujeto a ser o actuar bien o mal.
 
@@ -47,3 +47,41 @@
 **facultad** o **poder**. La capacidad inherente en una substancia de realizar una determinada especie de operación.
 
 **operación**. Una acción realizada.
+
+**obra** (***operatum***). El fruto o producto realizado por una operación.
+
+**disposición**. Una perfección transitoria que predispone a su sujeto a ser o actuar bien o mal.
+
+***habitus* operativo**. Un *habitus* ordenado a la operación, que perfecciona o deforma una facultad, disponiéndola a actuar bien o mal.
+
+***habitus* entitativo**. Un *habitus* que no está ordenado inmediatamente a la operación, sino que produce un estado de ser en la substancia.
+
+**virtud**. Un *habitus* operativo bueno, que dispone establemente al sujeto a actuar bien.
+
+**vicio**. Un *habitus* operativo malo, que dispone establemente al sujeto a actuar mal.
+
+**opinión**. Un conocimiento que, a diferencia de la ciencia (*scientia*), es transitorio, inseguro y puede ser falso, pues no se fundamenta en las causas.
+
+**aprehensión simple**. La operación del intelecto que discierne *qué* es algo, captando su esencia o quididad.
+
+**quididad** (***quidditas***). La noción o definición inteligible de un ente ---la respuesta a la pregunta «¿Qué es?».
+
+**concepto**. El producto u obra de la aprehensión simple por el cual se conoce la quididad.
+
+**término**. La expresión lingüística o verbal de un concepto.
+
+**juicio** (o **composición y división**). La operación del intelecto que atribuye un predicado a un sujeto, discerniendo *si* ese predicado pertenece a ese sujeto.
+
+**enunciación**. El producto u obra del juicio.
+
+**proposición**. La expresión verbal o escrita de una enunciación.
+
+**sujeto**. En el contexto del juicio, aquello de lo que se predica algo.
+
+**predicado**. En el contexto del juicio, aquello que se afirma o se niega del sujeto.
+
+**raciocinio** (o **argumentación**). El proceso discursivo por el cual se pasa de lo conocido a lo desconocido, derivando conclusiones a partir de enunciaciones previamente establecidas.
+
+**argumento inteligible**. El producto u obra del raciocinio.
+
+**silogismo**. La expresión lingüística del argumento inteligible.

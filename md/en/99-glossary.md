@@ -47,3 +47,42 @@
 **faculty** or **power**. The capacity inherent in a substance to perform a determinate species of operation.
 
 **operation**. An action performed.
+
+**work** (***operatum***). The fruit or product of an operation.
+
+**disposition**. A transitory perfection that predisposes its subject to be or act well or badly.
+
+**operative *habitus***. An *habitus* ordered to operation, which perfects or deforms a faculty, disposing it to act well or badly.
+
+**entitative *habitus***. An *habitus* that is not immediately ordered to operation, but rather produces a state of being in the substance.
+
+**virtue**. A good operative *habitus*, which stably disposes its subject to act well.
+
+**vice**. A bad operative *habitus*, which stably disposes its subject to act badly.
+
+**opinion**. A knowledge that, unlike science (*scientia*), is transitory, uncertain, and can be false, since it is not grounded in causes.
+
+**simple apprehension**. The operation of the intellect that discerns *what* something is, grasping its essence or quiddity.
+
+**quiddity** (***quidditas***). The intelligible notion or definition of an entity---the answer to the question "What is it?".
+
+**concept**. The product or work of simple apprehension through which the quiddity is known.
+
+**term**. The linguistic or verbal expression of a concept.
+
+**judgment** (or **composition and division**). The operation of the intellect that attributes a predicate to a subject, discerning *whether* that predicate pertains to that subject.
+
+**enunciation**. The product or work of judgment.
+
+**proposition**. The verbal or written expression of an enunciation.
+
+**subject**. In the context of judgment, that of which something is predicated.
+
+**predicate**. In the context of judgment, that which is affirmed or denied of the subject.
+
+**reasoning** (or **argumentation**). The discursive process by which one passes from what is known to what is unknown, deriving conclusions from previously established enunciations.
+
+**intelligible argument**. The product or work of reasoning.
+
+**syllogism**. The linguistic expression of an intelligible argument.
+

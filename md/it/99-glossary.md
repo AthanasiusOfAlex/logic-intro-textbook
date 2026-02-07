@@ -6,7 +6,7 @@
 
 **logica naturale**. L'intelletto umano in se stesso, nella misura in cui ha la capacità di ragionare.
 
-**logica scientifica**. L'*habitus* intellettuale che completa la sua capacità iniziale di ragionare.
+**logica scientifica**. L'*habitus* intellettuale che completa la capacità iniziale di ragionare.
 
 ***habitus***. Una disposizione stabile che predispone il suo soggetto a essere o agire bene o male.
 
@@ -42,8 +42,47 @@
 
 **accidente**. Un ente che inerisce in una sostanza, come perfezione di essa.
 
-**supposito** (***suppositum***) Una sostanza in quanto soggetto individuale sussistente.
+**supposito** (***suppositum***). Una sostanza in quanto soggetto individuale sussistente.
 
 **facoltà** o **potenza**. La capacità inerente in una sostanza di realizzare una determinata specie di operazione.
 
 **operazione**. Un'azione realizzata.
+
+**opera** (***operatum***). Il frutto o prodotto realizzato da un'operazione.
+
+**disposizione**. Una perfezione transitoria che predispone il suo soggetto a essere o agire bene o male.
+
+***habitus* operativo**. Un *habitus* ordinato all'operazione, che perfeziona o deforma una facoltà, disponendola ad agire bene o male.
+
+***habitus* entitativo**. Un *habitus* che non è ordinato immediatamente all'operazione, ma produce uno stato di essere nella sostanza.
+
+**virtù**. Un *habitus* operativo buono, che dispone stabilmente il soggetto ad agire bene.
+
+**vizio**. Un *habitus* operativo cattivo, che dispone stabilmente il soggetto ad agire male.
+
+**opinione**. Una conoscenza che, a differenza della scienza (*scientia*), è transitoria, insicura e può essere falsa, poiché non si fonda sulle cause.
+
+**apprensione semplice**. L'operazione dell'intelletto che discerne *che cosa* è qualcosa, cogliendone l'essenza o quiddità.
+
+**quiddità** (***quidditas***). La nozione o definizione intelligibile di un ente ---la risposta alla domanda «Che cos'è?».
+
+**concetto**. Il prodotto o opera dell'apprensione semplice attraverso il quale si conosce la quiddità.
+
+**termine**. L'espressione linguistica o verbale di un concetto.
+
+**giudizio** (o **composizione e divisione**). L'operazione dell'intelletto che attribuisce un predicato a un soggetto, discernendo *se* quel predicato appartenga a quel soggetto.
+
+**enunciazione**. Il prodotto o opera del giudizio.
+
+**proposizione**. L'espressione verbale o scritta di un'enunciazione.
+
+**soggetto**. Nel contesto del giudizio, ciò di cui si predica qualcosa.
+
+**predicato**. Nel contesto del giudizio, ciò che si afferma o si nega del soggetto.
+
+**raziocinio** (o **argomentazione**). Il processo discorsivo per il quale si passa dal noto all'ignoto, derivando conclusioni da enunciazioni precedentemente stabilite.
+
+**argomento intelligibile**. Il prodotto o opera del raziocinio.
+
+**sillogismo**. L'espressione linguistica dell'argomento intelligibile.
+
