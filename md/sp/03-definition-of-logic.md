@@ -227,7 +227,7 @@ Finalmente estamos en posición de entender el objeto formal *quod* de la lógic
 
 1. *Predicabilidad*, que describe *conceptos*, y concierne a las maneras en que un concepto puede ser atribuido a su sujeto. Como veremos, los conceptos pueden ser ya sea *unívocos* (con un significado bien definido) o *análogos* (teniendo sólo una unidad parcial). Además, el concepto unívoco es predicable de una de cinco maneras: como *especie*, *género*, *diferencia*, *propiedad*, o *accidente*.
 
-2. *Predicación*, que concierne a la atribución real de un predicado a un sujeto, constituyendo así una *enunciación*. Aprenderemos a dividir enunciaciones según su modo de atribución por *cantidad*, *calidad*, *unidad*, y *materia*.
+2. *Atribución*, que concierne a la atribución real de un predicado a un sujeto, constituyendo así una *enunciación*. Aprenderemos a dividir enunciaciones según su modo de atribución por *cantidad*, *calidad*, *unidad*, y *materia*.
 
 3. *Ilación*,[^illation] que concierne a la consecuencia lógica de una conclusión a partir de sus premisas, constituyendo así un *argumento*. La ilación puede, a su vez, ser *deductiva* (procediendo de premisas generales a conclusiones más específicas) o *inductiva* (procediendo de premisas específicas a conclusiones más generales). Pasaremos la mayoría de nuestro estudio de la lógica de la argumentación en el razonamiento deductivo, ya que este forma la columna vertebral de toda argumentación científica.[^pure-induction]
 
