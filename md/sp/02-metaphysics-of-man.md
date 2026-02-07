@@ -209,7 +209,6 @@ Por lo tanto, la aprehensión simple es lo que nos permite entender *quididades*
 
 Claramente, la aprehensión simple por sí misma nos deja con un conocimiento muy incompleto: aunque responde a la pregunta *qué*, por sí misma, la aprehensión no nos dice nada sobre el estado de cosas real. Volviendo a nuestro ejemplo, puedo usar el concepto «helado» para hacer una serie de proposiciones como las siguientes:
 
-* Esto (lo que tengo en mi mano) es helado.
 * El helado se está derritiendo.
 * El helado tiene sabor a chocolate.
 * Comí helado ayer.
@@ -220,18 +219,19 @@ Claramente, la aprehensión simple por sí misma nos deja con un conocimiento mu
 
 Sin embargo, supón que en lugar de eso, hago las siguientes afirmaciones:
 
-* Esto (lo que tengo en mi mano) no es helado.
 * El helado no se está derritiendo.
 * El helado no tiene sabor a chocolate.
 * No comí helado ayer.
 
 Como antes, he tomado dos conceptos, que pueden denominarse *sujeto* y *predicado*; sin embargo, esta vez, he *negado* el ser del predicado. Lógicamente hablando, en lugar de componer sujeto y predicado, los he *dividido* o *separado*.
 
-De la discusión anterior, creo que está claro por qué Aristóteles y Aquino llaman a esta operación *composición y división*, porque siempre toma dos conceptos ---un sujeto y un predicado--- y o bien los une o los separa. También puede denominarse el «juicio» (y esta fue la terminología preferida en el período moderno). Como la aprehensión simple, el juicio produce una obra que es inmanente al alma, que llamamos una *enunciación*. Así como los conceptos son representados por términos, las enunciaciones son representadas verbalmente como *proposiciones*, como las afirmaciones que hice anteriormente. Debe estar claro que solo después de hacer un juicio y producir una enunciación tiene sentido hablar de verdad y falsedad. Aquellas enunciaciones son verdaderas que corresponden a la realidad, e igualmente, aquellas que están en desacuerdo con la realidad son falsas. Es decir, si afirmo algo que realmente existe, entonces mi afirmación es verdadera; de manera similar, una enunciación que niega algo que no existe también es verdadera. Sin embargo, si afirmo algo inexistente, o niego algo que existe, mi enunciación es falsa. Una vez más, es el *producto* u *obra*, inmanente en el alma, que es el objeto de estudio de la lógica.
+De la discusión anterior, creo que está claro por qué Aristóteles y Aquino llaman a esta operación *composición y división*, porque siempre toma un sujeto y un predicado y o bien los une o los separa. También puede denominarse el «juicio» (y esta fue la terminología preferida en el período moderno). Como la aprehensión simple, el juicio produce una obra que es inmanente al alma, que llamamos una *enunciación*. Así como los conceptos son representados por términos, las enunciaciones son representadas verbalmente como *proposiciones*, como las afirmaciones que hice anteriormente. Debe estar claro que solo después de hacer un juicio y producir una enunciación tiene sentido hablar de verdad y falsedad. Aquellas enunciaciones son verdaderas que corresponden a la realidad, e igualmente, aquellas que están en desacuerdo con la realidad son falsas. Es decir, si afirmo algo que realmente existe, entonces mi afirmación es verdadera; de manera similar, una enunciación que niega algo que no existe también es verdadera. Sin embargo, si afirmo algo inexistente, o niego algo que existe, mi enunciación es falsa. Una vez más, es el *producto* u *obra*, inmanente en el alma, que es el objeto de estudio de la lógica.
 
 ### Raciocinio
 
-Cuando hacemos un juicio respecto al ser, podemos llegar a él de dos maneras: ya sea inmediatamente, simplemente viéndolo, o por la mediación de juicios que hemos hecho previamente. Por ejemplo, cualquier juicio que haga respecto a cosas que puedo verificar directamente con mis sentidos ---digamos, el hecho de que el pino fuera de mi ventana es verde--- es inmediato. El intelecto, por actos de aprehensión, genera los conceptos «pino» y «verde», y por medio de un juicio construye una relación de atribución entre ellos, produciendo así una enunciación: «El pino es verde». En otras palabras, producir esa enunciación no requiere nada excepto la aprehensión de esos conceptos y verificar que, de hecho, existen en la realidad. Supón, sin embargo, que habiendo aprendido sobre la biología de los pinos, hago la siguiente enunciación: «Los pinos son verdes porque los cloroplastos en las agujas de pino absorben predominantemente todas las longitudes de onda encontradas en la luz visible *excepto* el verde».[^composed-enunciation] No hay manera directa de verificar la existencia de cloroplastos, mucho menos el hecho de que tienden a absorber luz roja y azul más que luz verde. Llegar a esta conclusión requiere instrumentos altamente especializados y una base sólida en biología celular. En resumen, es imposible hacer un juicio respecto al ser de los cloroplastos sin un uso extensivo de *enunciaciones previamente establecidas*.
+Cuando hacemos un juicio respecto al ser, podemos llegar a él de dos maneras: ya sea inmediatamente, simplemente viéndolo, o por la mediación de juicios que hemos hecho previamente. Por ejemplo, cualquier juicio que haga respecto a cosas que puedo verificar directamente con mis sentidos ---digamos, el hecho de que el pino fuera de mi ventana es verde--- es inmediato. El intelecto, por actos de aprehensión, genera los conceptos «pino» y «verde», y por medio de un juicio construye una relación de atribución entre ellos, produciendo así una enunciación: «El pino es verde». En otras palabras, producir esa enunciación no requiere nada excepto la aprehensión de esos conceptos y verificar que, de hecho, existen en la realidad.
+
+Supón, sin embargo, que habiendo aprendido sobre la biología de los pinos, hago la siguiente enunciación: «Los pinos son verdes porque los cloroplastos en las agujas de pino absorben predominantemente todas las longitudes de onda encontradas en la luz visible *excepto* el verde».[^composed-enunciation] No hay manera directa de verificar la existencia de cloroplastos, mucho menos el hecho de que tienden a absorber luz roja y azul más que luz verde. Llegar a esta conclusión requiere instrumentos altamente especializados y una base sólida en biología celular. En resumen, es imposible hacer un juicio respecto al ser de los cloroplastos sin un uso extensivo de *enunciaciones previamente establecidas*.
 
 [^composed-enunciation]: Los lectores atentos notarán que esta enunciación, a diferencia de la primera, es en realidad una enunciación *compuesta* que incluye varias más simples unidas.
 
@@ -241,7 +241,7 @@ El proceso discursivo que usamos para hacer juicios que dependen de conocimiento
 > Juan es un *hombre*.
 > Por lo tanto, Juan es mortal.
 
-\noindent Por supuesto, el razonamiento hecho en la vida real involucrará una gran cantidad de argumentos, pero cada razonamiento puede descomponerse en argumentos simples como este, que, en su expresión verbal, se llama un *silogismo categórico*. Nota que el intelecto no está empleando una tercera operación, exactamente; todavía está usando la segunda operación, el juicio. Lo que cambia es meramente el medio que usa para llegar a su juicio sobre el ser: es decir, conocimiento previo, en oposición a evidencia directa.
+\noindent Por supuesto, el razonamiento hecho en la vida real involucrará una gran cantidad de argumentos, pero cada razonamiento puede descomponerse en argumentos simples como este, que, en su expresión verbal, se llama un *silogismo categórico*.
 
 \begin{table}[ht]
 \begin{center}
@@ -261,7 +261,5 @@ Aprehensión simple & & & Concepto & & \emph{Qué} es algo (quididad) \\
 \end{center}
 \end{table}
 
-La tabla \ref{tab:operations-and-works-of-reason} resume el papel de las dos operaciones del intelecto y las tres obras que producen.[^three-operations] Estas obras ---conceptos, enunciaciones y argumentos--- forman la base de las tres ramas de la lógica: lógica del concepto, lógica de la enunciación y lógica del argumento (o silogismo). En este punto, vale la pena reiterar: *la lógica estudia las obras de la razón, no sus operaciones*. Lo que estaremos discutiendo juntos son conceptos, enunciaciones y argumentos; no es nuestra tarea, en este curso, considerar la aprehensión y el juicio, excepto en la medida en que estos son la *causa* de las obras. De hecho, estas obras forman el *objeto* ---o, como aprenderemos a llamarlo, el *objeto material* de la lógica. Discutiremos el objeto de la lógica en detalle en el siguiente capítulo.
-
-[^three-operations]: Según algunos libros de texto de lógica, hay *tres* operaciones del intelecto: aprehensión, juicio y razonamiento. En mi opinión, esto no es enteramente correcto. Es mejor decir que hay dos operaciones: aprehensión y juicio. Sin embargo, para llegar a algunos juicios, deben emplearse argumentos.
+La tabla \ref{tab:operations-and-works-of-reason} resume el papel de las dos operaciones del intelecto y las tres obras que producen. Estas obras ---conceptos, enunciaciones y argumentos--- forman la base de las tres ramas de la lógica: lógica del concepto, lógica de la enunciación y lógica del argumento (o silogismo). En este punto, vale la pena reiterar: *la lógica estudia las obras de la razón, no sus operaciones*. Lo que estaremos discutiendo juntos son conceptos, enunciaciones y argumentos; no es nuestra tarea, en este curso, considerar la aprehensión y el juicio, excepto en la medida en que estos son la *causa* de las obras. De hecho, estas obras forman el *objeto* ---o, como aprenderemos a llamarlo, el *objeto material* de la lógica. Discutiremos el objeto de la lógica en detalle en el siguiente capítulo.
 
