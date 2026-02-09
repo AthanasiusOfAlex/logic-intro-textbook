@@ -1,6 +1,6 @@
 # The Definition of Logic
 
-In this chapter, we will come to a detailed understanding of the definition of logic, and thus we will finally be in a position to answer the question *What is logic?* definitively. I will go ahead and state the definition here, but, of course, we will explain each part of it in detail:
+In this chapter, we will come to a detailed understanding of the definition of logic, and thus we will finally be in a position to answer the question *What is **logic**?* definitively. I will go ahead and state the definition here, but, of course, we will explain each part of it in detail:
 
 > Logic is the instrumentally speculative and modally practical science whose material object is the works of reason, whose formal object *quod* is the relations of reason constructed between second-order intentions, and whose formal object *quo* is the light of the first principles of reason.
 
@@ -219,7 +219,7 @@ In summary: a first-order intention is concept that refers directly to a reality
 
 We are finally in a position to understand the formal object *quod* of logic:
 
-> the relations of reason constructed between second-order intentions
+> the relations of reason between second-order intentions
 
 \noindent In short, *logic in itself does not study realities that are outside the soul*. Instead, it *studies the works of reason as such*, and as a consequence, we will be employing second-order intentions. Logic does not concern itself with the density of gold—that is for chemistry. However, it does concern itself with the fact that in the proposition, "Gold has a density of 19.3 g/cm\textsuperscript{3}," the concept *gold* is a species, it functions as the subject of the enunciation, and a predicate (density of a certain magnitude) is attributed to it as a property. As the example demonstrates, logic deals specifically with the relations of reason that the intellect constructs from one second-order intention to another (e.g., the relation of reason that makes *gold* the subject with respect to *density of 19.3 g/cm\textsuperscript{3}*, and the reciprocal relation that makes *density of 19.3 g/cm\textsuperscript{3}* the predicate of *gold*).
 
@@ -257,13 +257,13 @@ Therefore, to summarize what we have learned so far:
 
  * The material object of logic is the works of reason. Logic concerns itself as such with concepts, enunciations, and arguments: the fruit of the operations of our intellect. It bears reiterating: *logic studies the* works *of reason, not the operations of reason*.
  
- * The formal object *quod* of logic—that specific aspect of the material object that logic is concerned with—is the relations of reason that can be constructed between second-order intentions. Logic looks reflexively on the works of reason, and tells us how they are to be ordered if we are to acquire true and certain knowledge. It is all the other sciences—metaphysics, mathematics, physics, chemistry, biology, economics, astronomy, and so on—that deal with *first* intentions.
+ * The formal object *quod* of logic—that specific aspect of the material object that logic is concerned with—is the relations of reason constructed between second-order intentions. Logic looks reflexively on the works of reason, and tells us how they are to be ordered if we are to acquire true and certain knowledge. It is all the other sciences—metaphysics, mathematics, physics, chemistry, biology, economics, astronomy, and so on—that deal with *first* intentions.
 
  * Finally, what permits us to use our reason in a logical fashion (what we called natural logic), and then to study the works of reason (what we called scientific logic), is the first principles of natural reason. Thus, we say that the formal object *quo* of logic is the light of the first principles.
  
  In short,
  
- > Logic is the instrumentally speculative and modally practical science whose material object is the works of reason, whose formal object *quod* is the second-intention relations of reason constructed between those works, and whose formal object *quo* is the light of the first principles of reason.
+ > Logic is the instrumentally speculative and modally practical science whose material object is the works of reason, whose formal object *quod* is the relations of reason constructed between second-order intentions, and whose formal object *quo* is the light of the first principles of reason.
 
 ## The Divisions of Logic
 

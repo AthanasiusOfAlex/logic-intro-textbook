@@ -261,13 +261,13 @@ Por lo tanto, para resumir lo que hemos aprendido hasta ahora:
 
  * El objeto material de la lógica son las obras de la razón. La lógica se ocupa como tal de conceptos, enunciaciones, y argumentos: el fruto de las operaciones de nuestro intelecto. Vale la pena reiterar: *la lógica estudia las* obras *de la razón, no las operaciones de la razón*.
 
- * El objeto formal *quod* de la lógica ---ese aspecto específico del objeto material que le concierne a la lógica--- son las relaciones de razón que pueden ser construidas entre intenciones de segundo orden. La lógica mira reflexivamente sobre las obras de la razón, y nos dice cómo deben ser ordenadas si vamos a adquirir conocimiento verdadero y cierto. Son todas las demás ciencias ---metafísica, matemáticas, física, química, biología, economía, astronomía, y así sucesivamente--- las que tratan con intenciones de *primer* orden.
+ * El objeto formal *quod* de la lógica ---ese aspecto específico del objeto material que le concierne a la lógica--- son las relaciones de razón construidas entre intenciones de segundo orden. La lógica mira reflexivamente sobre las obras de la razón, y nos dice cómo deben ser ordenadas si vamos a adquirir conocimiento verdadero y cierto. Son todas las demás ciencias ---metafísica, matemáticas, física, química, biología, economía, astronomía, y así sucesivamente--- las que tratan con intenciones de *primer* orden.
 
  * Finalmente, lo que nos permite usar nuestra razón de manera lógica (lo que llamamos lógica natural), y luego estudiar las obras de la razón (lo que llamamos lógica científica), son los primeros principios de la razón natural. Así, decimos que el objeto formal *quo* de la lógica es la luz de los primeros principios.
 
  En breve,
 
- > La lógica es la ciencia instrumentalmente especulativa y modalmente práctica cuyo objeto material son las obras de la razón, cuyo objeto formal *quod* son las relaciones de razón de segundo orden construidas entre esas obras, y cuyo objeto formal *quo* es la luz de los primeros principios de la razón.
+ > La lógica es la ciencia instrumentalmente especulativa y modalmente práctica cuyo objeto material son las obras de la razón, cuyo objeto formal *quod* son las relaciones de razón construidas entre intenciones de segundo orden, y cuyo objeto formal *quo* es la luz de los primeros principios de la razón.
 
 ## Las Divisiones de la Lógica
 

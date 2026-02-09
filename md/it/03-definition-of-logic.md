@@ -2,7 +2,7 @@
 
 In questo capitolo arriveremo a una comprensione dettagliata della definizione di logica, e quindi saremo finalmente in grado di rispondere definitivamente alla domanda *Cos'è la logica?*. Andrò avanti e ne esporrò la definizione in questa sede, ma, naturalmente, ne spiegheremo ogni parte in modo dettagliato:
 
-> La logica è la scienza strumentalmente speculativa e modalmente pratica che ha per oggetto materiale le opere della ragione, le relazioni di ragione costruite tra le intenzioni seconde, e per oggetto formale quo la luce dei primi principi della ragione.
+> La logica è la scienza strumentalmente speculativa e modalmente pratica che ha per oggetto materiale le opere della ragione, per oggetto formale quod le relazioni di ragione costruite tra intenzioni seconde, e per oggetto formale quo la luce dei primi principi della ragione.
 
 Abbiamo già preparato il terreno necessario. Infatti, dovreste già essere in grado di spiegare cosa significa per la logica essere una scienza *strumentalmente speculativa e modalmente pratica*. Alla fine di questo capitolo, dovreste avere una buona comprensione di cosa sia effettivamente la logica.
 
@@ -258,13 +258,13 @@ Quindi, per riassumere ciò che abbiamo imparato finora:
 
  * L'oggetto materiale della logica sono le opere della ragione. La logica si occupa in quanto tale di concetti, enunciazioni e argomenti: i frutti delle operazioni del nostro intelletto. È necessario ribadirlo: *la logica studia le* opere *della ragione, non le operazioni della ragione*.
  
- * L'oggetto formale *quod* della logica --- quell'aspetto specifico dell'oggetto materiale di cui si occupa la logica --- sono le relazioni di ragione che si possono costruire tra le seconde intenzioni. La logica guarda con riflessività alle opere della ragione, e ci dice come devono essere ordinate se vogliamo acquisire una conoscenza vera e certa. Sono tutte le altre scienze --- la metafisica, la matematica, la fisica, la chimica, la chimica, la biologia, l'economia, l'astronomia e così via --- che hanno a che fare con le *prime intenzioni*.
+ * L'oggetto formale *quod* della logica --- quell'aspetto specifico dell'oggetto materiale di cui si occupa la logica --- sono le relazioni di ragione che costruite tra le seconde intenzioni. La logica guarda con riflessività alle opere della ragione, e ci dice come devono essere ordinate se vogliamo acquisire una conoscenza vera e certa. Sono tutte le altre scienze --- la metafisica, la matematica, la fisica, la chimica, la chimica, la biologia, l'economia, l'astronomia e così via --- che hanno a che fare con le *prime intenzioni*.
 
  * Infine, ciò che ci permette di usare la nostra ragione in modo logico (ciò che abbiamo chiamato logica naturale), e poi di studiare le opere della ragione (ciò che abbiamo chiamato logica scientifica), sono i primi principi della ragione naturale. Diciamo quindi che l'oggetto formale *quo* della logica è la luce dei primi principi.
  
 In sintesi,
  
-> La logica è la scienza strumentalmente speculativa e modalmente pratica che ha per oggetto materiale le opere della ragione, per oggetto formale quod le relazioni di ragione di seconda intenzione costruite tra queste opere, e per oggetto formale quo la luce dei primi principi della ragione.
+> La logica è la scienza strumentalmente speculativa e modalmente pratica che ha per oggetto materiale le opere della ragione, per oggetto formale quod le relazioni di ragione costruite tra intenzioni seconde, e per oggetto formale quo la luce dei primi principi della ragione.
 
 ## Le divisioni della logica
 
