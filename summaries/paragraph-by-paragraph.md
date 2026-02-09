@@ -424,7 +424,7 @@ The formal object quod of logic is the relations of reason that can be construct
 
 What permits us to use our reason in a logical fashion (natural logic) and then to study the works of reason (scientific logic) is the first principles of natural reason. The formal object quo of logic is the light of the first principles.
 
-Logic is the instrumentally speculative and modally practical science whose material object is the works of reason, whose formal object quod is the second-intention relations of reason constructed between those works, and whose formal object quo is the light of the first principles of reason.
+Logic is the instrumentally speculative and modally practical science whose material object is the works of reason, whose formal object quod is the relations of reason constructed between second-order intentions, and whose formal object quo is the light of the first principles of reason.
 
 ## The Divisions of Logic
 

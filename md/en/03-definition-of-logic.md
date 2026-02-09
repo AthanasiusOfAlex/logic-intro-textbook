@@ -219,7 +219,7 @@ In summary: a first-order intention is concept that refers directly to a reality
 
 We are finally in a position to understand the formal object *quod* of logic:
 
-> the relations of reason between second-order intentions
+> the relations of reason constructed between second-order intentions
 
 \noindent In short, *logic in itself does not study realities that are outside the soul*. Instead, it *studies the works of reason as such*, and as a consequence, we will be employing second-order intentions. Logic does not concern itself with the density of gold—that is for chemistry. However, it does concern itself with the fact that in the proposition, "Gold has a density of 19.3 g/cm\textsuperscript{3}," the concept *gold* is a species, it functions as the subject of the enunciation, and a predicate (density of a certain magnitude) is attributed to it as a property. As the example demonstrates, logic deals specifically with the relations of reason that the intellect constructs from one second-order intention to another (e.g., the relation of reason that makes *gold* the subject with respect to *density of 19.3 g/cm\textsuperscript{3}*, and the reciprocal relation that makes *density of 19.3 g/cm\textsuperscript{3}* the predicate of *gold*).
 
