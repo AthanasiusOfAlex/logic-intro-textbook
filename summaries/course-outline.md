@@ -73,7 +73,7 @@ Los alumnos serán capaces de:
 
 Los alumnos serán capaces de:
 
-1. Distinguir entre objeto material, objeto formal quod y objeto formal quo para analizar cualquier facultad o habitus científico.
+1. Distinguir entre objeto material, objeto formal *quod* y objeto formal *quo* para analizar cualquier facultad o *habitus*.
 
 2. Identificar las obras de la razón (conceptos, enunciaciones, argumentos) como el objeto material de la lógica para delimitar lo que la lógica estudia.
 
@@ -81,7 +81,7 @@ Los alumnos serán capaces de:
 
 4. Contrastar intenciones de primer orden con intenciones de segundo orden para reconocer el carácter reflexivo del estudio lógico.
 
-5. Explicar qué son los entes de razón (entia rationis) y clasificar sus tipos para comprender los constructos que la razón trata como si fueran entes.
+5. Explicar qué son los entes de razón (*entia rationis*) y clasificarlos para comprender los constructos que la razón trata como si fueran entes.
 
 6. Formular la definición completa de la lógica especificando sus objetos material, formal quod y formal quo para sintetizar de manera precisa la naturaleza de esta ciencia.
 
