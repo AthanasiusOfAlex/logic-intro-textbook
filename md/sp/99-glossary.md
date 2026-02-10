@@ -100,7 +100,7 @@
 
 **fundamento** (de una relación). El criterio o aspecto en el que se basa una relación entre su sujeto y su objeto.
 
-**intencionalidad**. La relación real entre el conocedor y la cosa conocida a través de un concepto, cuyo fundamento es la operación de aprehensión.
+**similitud intencional**. La relación de razón entre un concepto y la cosa conocida a través de él, cuyo fundamento es la operación de aprehensión.
 
 **intención** (en el ámbito de la lógica). Un concepto considerado desde el punto de vista de la intencionalidad, es decir, en cuanto se refiere a algo conocido.
 

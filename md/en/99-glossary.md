@@ -100,7 +100,7 @@
 
 **foundation** (of a relation). The criterion or aspect on which a relation between its subject and its object is based.
 
-**intentionality**. The relation of reason between a concept and the thing known through it, whose foundation is the operation of apprehension.
+**intentional similitude**. The relation of reason between a concept and the thing known through it, whose foundation is the operation of apprehension.
 
 **intention** (in the domain of logic). A concept considered from the standpoint of intentionality, that is, insofar as it refers to something known.
 

@@ -100,7 +100,7 @@
 
 **fondamento** (di una relazione). Il criterio o aspetto su cui si basa una relazione tra il suo soggetto e il suo oggetto.
 
-**intenzionalità**. La relazione di ragione tra un concetto e la cosa conosciuta attraverso di esso, il cui fondamento è l'operazione di apprensione.
+**similitudine intenzionale**. La relazione di ragione tra un concetto e la cosa conosciuta attraverso di esso, il cui fondamento è l'operazione di apprensione.
 
 **intenzione** (nell'ambito della logica). Un concetto considerato dal punto di vista dell'intenzionalità, cioè in quanto si riferisce a qualcosa di conosciuto.
 
