@@ -23,6 +23,41 @@ La unidad explora sistemáticamente cada aspecto del objeto de la lógica. Los e
     - Enumerar las tres divisiones principales de la lógica (del concepto, de la enunciación, del argumento) para organizar el estudio sistemático de las obras de la razón.
     - Distinguir entre lógica formal (menor) y lógica material (mayor) para comprender las condiciones formales y materiales necesarias para alcanzar la verdad.
 - *Palabras clave y definiciones*
+
+    **objeto material**. El ente o campo de estudio de una ciencia o facultad, considerado de manera indeterminada.
+
+    **objeto formal *quod***. El aspecto específico del objeto material que entra dentro del ámbito de una ciencia o facultad determinada.
+
+    **objeto formal *quo***. El método o las condiciones por las cuales una ciencia o facultad accede a su objeto.
+
+    **relación real** (**relación predicamental**). Una perfección real de una substancia que consiste en una referencia a otra substancia.
+
+    **relación de razón**. Una relación que no existe en la realidad, sino solo en el intelecto.
+
+    **fundamento** (de una relación). El criterio o aspecto en el que se basa una relación entre su sujeto y su objeto.
+
+    **intencionalidad**. La relación de razón entre un concepto y la cosa conocida a través de él, cuyo fundamento es la operación de aprehensión.
+
+    **intención** (en el ámbito de la lógica). Un concepto considerado desde el punto de vista de la intencionalidad, es decir, en cuanto se refiere a algo conocido.
+
+    **intención de primer orden**. Una intención cuyo objeto es un ente real.
+
+    **intención de segundo orden**. Una intención cuyo objeto es una obra del intelecto (concepto, enunciación o argumento).
+
+    **ente de razón** (***ens rationis***). Un constructo que la razón trata como si fuera un ente, pero que no posee existencia real fuera del intelecto.
+
+    **predicabilidad**. La relación de razón que denota la manera en que un predicado se atribuye a su sujeto.
+
+    **atribución** (o **predicación**). La relación de razón que denota la composición actual del predicado con el sujeto o su separación de él.
+
+    **ilación**. La relación de razón que denota la consecuencia lógica, es decir, la dependencia de una conclusión respecto a sus premisas.
+
+    ***habitus* de los primeros principios**. El *habitus* intelectual por el cual conocemos los principios evidentes por sí mismos, sin necesidad de enseñanza, por el mero ejercicio del intelecto.
+
+    **lógica formal** (**lógica menor**). La rama de la lógica que estudia las condiciones formales para la corrección de las obras de la razón, prescindiendo del contenido concreto.
+
+    **lógica material** (**lógica mayor**). La rama de la lógica que estudia las condiciones materiales —es decir, las condiciones que dependen del contenido— bajo las cuales se forman conceptos y se garantiza la verdad de las conclusiones.
+
 - *1.3.1 El objeto es aquello hacia lo cual se dirige un poder (como el intelecto),* habitus *o acción.*
     
     Por «objeto» se entiende aquello hacia lo que se dirige un poder, un *habitus* o una operación. Por ejemplo, el sentido de la vista —un poder— tiene como objeto el ente material en cuanto está coloreado.
@@ -260,7 +295,6 @@ La unidad explora sistemáticamente cada aspecto del objeto de la lógica. Los e
 
 ---
 
-**Cierre al subtema:**
+**Cierre al subtema:** Dos párrafos de cierre para el subtema, donde se evidencie la importancia de aprenderlos y se resalte su importancia para la compresión del siguiente subtema.
 
-Con este subtema, el estudiante ha adquirido la herramienta conceptual más importante para el resto del curso: la definición completa y rigurosa de la lógica. La distinción tripartita del objeto —material, formal *quod* y formal *quo*— no solo permite comprender qué es la lógica, sino que proporciona un método general para analizar cualquier ciencia o *habitus* intelectual. Comprender que la lógica no estudia directamente las cosas del mundo, sino las obras del intelecto bajo el aspecto de las relaciones de razón entre intenciones de segundo orden, sitúa al estudiante en una posición privilegiada: la de quien entiende por qué la lógica es una ciencia reflexiva e instrumental, y por qué su dominio es condición indispensable para el ejercicio correcto de todas las demás ciencias.
-
+Con este subtema, hemos adquirido la herramienta la meta principal de esta unidad: la definición completa y rigurosa de la lógica. La distinción tripartita del objeto —material, formal *quod* y formal *quo*— no solo permite comprender qué es la lógica, sino que proporciona un método general para analizar *habitus* intelectual. Tener presente esta definición nos ayudará en nuestra exploración de las tres grandes ramas de la lógica: la lógica del concepto, la lógica de la enunciación y la lógica del argumento.
