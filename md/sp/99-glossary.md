@@ -38,13 +38,13 @@
 
 **ente**. Cualquier realidad que existe, *id quod est* (lo que es), *id quod habet esse* (lo que posee el ser).
 
-**substancia**. Un ente que subsiste, es decir, posee el ser en sí y por sí.
+**sustancia**. Un ente que subsiste, es decir, posee el ser en sí y por sí.
 
-**accidente**. Un ente que inhiere en una substancia, como perfección de ella.
+**accidente**. Un ente que inhiere en una sustancia, como perfección de ella.
 
-**supuesto** (***suppositum***). Una substancia en cuanto es sujeto individual subsistente.
+**supuesto** (***suppositum***). Una sustancia en cuanto es sujeto individual subsistente.
 
-**facultad** o **poder**. La capacidad inherente en una substancia de realizar una determinada especie de operación.
+**facultad** o **poder**. La capacidad inherente en una sustancia de realizar una determinada especie de operación.
 
 **operación**. Una acción realizada.
 
@@ -54,7 +54,7 @@
 
 ***habitus* operativo**. Un *habitus* ordenado a la operación, que perfecciona o deforma una facultad, disponiéndola a actuar bien o mal.
 
-***habitus* entitativo**. Un *habitus* que no está ordenado inmediatamente a la operación, sino que produce un estado de ser en la substancia.
+***habitus* entitativo**. Un *habitus* que no está ordenado inmediatamente a la operación, sino que produce un estado de ser en la sustancia.
 
 **virtud**. Un *habitus* operativo bueno, que dispone establemente al sujeto a actuar bien.
 
@@ -94,13 +94,13 @@
 
 **objeto formal *quo***. El método o las condiciones por las cuales una ciencia o facultad accede a su objeto.
 
-**relación real** (**relación predicamental**). Una perfección real de una substancia que consiste en una referencia a otra substancia.
+**relación real** (**relación predicamental**). Una perfección real de una sustancia que consiste en una referencia a otra sustancia.
 
 **relación de razón**. Una relación que no existe en la realidad, sino solo en el intelecto.
 
 **fundamento** (de una relación). El criterio o aspecto en el que se basa una relación entre su sujeto y su objeto.
 
-**intencionalidad**. La relación de razón entre un concepto y la cosa conocida a través de él, cuyo fundamento es la operación de aprehensión.
+**intencionalidad**. La relación real entre el conocedor y la cosa conocida a través de un concepto, cuyo fundamento es la operación de aprehensión.
 
 **intención** (en el ámbito de la lógica). Un concepto considerado desde el punto de vista de la intencionalidad, es decir, en cuanto se refiere a algo conocido.
 
