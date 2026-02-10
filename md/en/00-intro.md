@@ -1,7 +1,7 @@
 ---
 title: Analytic Introduction to Logic
 author: Louis Melahn, L.C.
-date: December 11, 2024
+date: February 10, 2026
 documentclass: memoir
 classoption:
 - oneside
@@ -19,6 +19,6 @@ We will divide this introduction into three chapters: first, an introduction to 
 
 \vfill
 
-\noindent\copyright 2024 Louis Melahn, L.C.  
-This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).
+\noindent© 2026 Louis Melahn, L.C.  
+This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/deed.en).
 

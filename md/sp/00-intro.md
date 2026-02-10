@@ -1,7 +1,7 @@
 ---
 title: Introducción analítica a la lógica
-author: Louis Melahn, L.C.  
-date: 11 de diciembre de 2024
+author: Louis Melahn, L.C.
+date: 10 de febrero de 2026
 documentclass: memoir
 classoption:
 - oneside
@@ -19,6 +19,6 @@ Dividiremos esta introducción en tres capítulos: primero, una introducción a 
 
 \vfill
 
-\noindent\copyright 2024 Louis Melahn, L.C.  
-Esta obra está licenciada bajo una [Licencia Creative Commons Reconocimiento-SinDerivados 4.0 Internacional](http://creativecommons.org/licenses/by-nd/4.0/).
+\noindent© 2026 Louis Melahn, L.C.  
+Esta obra está licenciada bajo una [Licencia Creative Commons Atribución/Reconocimiento-SinDerivados 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/deed.es).
 
