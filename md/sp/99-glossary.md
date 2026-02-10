@@ -85,3 +85,39 @@
 **argumento inteligible**. El producto u obra del raciocinio.
 
 **silogismo**. La expresión lingüística del argumento inteligible.
+
+## La definición de la lógica {-}
+
+**objeto material**. El ente o campo de estudio de una ciencia o facultad, considerado de manera indeterminada.
+
+**objeto formal *quod***. El aspecto específico del objeto material que entra dentro del ámbito de una ciencia o facultad determinada.
+
+**objeto formal *quo***. El método o las condiciones por las cuales una ciencia o facultad accede a su objeto.
+
+**relación real** (**relación predicamental**). Una perfección real de una substancia que consiste en una referencia a otra substancia.
+
+**relación de razón**. Una relación que no existe en la realidad, sino solo en el intelecto.
+
+**fundamento** (de una relación). El criterio o aspecto en el que se basa una relación entre su sujeto y su objeto.
+
+**intencionalidad**. La relación de razón entre un concepto y la cosa conocida a través de él, cuyo fundamento es la operación de aprehensión.
+
+**intención** (en el ámbito de la lógica). Un concepto considerado desde el punto de vista de la intencionalidad, es decir, en cuanto se refiere a algo conocido.
+
+**intención de primer orden**. Una intención cuyo objeto es un ente real.
+
+**intención de segundo orden**. Una intención cuyo objeto es una obra del intelecto (concepto, enunciación o argumento).
+
+**ente de razón** (***ens rationis***). Un constructo que la razón trata como si fuera un ente, pero que no posee existencia real fuera del intelecto.
+
+**predicabilidad**. La relación de razón que denota la manera en que un predicado se atribuye a su sujeto.
+
+**atribución** (o **predicación**). La relación de razón que denota la composición actual del predicado con el sujeto o su separación de él.
+
+**ilación**. La relación de razón que denota la consecuencia lógica, es decir, la dependencia de una conclusión respecto a sus premisas.
+
+***habitus* de los primeros principios**. El *habitus* intelectual por el cual conocemos los principios evidentes por sí mismos, sin necesidad de enseñanza, por el mero ejercicio del intelecto.
+
+**lógica formal** (**lógica menor**). La rama de la lógica que estudia las condiciones formales para la corrección de las obras de la razón, prescindiendo del contenido concreto.
+
+**lógica material** (**lógica mayor**). La rama de la lógica que estudia las condiciones materiales ---es decir, las condiciones que dependen del contenido--- bajo las cuales se forman conceptos y se garantiza la verdad de las conclusiones.

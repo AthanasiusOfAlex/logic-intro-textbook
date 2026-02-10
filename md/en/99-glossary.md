@@ -86,3 +86,39 @@
 
 **syllogism**. The linguistic expression of an intelligible argument.
 
+## The Definition of Logic {-}
+
+**material object**. The entity or field of study of a science or faculty, considered in an indeterminate way.
+
+**formal object *quod***. The specific aspect of the material object that falls within the scope of a given science or faculty.
+
+**formal object *quo***. The method or conditions by which a science or faculty accesses its object.
+
+**real relation** (**predicamental relation**). A real perfection of a substance consisting in a reference to another substance.
+
+**relation of reason**. A relation that does not exist in reality, but only in the intellect.
+
+**foundation** (of a relation). The criterion or aspect on which a relation between its subject and its object is based.
+
+**intentionality**. The relation of reason between a concept and the thing known through it, whose foundation is the operation of apprehension.
+
+**intention** (in the domain of logic). A concept considered from the standpoint of intentionality, that is, insofar as it refers to something known.
+
+**first intention**. An intention whose object is a real entity.
+
+**second intention**. An intention whose object is a work of the intellect (concept, enunciation, or argument).
+
+**being of reason** (***ens rationis***). A construct that reason treats as though it were an entity, but which possesses no real existence outside the intellect.
+
+**predicability**. The relation of reason denoting the manner in which a predicate is attributed to its subject.
+
+**attribution** (or **predication**). The relation of reason denoting the actual composition of the predicate with the subject or its separation from it.
+
+**illation**. The relation of reason denoting logical consequence, that is, the dependence of a conclusion on its premises.
+
+***habitus* of first principles**. The intellectual *habitus* by which we know self-evident principles, without need of instruction, by the mere exercise of the intellect.
+
+**formal logic** (**minor logic**). The branch of logic that studies the formal conditions for the correctness of the works of reason, abstracting from concrete content.
+
+**material logic** (**major logic**). The branch of logic that studies the material conditions---that is, the conditions that depend on content---under which concepts are formed and the truth of conclusions is guaranteed.
+

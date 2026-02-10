@@ -86,3 +86,39 @@
 
 **sillogismo**. L'espressione linguistica dell'argomento intelligibile.
 
+## La definizione della logica {-}
+
+**oggetto materiale**. L'ente o campo di studio di una scienza o facoltà, considerato in modo indeterminato.
+
+**oggetto formale *quod***. L'aspetto specifico dell'oggetto materiale che rientra nell'ambito di una scienza o facoltà determinata.
+
+**oggetto formale *quo***. Il metodo o le condizioni per le quali una scienza o facoltà accede al suo oggetto.
+
+**relazione reale** (**relazione predicamentale**). Una perfezione reale di una sostanza che consiste in un riferimento a un'altra sostanza.
+
+**relazione di ragione**. Una relazione che non esiste nella realtà, ma solo nell'intelletto.
+
+**fondamento** (di una relazione). Il criterio o aspetto su cui si basa una relazione tra il suo soggetto e il suo oggetto.
+
+**intenzionalità**. La relazione di ragione tra un concetto e la cosa conosciuta attraverso di esso, il cui fondamento è l'operazione di apprensione.
+
+**intenzione** (nell'ambito della logica). Un concetto considerato dal punto di vista dell'intenzionalità, cioè in quanto si riferisce a qualcosa di conosciuto.
+
+**intenzione di primo ordine**. Un'intenzione il cui oggetto è un ente reale.
+
+**intenzione di secondo ordine**. Un'intenzione il cui oggetto è un'opera dell'intelletto (concetto, enunciazione o argomento).
+
+**ente di ragione** (***ens rationis***). Un costrutto che la ragione tratta come se fosse un ente, ma che non possiede esistenza reale al di fuori dell'intelletto.
+
+**predicabilità**. La relazione di ragione che denota il modo in cui un predicato si attribuisce al suo soggetto.
+
+**attribuzione** (o **predicazione**). La relazione di ragione che denota la composizione attuale del predicato con il soggetto o la sua separazione da esso.
+
+**illazione**. La relazione di ragione che denota la conseguenza logica, cioè la dipendenza di una conclusione rispetto alle sue premesse.
+
+***habitus* dei primi principi**. L'*habitus* intellettuale per il quale conosciamo i principi evidenti per sé stessi, senza necessità di insegnamento, per il mero esercizio dell'intelletto.
+
+**logica formale** (**logica minore**). Il ramo della logica che studia le condizioni formali per la correttezza delle opere della ragione, prescindendo dal contenuto concreto.
+
+**logica materiale** (**logica maggiore**). Il ramo della logica che studia le condizioni materiali ---cioè le condizioni che dipendono dal contenuto--- sotto le quali si formano concetti e si garantisce la verità delle conclusioni.
+
