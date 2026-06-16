@@ -36,7 +36,7 @@ Aunque la búsqueda de causas es lo que distingue la ciencia de la opinión, Ari
 
 [^certain]: Como señala Aristóteles en el texto citado anteriormente, al buscar las causas de un fenómeno, todo el propósito es asegurar que «no cabe que sea de otra manera» (*SA* I.2, 71b11), y como consecuencia, tal conocimiento está libre de error.
 
-[^necessary]: Véase *SA* I.2, 71b14--15: «aquello de lo que hay ciencia sin más es imposible que se comporte de otra manera».
+[^necessary]: Véase *SA* I.2, 71b14--16: «aquello de lo que hay ciencia sin más es imposible que se comporte de otra manera».
 
 [^universal]: Véase *SA* I.11, 77a5--9: «Así, pues, no es necesario que las especies o un cierto uno existan al margen de las múltiples cosas para que haya demostración, pero sí es necesario que sea verdadero decir lo uno acerca de las múltiples cosas, pues no existiría lo universal si ello no fuera \<así\>; y si no existiera lo universal, no habría \<término\> medio, de modo que tampoco demostración».
 

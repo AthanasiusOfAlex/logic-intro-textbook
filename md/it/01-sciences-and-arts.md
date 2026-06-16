@@ -36,7 +36,7 @@ Sebbene la ricerca delle cause sia ciò che distingue la scienza dall'opinione, 
 
 [^certain]: Come sottolinea Aristotele nel testo sopra citato, cercando le cause di un fenomeno, l'intero scopo è quello di assicurare «che all'oggetto non possa accadere di comportarsi diversamente» (*AS* I.2, 71b11), e, di conseguenza, tale conoscenza è esente da errori.
 
-[^necessary]: Cf. *AS* I.2, 71b14—15: «Di conseguenza, è impossibile che l'oggetto di scienza assoluta si comporti diversamente».
+[^necessary]: Cf. *AS* I.2, 71b14--16: «Di conseguenza, è impossibile che l'oggetto di scienza assoluta si comporti diversamente».
 
 [^universal]: Cf. *AS* I.11, 77a5-9: «Se ha da esservi dimostrazione, non è necessario che vi siano le idee, o che sussista un oggetto unico, al di la della molteplicità, ma deve dirsi necessariamente secondo verità che una sola determinazione si riferisce a molti oggetti».
 

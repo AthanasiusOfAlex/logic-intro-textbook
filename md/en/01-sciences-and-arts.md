@@ -36,7 +36,7 @@ Although the seeking of causes is what distinguishes science from opinion, Arist
 
 [^certain]: As Aristotle points out in the text cited above, by seeking the causes of a phenomenon, the whole purpose is to ensure that "the fact could not be other than it is"  (*PA* I.2, 71b11), and as a consequence, such knowledge is free from error.
 
-[^necessary]: See *PA* I.2, 71b14---15: "Consequently the proper object of unqualified scientific knowledge is something which cannot be other than it is."
+[^necessary]: See *PA* I.2, 71b14---16: "Consequently the proper object of unqualified scientific knowledge is something which cannot be other than it is."
 
 [^universal]: See *PA* I.11, 77a5-9: "So demonstration does not necessarily imply the being of Forms nor a One beside a Many, but it does necessarily imply the possibility of truly predicating one of many; since without this possibility we cannot save the universal, and if the universal goes, the middle term goes with it, and so demonstration becomes impossible. We conclude, then, that there must be a single identical term unequivocally predicable of a number of individuals."
 
